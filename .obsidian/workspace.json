@@ -4,26 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "b642008de68ce03a",
+        "id": "51b1e2093cc02c62",
         "type": "tabs",
         "children": [
           {
-            "id": "e18a2945cd59b3b6",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Aanghakan/images/map-00.png"
-              }
-            }
-          },
-          {
-            "id": "6a3fe794e816682f",
+            "id": "6a0e7d2406a0860b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Locations/Thunderpeak/Thunderpeak-Quests.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e828e92949bf32d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Cult of the Abyssal Serpent/Cult of the abyssal serpent.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,6 +91,7 @@
       {
         "id": "2fc17ff77e62e329",
         "type": "tabs",
+        "dimension": 75.49019607843137,
         "children": [
           {
             "id": "3fcd2cc15ed23865",
@@ -96,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "Factions/Cult of the Abyssal Serpent/Cult of the abyssal serpent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "Factions/Cult of the Abyssal Serpent/Cult of the abyssal serpent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +129,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -136,15 +139,39 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "Factions/Cult of the Abyssal Serpent/Cult of the abyssal serpent.md"
               }
+            }
+          },
+          {
+            "id": "4874b01ad784a43a",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "d02568bb13dba9ce",
+        "type": "tabs",
+        "dimension": 24.50980392156863,
+        "children": [
+          {
+            "id": "4501854bed7c6435",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -154,21 +181,47 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "6a3fe794e816682f",
+  "active": "6e6eba127e74b72d",
   "lastOpenFiles": [
-    "Aanghakan/images/map-00.png",
-    "Readme.md",
-    "Aanghakan/images/Aanghakan.png",
-    "Thunderpeak/Thunderpeak.md",
+    "Factions/Cult of the Abyssal Serpent",
+    "Factions",
+    "Locations",
+    "Aanghakan/Aanghakan- Brainstorming.md",
+    "Locations/Thunderpeak/Thunderpeak.md",
+    "Locations/Thunderpeak/Thunderpeak-Quests.md",
+    "Locations/Thunderpeak/Thunderpeak-Characters.md",
+    "Locations/Thunderpeak/images/Thunderpeak-00.png",
+    "Locations/Thunderpeak/images",
     "Aanghakan/Aanghakan.md",
-    "Thunderpeak/Character/Balin Stonehelm.md",
-    "Thunderpeak/Character/Bifur, Bofur, and Bombur.md",
-    "map.md",
-    "Thunderpeak/Character/Thorin Oakenshield.md",
-    "Thunderpeak/Character/Thrain Ironfist (deceased).md",
+    "Aanghakan/images/Aanghakan.png",
+    "Aanghakan/images/map-00.png",
+    "Locations/Thunderpeak/quests/The Lost Mines of Thunderpeak.md",
+    "Locations/Thunderpeak/quests/The Siege of Thunderpeak.md",
+    "Locations/Thunderpeak/characters/Balin Stonehelm.md",
+    "Test Plugins.md",
+    "Readme.md",
+    "().md",
+    "NonPlayerCharacters/Bolin.md",
+    "Factions/Cult of the Abyssal Serpent/Cult of the abyssal serpent.md",
+    "Aanghakan.md",
+    "NonPlayerCharacters",
+    "Locations/Thunderpeak/quests/side-quests/The Miner's Lament.md",
+    "Locations/Thunderpeak/quests/side-quests/Ale Shortage.md",
+    "Locations/Thunderpeak/quests/side-quests",
+    "Locations/Thunderpeak/characters/Bofur the Brave.md",
+    "Locations/Thunderpeak/quests/side-quests/The Crystal Caverns.md",
+    "Locations/Thunderpeak/quests/side-quests/Rats in the Cellar.md",
+    "Locations/Thunderpeak/quests/side-quests/Missing Shipment.md",
+    "Thunderpeak/Quests/details",
+    "Locations/Thunderpeak/characters/Thrain Ironfist (deceased).md",
+    "Locations/Thunderpeak/characters/Thorin Oakenshield.md",
+    "Locations/Thunderpeak/characters/Oin the Wise.md",
+    "Locations/Thunderpeak/characters/Grog son of Greg.md",
+    "Locations/Thunderpeak/characters/Fili and Kili.md",
     "Aanghakan/images/word-00.png",
     "Aanghakan/images/ps28A7.tmp",
     "Aanghakan/images/ps4C4F.tmp",
@@ -176,31 +229,9 @@
     "Aanghakan/images/word-01.png",
     "Aanghakan/images/Dungeons_and_Dragons_map_ISLAND01.png",
     "Amaeriglia/images/name.png",
-    "Amaeriglia/Amaeriglia.md",
     "Amaeriglia/images/Ookami_write_Amaeriglia__keep_it_simple_readable._Use_a_phantas_d1c13773-c5ab-4e45-889d-3eed986d56b1.png",
     "Amaeriglia/images/Dungeons_and_Dragons_map_ISLAND01.png",
     "Amaeriglia/images",
-    "Amaeriglia/IMAGES/Ookami_write_Amaeriglia__keep_it_simple_readable._Use_a_phantas_d1c13773-c5ab-4e45-889d-3eed986d56b1.png",
-    "Amaeriglia/IMAGES",
-    "Amaeriglia/Nuova cartella",
-    "Amaeriglia",
-    "Thunderpeak/Character/Thunderpeak-Characters.md",
-    "Thunderpeak/Character/Grog son of Greg.md",
-    "Thunderpeak/Character/Fili and Kili.md",
-    "Thunderpeak/Character/Bofur the Brave.md",
-    "Thunderpeak/Character/Oin the Wise.md",
-    "Thunderpeak/Character/Dwalin the Stout.md",
-    "Thunderpeak/Quests/Thunderpeak-Quests.md",
-    "Thunderpeak/Quests/The Crystal Caverns.md",
-    "Thunderpeak/Quests/The Miner's Lament.md",
-    "Thunderpeak/Quests/Missing Shipment.md",
-    "Thunderpeak/Quests/Rats in the Cellar.md",
-    "Thunderpeak/Quests/The Lost Mines of Thunderpeak.md",
-    "Thunderpeak/Character",
-    "Thunderpeak/Quests",
-    "Thunderpeak.md",
-    "Thunderpeak",
-    "Nuova cartella",
-    "Thunderpeak-Characters.md"
+    "Amaeriglia/IMAGES"
   ]
 }
