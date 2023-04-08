@@ -16,8 +16,21 @@
                 "file": "Aanghakan/images/map-00.png"
               }
             }
+          },
+          {
+            "id": "6a3fe794e816682f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aanghakan/images/map-00.png",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aanghakan/images/map-00.png",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aanghakan/images/map-00.png"
+                "file": "Readme.md"
               }
             }
           }
@@ -144,11 +157,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e18a2945cd59b3b6",
+  "active": "6a3fe794e816682f",
   "lastOpenFiles": [
+    "Aanghakan/images/map-00.png",
+    "Readme.md",
     "Aanghakan/images/Aanghakan.png",
     "Thunderpeak/Thunderpeak.md",
-    "Aanghakan/images/map-00.png",
     "Aanghakan/Aanghakan.md",
     "Thunderpeak/Character/Balin Stonehelm.md",
     "Thunderpeak/Character/Bifur, Bofur, and Bombur.md",
