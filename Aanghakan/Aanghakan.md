@@ -6,7 +6,7 @@ The climate in Aanghakan is temperate, with warm summers and mild winters. The l
 
 The major cities of Aanghakan are known for their stunning architecture and advanced infrastructure, with buildings made from expertly carved stone or wood. The cities are usually built around natural features, such as rivers or cliffs, which are incorporated into their design. The cities often host bustling markets, where merchants from all corners of the peninsula gather to sell their exotic wares and share news from far-off lands.
 
-The region is ruled by a council of representatives from each of the major cities, who convene regularly to discuss matters of importance and ensure the prosperity of the peninsula. The council is led by a wise and fair monarch, who is chosen by the council members for their wisdom, leadership, and diplomacy.
+The region is ruled by a council of kings from each of the major cities, who convene regularly to discuss matters of importance and ensure the prosperity of the peninsula. The council is led by a wise and fair monarch, who is chosen by the council members for their wisdom, leadership, and diplomacy.
 
 ```leaflet 
 id: leaflet-map 

@@ -1,7 +1,9 @@
 [init tracker](obsidian://show-plugin?id=initiative-tracker)
 [statblocks](obsidian://show-plugin?id=obsidian-5e-statblocks)
 
+# TITOLO
 
+[[Test Plugins#]]
 
 ```encounter
 name: Example encounter

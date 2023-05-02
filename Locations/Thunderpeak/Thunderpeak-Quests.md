@@ -29,6 +29,6 @@
 	Description -
 	A group of miners has gone missing in one of Thunderpeak's mines. The adventurers are tasked with finding the miners and discovering what happened to them.
 
-2. [[The Crystal Caverns]] 
+2. [[Crystal Caverns]] 
 	Description -
 	[[Oin the Wise]] has heard rumors of a hidden cavern filled with valuable crystals. He asks the adventurers to find the cavern and bring back a sample for further study.
