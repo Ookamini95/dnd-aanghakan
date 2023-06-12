@@ -15,7 +15,7 @@
     Description - 
     *Bifur* ([[Bifur, Bofur, and Bombur]]), the owner of a local tavern, has a rat infestation in his cellar. He asks the adventurers to clear out the rats and find the source of the problem.
 
-2.  [[Missing Shipment]]
+2.  [[Missing Child]]
     Description -
     [[Dwalin the Stout]] is missing a shipment of iron ore that was supposed to arrive at his forge. He asks the adventurers to investigate and locate the missing shipment.
 

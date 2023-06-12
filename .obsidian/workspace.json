@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Thunderpeak/Thunderpeak-Characters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e828e92949bf32d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Thunderpeak/Thunderpeak.md",
+                "file": "Locations/Thunderpeak/quests/side-quests/The Miner's Lament.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "c107f19929a3ce55",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thunderpeak/Thunderpeak-Characters.md",
+                "file": "Locations/Thunderpeak/quests/side-quests/The Miner's Lament.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thunderpeak/Thunderpeak-Characters.md",
+                "file": "Locations/Thunderpeak/quests/side-quests/The Miner's Lament.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thunderpeak/Thunderpeak-Characters.md"
+                "file": "Locations/Thunderpeak/quests/side-quests/The Miner's Lament.md"
               }
             }
           },
@@ -186,51 +182,51 @@
   },
   "active": "6a0e7d2406a0860b",
   "lastOpenFiles": [
-    "Locations/Thunderpeak/Thunderpeak-Quests.md",
-    "Locations/Thunderpeak/characters/Balin Stonehelm.md",
-    "Locations/Thunderpeak/Thunderpeak-Characters.md",
-    "Factions/Cult of the Abyssal Serpent/Stonehelm clan.md",
-    "Locations/Thunderpeak/Thunderpeak.md",
-    "Locations/Thunderpeak/characters/Thrain Ironfist (deceased).md",
-    "Locations/Thunderpeak/images/Thrain_Ironfist.png",
-    "Locations/Crystal Caverns",
-    "Locations/Thunderpeak/images/Thunderpeak-00.png",
-    "Locations/Thunderpeak/quests/side-quests/Ale Shortage.md",
-    "Locations/Thunderpeak/quests/side-quests/Missing Shipment.md",
     "Locations/Thunderpeak/quests/side-quests/Rats in the Cellar.md",
+    "Locations/Thunderpeak/quests/side-quests/Missing Child.md",
+    "Locations/Thunderpeak/quests/side-quests/Ale Shortage.md",
+    "Locations/Thunderpeak/quests/side-quests/The Miner's Lament.md",
+    "Locations/Thunderpeak/characters/Filip and Ki.md",
+    "Locations/Thunderpeak/characters/Grog son of Greg.md",
+    "Locations/Thunderpeak/characters/Oin the Wise.md",
+    "Locations/Thunderpeak/characters/Thorin Oakenshield.md",
+    "Locations/Thunderpeak/characters/Dwalin the Stout.md",
+    "Locations/Thunderpeak/quests/The Siege of Thunderpeak.md",
+    "Test Plugins.md",
+    "Readme.md",
+    "Jade mountains.md",
+    "Locations/Thunderpeak/Thunderpeak.md",
+    "Erebor.md",
+    "East O'lands.md",
+    "Yaniee.md",
+    "Yannee.md",
+    "Thein.md",
+    "Firehole.md",
+    "Locations/Thunderpeak/quests/The Lost Mines of Thunderpeak.md",
+    "Locations/Crystal Caverns/Deep Crystal Caverns.md",
+    "Aanghakan/Main Quest - Introduction.md",
+    "Locations/Thunderpeak/Thunderpeak-Characters.md",
+    "Locations/Thunderpeak/Thunderpeak-Quests.md",
+    "Locations/Thunderpeak/images/Thunderpeak-00.png",
+    "Aanghakan/Aanghakan.md",
+    "Aanghakan/images/psACDC.tmp",
+    "Locations/Thunderpeak/images/Balin_Stonehelm.png",
+    "Aanghakan/images/map-00.png",
+    "Aanghakan/images/Aanghakan.png",
+    "Locations/Thunderpeak/images/Thrain_Ironfist.png",
     "Locations/Thunderpeak/images/Oin_the_wise.png",
     "Locations/Thunderpeak/images/Grog_son_of_greg.png",
     "Locations/Thunderpeak/images/Filip_and_Kli.png",
     "Locations/Thunderpeak/images/Dwalin_the_Stout.png",
     "Locations/Thunderpeak/images/Bifur_Bofur_and_Bombur_-_Three_dwarven_brothers.png",
-    "Locations/Thunderpeak/images/Balin_Stonehelm.png",
-    "Aanghakan/Aanghakan- Brainstorming.md",
-    "Aanghakan/Aanghakan.md",
-    "Aanghakan/images/map-00.png",
-    "Aanghakan/images/Aanghakan.png",
-    "Locations/Thunderpeak/quests/The Lost Mines of Thunderpeak.md",
-    "Test Plugins.md",
-    "Locations/Thunderpeak/characters/Grog son of Greg.md",
-    "Locations/Thunderpeak/quests/The Siege of Thunderpeak.md",
-    "Locations/Thunderpeak/characters/Thorin Oakenshield.md",
-    "Locations/Thunderpeak/characters/Dwalin the Stout.md",
-    "Locations/Thunderpeak/characters/Bofur the Brave.md",
-    "Factions/Cult of the Abyssal Serpent/Cult of the abyssal serpent.md",
-    "Aanghakan/Main Quest.md",
+    "Factions/Untitled",
+    "Locations/Crystal Caverns",
     "Locations/Thunderpeak/images/ps1E3D.tmp",
-    "Locations/Thunderpeak/characters/Fili and Kili.md",
-    "Locations/Thunderpeak/characters/Filip and Ki.md",
     "Locations/Thunderpeak/images/ps7C33.tmp",
     "Locations/Thunderpeak/images/ps5B94.tmp",
     "Locations/Thunderpeak/images/psB387.tmp",
     "Locations/Thunderpeak/characters/Bifur_Bofur_and_Bombur_-_Three_dwarven_brothers",
-    "Locations/Thunderpeak/quests/side-quests/The Miner's Lament.md",
-    "Locations/Crystal Caverns/Crystal Caverns.md",
-    "Locations/Thunderpeak/characters/Oin the Wise.md",
-    "Locations/Thunderpeak/characters/Bifur, Bofur, and Bombur.md",
     "Università",
-    "Factions/Cult of the Abyssal Serpent",
-    "Factions",
-    "Locations"
+    "Factions/Cult of the Abyssal Serpent"
   ]
 }

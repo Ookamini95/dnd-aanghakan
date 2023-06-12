@@ -8,7 +8,7 @@ Our heros, intent on talking to their own, don't seem to care about the presence
 
 > [[Oin the Wise]] : You seem to be seeking the Heart of the Mountain. Our interest may be aligned.
 
-[[Oin the Wise|Oin]] starts questioning the party about the intent of their [[Main Quest|quest]] and invites the party to an expedition party to explore the Crystal Caverns.
+[[Oin the Wise|Oin]] starts questioning the party about the intent of their [[Main Quest - Introduction|quest]] and invites the party to an important meeting about a possible expedition party to the [[Deep Crystal Caverns]].
 
 
 

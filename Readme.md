@@ -15,3 +15,7 @@ TODO
 Authors
 
 Ookami95
+
+
+Come faccio un tool che analizza pagina per pagina un pdf (slides di powerpoint) 
+

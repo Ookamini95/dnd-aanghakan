@@ -12,3 +12,6 @@ Possible cities
 5.  Halftown: The City of Trade Located at the crossroads of several trade routes, Halftown is a bustling hub of commerce and cultural exchange. The city is predominantly populated by halflings, who have created a thriving community that welcomes visitors from all walks of life. Halftown is known for its lively taverns, delicious cuisine, and the annual Harvest Festival, which celebrates the region's bounty and diversity.
 
 6.  Silvershore: The City of the Sea Perched on a series of cliffs overlooking the ocean, Silvershore is a picturesque coastal city known for its maritime traditions and naval prowess. The city is home to a large and well-equipped navy, which patrols the waters around the peninsula to protect its people and ensure safe passage for merchant vessels. Silvershore is also a center for shipbuilding and fishing, with a vibrant market offering fresh seafood and other maritime goods.
+   
+   
+   
