@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Thunderpeak/quests/side-quests/The Miner's Lament.md",
+                "file": "Aanghakan/Main Quest - Introduction 01.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Yggdrasil",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 359.5110321044922
   },
   "right": {
     "id": "339a8902eecbf0a4",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thunderpeak/quests/side-quests/The Miner's Lament.md",
+                "file": "Aanghakan/Main Quest - Introduction 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thunderpeak/quests/side-quests/The Miner's Lament.md",
+                "file": "Aanghakan/Main Quest - Introduction 01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thunderpeak/quests/side-quests/The Miner's Lament.md"
+                "file": "Aanghakan/Main Quest - Introduction 01.md"
               }
             }
           },
@@ -182,33 +182,33 @@
   },
   "active": "6a0e7d2406a0860b",
   "lastOpenFiles": [
+    "Aanghakan/Main Quest - Introduction 01.md",
+    "Aanghakan/Main Quest - Journey to the Capital 02.md",
+    "Locations/Thunderpeak/quests/side-quests/The Miner's Lament.md",
     "Locations/Thunderpeak/quests/side-quests/Rats in the Cellar.md",
     "Locations/Thunderpeak/quests/side-quests/Missing Child.md",
     "Locations/Thunderpeak/quests/side-quests/Ale Shortage.md",
-    "Locations/Thunderpeak/quests/side-quests/The Miner's Lament.md",
+    "Factions/Cult of the Abyssal Serpent/Cult of the abyssal serpent.md",
+    "Test Plugins.md",
+    "Locations/Thunderpeak/quests/The Lost Mines of Thunderpeak.md",
+    "Jade mountains.md",
+    "Erebor.md",
     "Locations/Thunderpeak/characters/Filip and Ki.md",
     "Locations/Thunderpeak/characters/Grog son of Greg.md",
     "Locations/Thunderpeak/characters/Oin the Wise.md",
     "Locations/Thunderpeak/characters/Thorin Oakenshield.md",
     "Locations/Thunderpeak/characters/Dwalin the Stout.md",
     "Locations/Thunderpeak/quests/The Siege of Thunderpeak.md",
-    "Test Plugins.md",
     "Readme.md",
-    "Jade mountains.md",
     "Locations/Thunderpeak/Thunderpeak.md",
-    "Erebor.md",
     "East O'lands.md",
     "Yaniee.md",
     "Yannee.md",
     "Thein.md",
     "Firehole.md",
-    "Locations/Thunderpeak/quests/The Lost Mines of Thunderpeak.md",
     "Locations/Crystal Caverns/Deep Crystal Caverns.md",
-    "Aanghakan/Main Quest - Introduction.md",
     "Locations/Thunderpeak/Thunderpeak-Characters.md",
-    "Locations/Thunderpeak/Thunderpeak-Quests.md",
     "Locations/Thunderpeak/images/Thunderpeak-00.png",
-    "Aanghakan/Aanghakan.md",
     "Aanghakan/images/psACDC.tmp",
     "Locations/Thunderpeak/images/Balin_Stonehelm.png",
     "Aanghakan/images/map-00.png",
