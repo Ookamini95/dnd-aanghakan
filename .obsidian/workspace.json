@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7342caccba73de2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Aanghakan/Main Quest - Introduction 01.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a28a75f09a42996f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Quest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,34 +205,34 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "6a0e7d2406a0860b",
+  "active": "7342caccba73de2d",
   "lastOpenFiles": [
+    "Main Quest.md",
+    "Jade mountains.md",
+    "Readme.md",
+    "Test Plugins.md",
+    "Erebor.md",
+    "Locations/Thunderpeak/quests/The Lost Mines of Thunderpeak.md",
+    "Factions/Stonehelm clan.md",
+    "Factions/Red Star Syndicate.md",
+    "Factions/Cult of the Abyssal Serpent/Cult of the abyssal serpent.md",
+    "Locations/Thunderpeak/characters/Odin the Wise.md",
     "Aanghakan/Main Quest - Introduction 01.md",
     "Aanghakan/Main Quest - Journey to the Capital 02.md",
     "Locations/Thunderpeak/quests/side-quests/The Miner's Lament.md",
     "Locations/Thunderpeak/quests/side-quests/Rats in the Cellar.md",
     "Locations/Thunderpeak/quests/side-quests/Missing Child.md",
     "Locations/Thunderpeak/quests/side-quests/Ale Shortage.md",
-    "Factions/Cult of the Abyssal Serpent/Cult of the abyssal serpent.md",
-    "Test Plugins.md",
-    "Locations/Thunderpeak/quests/The Lost Mines of Thunderpeak.md",
-    "Jade mountains.md",
-    "Erebor.md",
-    "Locations/Thunderpeak/characters/Filip and Ki.md",
-    "Locations/Thunderpeak/characters/Grog son of Greg.md",
-    "Locations/Thunderpeak/characters/Oin the Wise.md",
+    "Locations/Thunderpeak/characters/Thrain Ironfist (deceased).md",
     "Locations/Thunderpeak/characters/Thorin Oakenshield.md",
+    "Locations/Thunderpeak/characters/Grog son of Greg.md",
+    "Locations/Thunderpeak/characters/Filip and Ki.md",
     "Locations/Thunderpeak/characters/Dwalin the Stout.md",
-    "Locations/Thunderpeak/quests/The Siege of Thunderpeak.md",
-    "Readme.md",
-    "Locations/Thunderpeak/Thunderpeak.md",
-    "East O'lands.md",
-    "Yaniee.md",
-    "Yannee.md",
-    "Thein.md",
-    "Firehole.md",
-    "Locations/Crystal Caverns/Deep Crystal Caverns.md",
+    "Locations/Thunderpeak/characters/Bofur the Brave.md",
+    "Locations/Thunderpeak/characters/Bifur, Bofur, and Bombur.md",
+    "Locations/Thunderpeak/characters/Balin Stonehelm.md",
     "Locations/Thunderpeak/Thunderpeak-Characters.md",
+    "Locations/Thunderpeak/Thunderpeak.md",
     "Locations/Thunderpeak/images/Thunderpeak-00.png",
     "Aanghakan/images/psACDC.tmp",
     "Locations/Thunderpeak/images/Balin_Stonehelm.png",

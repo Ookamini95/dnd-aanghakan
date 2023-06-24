@@ -17,5 +17,5 @@ Authors
 Ookami95
 
 
-Come faccio un tool che analizza pagina per pagina un pdf (slides di powerpoint) 
 
+#aLocation #bLocation #cLocation  different tiers for locations, from most important to cohesiviness to more customizable.
