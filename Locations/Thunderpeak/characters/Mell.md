@@ -1,0 +1,1 @@
+Newborn of the ruling family of Thunderpeak

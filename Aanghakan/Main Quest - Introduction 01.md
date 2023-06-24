@@ -212,7 +212,12 @@ This time, the players attract the attention of the enigmatic figure, a sense of
 
 #Master-Notes The figure is [[Vespera Shadowdancer]], renowned assassin of the Serpent's Cult. Her task is currently to track down and extinguish the bloodline of [[Aein]], preventing the resurrection of the chosen of Elune. It's crucial to convey her overwhelming power to the players; Vespera should never appear threatened. In the face of any belligerence, she has a handy Sleep spell at her disposal.
 After answering some of the possible questions the party may have, [[Vespera Shadowdancer|Vespera]] presents an ultimatum. The lives of the party in return for the children stowed away in the wagon.
-<span style="background-color:lightblue;color:black;"> !important </span> Here you should come up with what happens, as it should be role played according to your group's sensitivity. [[Vespera Shadowdancer|Vespera]] possesses an arsenal of spells for toying with the party, often punctuated by her maniacal laughter as she revels in the despair and dread she inspires in her pawns.
+
+#Master-Notes Among the children, one wears refined clothes and has a silver pendant that holds a picture of a duchess with her child, check [[Missing Child|missing child]] quest.
+
+<span style="background-color:lightblue;color:black;"> !important </span> Here you should come up with what happens, as it should be role-played according to your group's sensitivity.
+
+[[Vespera Shadowdancer|Vespera]] possesses an arsenal of spells to toy with the party and delights in reveling in the despair and dread she instills in her pawns.
 
 ```statblock
 image: [[https://vespera-shadowdancer-portrait.jpg]]
