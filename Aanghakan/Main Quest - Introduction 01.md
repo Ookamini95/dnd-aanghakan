@@ -1,10 +1,12 @@
 
-The chosen of [[Elune]], a legendary warrior destined to defend the world in its darkest times. Legends talk about [[Aein]], curator of souls, first of [[The Chosen|the chosen]], born of the [[Giants]], and how he defeated [[Goor]], king of the Orcs, and his vast armies of chaos. Then there is [[Thein]] the second chosen, born among wolves, pure of soul, untarnished, and bearer of the [[thousand roots]]. Then there is [[Yaohwan]], born of Valkyrie blood, third of the chosen, protector of the people, wise diplomat and architect of the unity in [[Aanghakan]]. He died, thousands of years in the past, leaving a legacy of peace and hope.
+The chosen of [[Elune]], a legendary warrior destined to defend the world in its darkest times. 
+
+Legends talk about [[Aein]], curator of the [[animus]], first of [[The Chosen|the chosen]], born of the [[Giants]], and how he defeated [[Goor]], king of the Orcs, and his vast armies of chaos. Then is [[Thein]] the second chosen, born among wolves, pure of soul, untarnished, bearer of the [[thousand roots]]. Then is [[Yaohwan]], born of Valkyrie blood, third of the chosen, protector of the people, wise diplomat and architect of the unity in [[Aanghakan]]. He died, thousands of years in the past, leaving a legacy of peace and hope.
 
 But while hope yields prosperity, evil is *always* capable of seeping through the smallest gaps, corrupt the meek, build upon the dark desires of the ones left behind.
 
 Our story begins in the small town of [[Esmeralda]], jewel of boundless pastures, lodged in the plains of the [[Green Sea]], near [[Thunderpeak]].
-Our party of yet to be heroes has just completed an humble request of the local tavern owner of moving a shipment of beer and various foods and alcoholic beverages. It appears that our heroes have some kind of basic accommodation at said tavern, "The Stubborn Ol'Mule", in exchange of simple services and mansions for the old owner, which has slowly reached senile age but has made enough to send his son to study smiting at the capital, and thus needs a little hand once in a while.
+Our party of yet to be heroes has just completed an humble request of the local tavern owner of moving a shipment of beer and various foods and alcoholic beverages. It appears that our heroes have some kind of basic accommodation at said tavern, "The Stubborn Ol'Mule": in exchange of simple services and mansions they are given room and board from the old owner, which has slowly reached senile age but has made enough to send his son to study smiting at the capital, and thus needs a little hand once in a while.
 
 <hr>
 
@@ -147,6 +149,8 @@ spells:
 
 ```
 
+#Master-Notes
+The encounter may be avoided and not strictly necessary, but I'd advise against not letting the players find the following document.
 
 
 <hr>
@@ -169,7 +173,7 @@ Hidden amongst the cultist's personal effects, the party uncovers a unsettling l
 >Yggdrasil of the [[Cult of the abyssal serpent|scaled shield]].
 >
 
-The cultist encampment is a trove of goods—pelts, rations, and beyond the mundane, weapons, enchanted components, and even explosives.
+The cultist encampment is a trove of goods — pelts, rations, and beyond the mundane, weapons, enchanted components...
 
 > _Hank:_ This is an omen... I've got a sick feeling about what's coming next.
 
