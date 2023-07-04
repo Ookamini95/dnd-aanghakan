@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "51b1e2093cc02c62",
+        "id": "80462445612ceedb",
         "type": "tabs",
         "children": [
           {
-            "id": "a28a75f09a42996f",
+            "id": "ec1b70e69661ce42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aanghakan/Main Quest - Journey to the Capital 02.md",
+                "file": "Aanghakan/Locations/Thunderpeak/Thunderpeak.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aanghakan/Main Quest - Journey to the Capital 02.md",
+                "file": "Aanghakan/Locations/Thunderpeak/Thunderpeak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aanghakan/Main Quest - Journey to the Capital 02.md",
+                "file": "Aanghakan/Locations/Thunderpeak/Thunderpeak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aanghakan/Main Quest - Journey to the Capital 02.md"
+                "file": "Aanghakan/Locations/Thunderpeak/Thunderpeak.md"
               }
             }
           },
@@ -180,53 +180,53 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "a28a75f09a42996f",
+  "active": "ec1b70e69661ce42",
   "lastOpenFiles": [
-    "Aanghakan/Main Quest - Introduction 01.md",
+    "Aanghakan/Locations/Erebor.md",
+    "Aanghakan/Locations/Thunderpeak/Assets/images/Thunderpeak-city.png",
+    "Aanghakan/Locations/Thunderpeak/Assets/images/Bifur_Bofur_and_Bombur.png",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Duxemburg.md",
     "Aanghakan/Main Quest - Journey to the Capital 02.md",
-    "Luxemburg.md",
-    "Aanghakan/Aanghakan- Brainstorming.md",
-    "Locations/Thunderpeak/characters/Mell.md",
-    "Locations/Thunderpeak/characters/Thenerifa.md",
-    "Factions/Stonehelm clan.md",
-    "Locations/Thunderpeak/quests/side-quests/Missing Child.md",
+    "Aanghakan/Factions/Stonehelm clan/Assets/characters/Gill.md",
+    "Aanghakan/Factions/Stonehelm clan/Assets/characters",
+    "Aanghakan/Factions/Stonehelm clan/Assets",
+    "Aanghakan/Factions/Stonehelm clan/Stonehelm clan.md",
+    "Aanghakan/Main Quest - Introduction 01.md",
+    "Aanghakan/Factions/Cult of the Abyssal Serpent/Assets/characters/Vespera Shadowdancer.md",
+    "Aanghakan/Factions/Cult of the Abyssal Serpent/Assets/characters",
+    "Aanghakan/Factions/Cult of the Abyssal Serpent/Assets",
+    "Aanghakan/Other/Folklore and History/Abyssal Serpent.md",
+    "Aanghakan/Other/Folklore and History/Yaneet.md",
+    "Aanghakan/Other/Folklore and History/Thrain Ironfist (deceased).md",
+    "Aanghakan/Locations/The Green Sea/The Great Forest.md",
+    "Aanghakan/Locations/The Green Sea/Assets",
+    "Aanghakan/Locations/The Green Sea/Assets/characters",
+    "Aanghakan/Locations/The Green Sea/Assets/locations",
+    "Aanghakan/Locations/East O'lands.md",
+    "Aanghakan/Locations/The Green Sea/Assets/characters/Hank.md",
+    "Aanghakan/Locations/Thunderpeak/Thunderpeak.md",
+    "Aanghakan/Other/Assets/images",
+    "Aanghakan/Locations/Thunderpeak/Assets",
+    "Aanghakan/Locations/Thunderpeak/Thunderpeak-Characters.md",
+    "Aanghakan/Locations/The Green Sea/The Green Sea.md",
+    "Aanghakan/Locations/The Green Sea",
     "Main Quest.md",
     "Readme.md",
-    "Locations/Thunderpeak/characters/Dwalin the Stout.md",
-    "Locations/Thunderpeak/characters/Bifur, Bofur, and Bombur.md",
-    "Locations/Thunderpeak/characters/Bofur the Brave.md",
-    "Jade mountains.md",
-    "Test Plugins.md",
-    "Erebor.md",
-    "Locations/Thunderpeak/quests/The Lost Mines of Thunderpeak.md",
-    "Factions/Red Star Syndicate.md",
-    "Factions/Cult of the Abyssal Serpent/Cult of the abyssal serpent.md",
-    "Locations/Thunderpeak/characters/Odin the Wise.md",
-    "Locations/Thunderpeak/quests/side-quests/The Miner's Lament.md",
-    "Locations/Thunderpeak/quests/side-quests/Rats in the Cellar.md",
-    "Locations/Thunderpeak/quests/side-quests/Ale Shortage.md",
-    "Locations/Thunderpeak/characters/Thrain Ironfist (deceased).md",
-    "Locations/Thunderpeak/characters/Thorin Oakenshield.md",
-    "Locations/Thunderpeak/characters/Grog son of Greg.md",
-    "Locations/Thunderpeak/images/Thunderpeak-00.png",
-    "Aanghakan/images/psACDC.tmp",
-    "Locations/Thunderpeak/images/Balin_Stonehelm.png",
-    "Aanghakan/images/map-00.png",
-    "Aanghakan/images/Aanghakan.png",
-    "Locations/Thunderpeak/images/Thrain_Ironfist.png",
-    "Locations/Thunderpeak/images/Oin_the_wise.png",
-    "Locations/Thunderpeak/images/Grog_son_of_greg.png",
-    "Locations/Thunderpeak/images/Filip_and_Kli.png",
-    "Locations/Thunderpeak/images/Dwalin_the_Stout.png",
-    "Locations/Thunderpeak/images/Bifur_Bofur_and_Bombur_-_Three_dwarven_brothers.png",
-    "Factions/Untitled",
-    "Locations/Crystal Caverns",
-    "Locations/Thunderpeak/images/ps1E3D.tmp",
-    "Locations/Thunderpeak/images/ps7C33.tmp",
-    "Locations/Thunderpeak/images/ps5B94.tmp",
-    "Locations/Thunderpeak/images/psB387.tmp",
-    "Locations/Thunderpeak/characters/Bifur_Bofur_and_Bombur_-_Three_dwarven_brothers",
-    "Università",
-    "Factions/Cult of the Abyssal Serpent"
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Esmeralda.md",
+    "Aanghakan/Other/Folklore and History/Yaohwan.md",
+    "Aanghakan/Other/Folklore and History/Thousand Roots.md",
+    "Aanghakan/Other/Folklore and History/Thein.md",
+    "Aanghakan/Other/Folklore and History/Goor.md",
+    "Aanghakan/Other/Folklore and History/Giants.md",
+    "Aanghakan/Other/Folklore and History/The Chosen.md",
+    "Aanghakan/Other/Folklore and History/Aein.md",
+    "Aanghakan/Other/Assets/images/map-00.png",
+    "Aanghakan/Other/Assets/images/Aanghakan.png",
+    "Aanghakan/Locations/Thunderpeak/Assets/images/Thrain_Ironfist.png",
+    "Aanghakan/Locations/Thunderpeak/Assets/images/Oin_the_wise.png",
+    "Aanghakan/Locations/Thunderpeak/Assets/images/Grog_son_of_greg.png",
+    "Aanghakan/Locations/Thunderpeak/Assets/images/Filip_and_Kli.png",
+    "Aanghakan/Locations/Thunderpeak/Assets/images/Dwalin_the_Stout.png",
+    "Aanghakan/Locations/Thunderpeak/Assets/images/Balin_Stonehelm.png"
   ]
 }

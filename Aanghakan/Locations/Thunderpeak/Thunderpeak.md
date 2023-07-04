@@ -9,7 +9,6 @@ Thunderpeak is known for its vast network of mines, where the dwarves extract pr
 
 The dwarves of Thunderpeak are hardy and industrious people, fiercely loyal to their city and their kin. They are known for their love of ale and their hearty, meaty cuisine, which is always served in generous portions. Despite their rough exterior, the dwarves of Thunderpeak are renowned for their hospitality and their willingness to lend aid to those in need.
 
-Only a few days' journey from the city lies the vast expanse of the surrounding plains known as the [[Green Sea]]. This expansive and fertile land serves as the primary source of food for Thunderpeak, producing an abundance of crops to sustain the city.
+Only a few weeks' journey from the city lies the vast expanse of the surrounding plains known as [[The Green Sea|the Green Sea]]. This expansive and fertile land serves as the primary source of food for Thunderpeak, producing an abundance of crops that sustain the bustling city.
 
-- [[Thunderpeak-Characters]]
-- [[Thunderpeak-Quests]]
+![[Thunderpeak-city.png]]

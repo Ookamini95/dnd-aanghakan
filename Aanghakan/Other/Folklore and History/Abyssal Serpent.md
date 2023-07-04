@@ -1,0 +1,1 @@
+An eldritch creature, born from the depths of the Abyss.

@@ -1,5 +1,199 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "leaflet-map",
+      "lastAccessed": 1688498501567,
+      "markers": [
+        {
+          "id": "ID_f9ea29ab4b78",
+          "type": "default",
+          "loc": [
+            -0.9834403852778263,
+            1.5641973608469
+          ],
+          "layer": "%5B%5Bmap-00.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5213991202823,
+            0.32781346175927545
+          ],
+          "description": "Esmeralda",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_99bb389b4a1b",
+          "type": "default",
+          "loc": [
+            -0.667146809497965,
+            2.301167952205885
+          ],
+          "link": "Thunderpeak",
+          "layer": "%5B%5Bmap-00.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Thunderpeak - Capital of Erebor",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d839fb2bbb5a",
+          "type": "default",
+          "loc": [
+            -0.6280835918448575,
+            2.1937444567865994
+          ],
+          "link": "Crystal Caverns",
+          "layer": "%5B%5Bmap-00.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Crystal Caverns - entrance",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_59692a2bfac8",
+          "type": "default",
+          "loc": [
+            -0.6959654098297643,
+            2.0746020345943004
+          ],
+          "link": "Deep Crystal Caverns",
+          "layer": "%5B%5Bmap-00.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Deep Crystal Caverns",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fa58db9938ba",
+          "type": "default",
+          "loc": [
+            -1.0195183318864303,
+            2.361890215326669
+          ],
+          "layer": "%5B%5Bmap-00.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Venicia",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_98b92a7a092a",
+          "type": "default",
+          "loc": [
+            -0.9366238546342236,
+            2.087101266908955
+          ],
+          "layer": "%5B%5Bmap-00.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Ember's Crest Pass",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_48f9aa7a3b68",
+          "type": "default",
+          "loc": [
+            -1.12921303990841,
+            1.8184726706633016
+          ],
+          "layer": "%5B%5Bmap-00.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "The Great Forest",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d92b59ea3b38",
+          "type": "default",
+          "loc": [
+            -1.3246501787290983,
+            2.3950143202353256
+          ],
+          "layer": "%5B%5Bmap-00.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Cicilia",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fbabdbf9e86b",
+          "type": "default",
+          "loc": [
+            -0.8766502046962197,
+            0.7304928279149066
+          ],
+          "layer": "%5B%5Bmap-00.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "East O'lands - kingdom of the elves",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a797b2b4888",
+          "type": "default",
+          "loc": [
+            -0.7491964758833993,
+            1.4394759249720455
+          ],
+          "layer": "%5B%5Bmap-00.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "The green sea",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1989881adbb8",
+          "type": "default",
+          "loc": [
+            -1.5527080975711742,
+            1.069588401634738
+          ],
+          "layer": "%5B%5Bmap-00.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Desert of the Gobbs",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Aanghakan/Aanghakan.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
@@ -28,7 +222,49 @@
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
-  "mapViewParameters": {},
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": 5,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[map-00.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[map-00.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [
+      "default, 39.983334, -82.983330,"
+    ],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 7.3,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "leaflet-map",
+    "lat": 50,
+    "long": 50,
+    "unit": "meters",
+    "[[Note]] darkMode": "true ```",
+    "filterTag": []
+  },
   "enableDraw": true,
   "defaultUnitType": "imperial",
   "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",

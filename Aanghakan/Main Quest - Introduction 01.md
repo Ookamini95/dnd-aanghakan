@@ -1,9 +1,9 @@
 
-The chosen of [[Elune]], a legendary warrior destined to defend the world in its darkest times. Legends talk about [[Aein]], curator of souls, first of [[The Chosen|the chosen]], born of the [[Giants]], and how he defeated [[Goor]], king of the Orcs, and his vast armies of chaos. Then there is [[Thein]] the second chosen, born among wolves, pure of soul, untarnished, and bearer of the [[thousand roots]]. Then there is [[Yaohwan]], born of Valkyrie blood, third of the chosen, protector of the people, wise diplomat and architect of the unity in [[Aanghakan]]. He died, thousands of years in the past, leaving a legacy of peace and hope.
+The chosen of [[Elune]], a legendary warrior destined to defend the world in its darkest times. Legends talk about [[Aein]], curator of souls, first of [[The Chosen|the chosen]], born of the [[Giants]], and how he defeated [[Goor]], king of the Orcs, and his vast armies of chaos. Then there is [[Thein]] the second chosen, born among wolves, pure of soul, untarnished, and bearer of the [[Thousand Roots]]. Then there is [[Yaohwan]], born of Valkyrie blood, third of the chosen, protector of the people, wise diplomat and architect of the unity in [[Aanghakan]]. He died, thousands of years in the past, leaving a legacy of peace and hope.
 
 But while hope yields prosperity, evil is *always* capable of seeping through the smallest gaps, corrupt the meek, build upon the dark desires of the ones left behind.
 
-Our story begins in the small town of [[Esmeralda]], jewel of boundless pastures, lodged in the plains of the [[Green Sea]], near [[Thunderpeak]].
+Our story begins in the small town of [[Esmeralda]], jewel of boundless pastures, lodged in the plains of the [[The Green Sea]], near [[Thunderpeak]].
 Our party of yet to be heroes has just completed an humble request of the local tavern owner of moving a shipment of beer and various foods and alcoholic beverages. It appears that our heroes have some kind of basic accommodation at said tavern, "The Stubborn Ol'Mule", in exchange of simple services and mansions for the old owner, which has slowly reached senile age but has made enough to send his son to study smiting at the capital, and thus needs a little hand once in a while.
 
 <hr>
@@ -12,12 +12,12 @@ Our party of yet to be heroes has just completed an humble request of the local 
 In this section I'll present a couple notes for the master, as in the world building some elements must be necessary in order to maintain a coherent story, while allowing you to create your own world.
 
 <span style="background-color:lightblue;color:black;"> !important </span> 
-Main quest - The following person should be introduced as soon as possible, as it will be the main NPC (or played by someone special) of the quest. Serene, daughter of a retired human warrior [[Hank]] and of an half elf from the [[East O'lands]] which is known as the land of the elves. Rumor has it that her mother may be of noble blood due to the her silver hair, but she left early due to an unknown illness so not much is actually known. She's (not yet) the next chosen of Elune and, despite her current lack of power, she will be accompanying the party in the initial stages of her journey.
+Main quest - The following person should be introduced as soon as possible, as it will be the main NPC (or played by someone special) of the quest. Serene, daughter of a retired human warrior [[Hank]] and of an half elf from the [[East O'lands]], known as the land of the elves. Rumor has it that her mother may be of noble blood due to the her silver hair, but she left early due to an unknown illness so not much is actually known. She's (not yet) the next chosen of Elune and, despite her current lack of power, she will be accompanying the party in the initial stages of her journey.
 
 Previous knowledge - the players know the following things about the area:
 
-- [[Esmeralda]] #bLocation is the southernmost village in the [[Erebor|region]], several days from [[Thunderpeak]] and closest to the [[Great Forest]]. 
-- The small town has the following features : a *small market* where pelts and grains are exchanged for trinkets and weapons from the capital, a *town square* with a bulletin board and a *town hall*, and a *small church* nearby with a fountain and a statue dedicated to [[Yannee]], sister of Elune.
+- [[Esmeralda]] #aLocation is the southernmost village in the [[Erebor|region]], several weeks from [[Thunderpeak]] and closest to [[The Great Forest|the Great Forest]]. 
+- The small town has the following features : a *small market* where pelts and grains are exchanged for trinkets and weapons from the capital, a *town square* with a bulletin board and a *town hall*, and a *small church* nearby with a fountain and a statue dedicated to [[Yaneet]], sister of Elune.
 - The town's main productions are grains and vegetables. Hunters who live nearby also trade goods in exchange for pelts, bones, and meats.
 - The townsfolk are preparing for the traditional spring festivities, and people from nearby settlements are coming to enjoy the nightly party.
 
@@ -41,7 +41,7 @@ When the players get to the town square they can overhear an animate discussion 
 
 ## The Great Forest
 
-The sun filters through the dense leaves of the Great Forest, casting dappled shadows over the party as they follow [[Hank]] through the verdant undergrowth. From the sprawling trees to the flowering ferns, the forest is an orchestra of nature's bounty. But for all its beauty, the forest lies eerily silent today.
+The sun filters through the dense leaves of the [[The Great Forest]], casting dappled shadows over the party as they follow [[Hank]] through the verdant undergrowth. From the sprawling trees to the flowering ferns, the forest is an orchestra of nature's bounty. But for all its beauty, the forest lies eerily silent today.
 
 As you push deeper into the forest, you find numerous tracks of all sorts of creatures. However, something feels off. Tracks lead into dead ends, or loop back onto themselves in a confusing maze of steps, and yet, not a single animal in sight. Despite the abundance of evidence of animal activity, the forest feels unnervingly devoid of life.
 
@@ -56,8 +56,6 @@ This is the critical moment where the players can interfere with the ritual and 
 Should the players choose to intervene, a battle will ensue, offering them the first real taste of the sinister plot they are about to uncover: as the players attack, one of the cultists will offer up his life in order to complete the ritual and the bear will suddenly start to morph into a monstrosity and attack the players.
 
 > Cultist : Slithering vermin, I'll show you true despair. Complete the ritual my brethren.
-
-If they chose to ignore, the cultist will lead the party to a deep part of the forest where some hostages are kept, and the ritual will ensue. 
 
 If they opt to hold back, the cultists will lead the party to a secluded part of the forest where hostages are held, and the ritual will proceed.
 
@@ -188,7 +186,7 @@ People scream and scatter in all directions, their screams piercing the night, d
 
 [[Hank]], driven by sheer determination, pushes through the frantic crowd, his eyes scanning desperately for Serene. The players, caught in the midst of the chaos, find themselves unable to fight or take immediate decisive action. The overwhelming panic paralyzes their ability to react, forcing them to witness the unfolding carnage as the beasts from the forest wreak havoc upon the defenseless villagers.
 
-#Master-Notes Here you should discuss with the party what is their plan to get out alive. 
+#Master-Notes Here you should discuss with the party what is their plan to get out alive. Players have very limited ability to do anything due to the panic.
 
 Amidst the chaos, a solitary black figure can be seen slipping through the crowd of people, moving with an eerie grace, seemingly unaffected by the presence of those around it, towards the town's church. Despite the chaos and commotion, its advance is unhindered, almost as if it was death itself.
 
@@ -285,7 +283,7 @@ She turns her gaze to the party, a wise and ancient light burning in her eyes. H
 
 > _Elune_ : "Children of Esmeralda, you have witnessed the evil that has taken root in this land. My chosen one, Serene, is the beacon of hope against this rising tide of chaos. She carries within the power to turn the tides, but she cannot do it alone. 
 > I beseech you to protect my daughter, guide her, help her fulfill her destiny. 
-> Journey with her to Thunderpeak, seek out a man named [[Odin the Wise]]. He will guide you further."
+> Journey with her to Thunderpeak, seek out a man named [[Okin the Wise]]. He will guide you further."
 
 As the goddess's words fade, her celestial form begins to dissipate, the radiant aura shrinking back and Serene collapses to the ground, her body frail and unconscious after the divine possession.
 

@@ -1,1 +1,0 @@
-The small commercial city near the coastal, located at the crossroads of several trade routes, Luxemburg is a bustling hub of commerce and cultural exchange. The city is predominantly populated by halflings and humans who have created a thriving community that welcomes visitors from all walks of life. Luxemburg is known for its lively taverns, delicious cuisine, and 

@@ -2,7 +2,7 @@ Thrain Ironfist was a human warrior who lived during the early years of the Age 
 
 Thrain Ironfist was a larger-than-life figure, a towering warrior with rippling muscles and a fiery gaze that could strike fear into the hearts of his enemies. He had a wild beard that reached down to his chest, and his hair was braided into thick cords that swung like battle banners as he strode into battle.
 
-Thrain's reputation as a legendary warrior preceded him wherever he went. He was said to have slain dragons with his bare hands, fought off hordes of orcs single-handedly, and even challenged the gods themselves to combat. Some claimed that he was invincible, that his skin was as hard as steel and that his sword was imbued with magical powers.
+Thrain's reputation as a legendary warrior preceded him wherever he went. He was said to have slain dragons with his bare hands, fought off hordes of orcs, side by side with legends like [[Aein]], and even challenged the gods themselves to combat. Some claimed that he was invincible, that his skin was as hard as steel and that his sword was imbued with divine magical powers.
 
 Despite his fearsome reputation, however, Thrain was a wise and compassionate leader, loved and respected by his people. He would often spend long hours listening to the concerns and grievances of his subjects, and would go to great lengths to ensure that they were well-fed and cared for.
 
