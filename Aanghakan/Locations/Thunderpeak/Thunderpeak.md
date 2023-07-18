@@ -1,7 +1,7 @@
 
 ### Description
 
-[[Thunderpeak]], capital of [[Erebor]], is a majestic dwarven city nestled deep within the [[Jade mountains]] range surrounded by rocky cliffs and high walls. The city is accessed by a winding road carved into the mountainside, which leads to a large gate made of thick, sturdy stone.
+[[Thunderpeak]], capital of [[Geopolitics here - Erebor]], is a majestic dwarven city nestled deep within the [[Jade mountains]] range surrounded by rocky cliffs and high walls. The city is accessed by a winding road carved into the mountainside, which leads to a large gate made of thick, sturdy stone.
 
 Once inside, visitors are greeted by the impressive sight of intricate stonework, illuminated by glowing crystals. The city's buildings are constructed with strong, durable stone, and are adorned with elaborate carvings and decorations that showcase the dwarves' skill and craftsmanship.
 

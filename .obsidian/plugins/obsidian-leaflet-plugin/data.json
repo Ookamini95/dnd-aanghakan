@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "leaflet-map",
-      "lastAccessed": 1688498501567,
+      "lastAccessed": 1689696586209,
       "markers": [
         {
           "id": "ID_f9ea29ab4b78",
@@ -11,6 +11,7 @@
             -0.9834403852778263,
             1.5641973608469
           ],
+          "link": "Main Quest - Introduction 01",
           "layer": "%5B%5Bmap-00.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -182,6 +183,39 @@
           "command": false,
           "percent": null,
           "description": "Desert of the Gobbs",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_894b6999485a",
+          "type": "default",
+          "loc": [
+            -0.880324401444692,
+            1.858427748696509
+          ],
+          "layer": "%5B%5Bmap-00.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Veiled Ravine",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9bb808ab5ad8",
+          "type": "default",
+          "loc": [
+            -0.8932869854264138,
+            1.3452226346629157
+          ],
+          "link": "Main Quest - Journey to the Capital 02",
+          "layer": "%5B%5Bmap-00.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Duxemburg",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"

@@ -93,7 +93,7 @@ skillsaves:
 
 traits:
 - name: Basic healer
-  desc: The hound has advantage on Wisdom Medicine checks and heals for 1d4+1. Cannot be used more than once on the same target, unless a long rest has been taken
+  desc: Serene has advantage on Wisdom Medicine checks and heals for 1d4+1. Cannot be used more than once on the same target, unless a long rest has been taken
 - name: Holy aura
   desc: This character emanates an aura of good around her
 - name : Thoughness
@@ -111,4 +111,4 @@ actions:
 
 After reaching the city, [[Gill]] manages to contact [[Thenerifa]], informing her about what unfolded the previous day. After a seemingly endless conversation between the two held in dwarvish, the merchant returns to the party to comunicate his intention to reach the capital as soon as possible, while answering any questions about the travel the party may have.
 
-#Master-Notes The journey to the capital lasts about 2 weeks and
+#Master-Notes The journey to the capital lasts about 2 weeks and you are free to pick and choose locations and encounters for the players from the [[The Green Sea]], 

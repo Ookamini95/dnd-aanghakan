@@ -16,7 +16,7 @@ Main quest - The following person should be introduced as soon as possible, as i
 
 Previous knowledge - the players know the following things about the area:
 
-- [[Esmeralda]] #aLocation is the southernmost village in the [[Erebor|region]], several weeks from [[Thunderpeak]] and closest to [[The Great Forest|the Great Forest]]. 
+- [[Esmeralda]] #aLocation is the southernmost village in the [[Geopolitics here - Erebor|region]], several weeks from [[Thunderpeak]] and closest to [[The Great Forest|the Great Forest]]. 
 - The small town has the following features : a *small market* where pelts and grains are exchanged for trinkets and weapons from the capital, a *town square* with a bulletin board and a *town hall*, and a *small church* nearby with a fountain and a statue dedicated to [[Yaneet]], sister of Elune.
 - The town's main productions are grains and vegetables. Hunters who live nearby also trade goods in exchange for pelts, bones, and meats.
 - The townsfolk are preparing for the traditional spring festivities, and people from nearby settlements are coming to enjoy the nightly party.
