@@ -259,7 +259,7 @@ spells:
 ## The awakening
 
 > *????* : This is getting boring. \*\*brings a player prone and points the dagger to his face\*\*  
-> ???? : Any last words?
+> *????* : Any last words?
 
 Just as Vespera looms over one of your players, ready to deliver the final blow, a searing radiance breaks forth from the heart of the fountain, exploding like a newborn star, its light washing over the pandemonium-stricken square. All, including Vespera, recoil as their gaze is drawn towards this spectacle. Even the vicious onslaught of the abyssal creatures momentarily wavers.
 

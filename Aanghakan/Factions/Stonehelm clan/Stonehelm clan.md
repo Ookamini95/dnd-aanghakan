@@ -5,17 +5,12 @@ The clan's history is a long and proud one, dating back to the earliest days of 
 The Stonehelm clan is known for their deep sense of honor and loyalty, and they have a reputation for being fiercely protective of their family and their city. They are also known for their hard work and their love of tradition, and many members of the clan still adhere to ancient dwarven customs and beliefs.
 
 
-
-
-Certainly! Here are some important-sounding roles related to the "Stonehelm Clan":
-
-1. Stonehelm Clan Patriarch/Matriarch: The revered elder and leader of the entire Stonehelm Clan, responsible for making important decisions and guiding the clan's destiny.
+1. Stonehelm Clan Patriarch: The revered elder and leader of the entire Stonehelm Clan, responsible for making important decisions and guiding the clan's destiny. ++ [[Balin Stonehelm]]
 2. High Warden of Stonehelm: The guardian and protector of the clan's ancestral stronghold, entrusted with defending its borders and ensuring its security.
-3. Stonehelm Clan Archivist: The individual responsible for preserving the clan's historical records, traditions, and ancestral knowledge.
-4. Stonehelm Clan Battlelord: The supreme commander of the clan's warriors, overseeing training, strategy, and leading them into battle.
+3. Stonehelm Clan Archivist: The individual responsible for preserving the clan's historical records, traditions, and ancestral knowledge. ++ [[Okin the Wise]]
+4. Stonehelm Clan Battlemaster: The supreme commander of the clan's warriors, overseeing training, strategy, and leading them into battle. ++ [[Grog son of Greg]]
 5. Stonehelm Clan Runekeeper: A skilled dwarf who studies and unlocks the ancient runic magic of the Stonehelm Clan, serving as both a historian and magical advisor.
 6. Stonehelm Clan Steward: The trusted advisor and administrator of the clan, managing its resources, finances, and day-to-day affairs.
-7. Stonehelm Clan Forgemaster: The master blacksmith and artisan responsible for crafting the clan's renowned weapons, armor, and other metalwork.
-8. Stonehelm Clan Lorekeeper: A wise dwarf who possesses extensive knowledge of the clan's legends, myths, and folklore, serving as a storyteller and teacher.
-9. Stonehelm Clan Earthshaper: A powerful dwarf with the ability to manipulate and commune with stone and earth, guiding the clan in matters related to mining, construction, and the earth's blessings.
+7. Stonehelm Clan Forgemaster: The master blacksmith and artisan responsible for crafting the clan's renowned weapons, armor, and other metalwork. ++ [[Thenerifa]]
+8. Stonehelm Clan Lorekeeper: A wise dwarf who possesses extensive knowledge of the clan's legends, myths, and folklore, serving as a storyteller and teacher. ++ [[Chad]]
 10. Stonehelm Clan Elder Council: A council of respected elders from various branches of the clan, serving as advisors to the Patriarch/Matriarch and collectively making important decisions.
