@@ -6,7 +6,7 @@ Even during a siege, dwarves do not play with their alcohol. There should be som
 
 Forgeborn fury is a powerful ale, so much so that it can actually ignite and produce a decent sized explosion (per cask : 3d6 fire damage). For this reason its production and trade has been forbidden. But that doesn't mean you can't get some of the stuff, at the right price.
 
-The trio also warns the players about... "security measures", and give our team a simple map of the [[Deep Crystal Caverns]], just enough to reach the mechanism that reveals the hidden stash.
+The trio also warns the players about... *"security measures"*, and give our team a simple map of the [[Deep Crystal Caverns]], just enough to reach the mechanism that reveals the hidden stash.
 
 #Master-Notes 
 With a decent roll they can be convinced to reveal some info about the security measures, else they will try to be as vague as possible. 

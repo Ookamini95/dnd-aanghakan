@@ -11,7 +11,7 @@ The destruction of the bridge stalls the enemy's advance, leaving them temporari
 
 #Master-Notes This unexpected respite gives our heroes a chance to regroup, recuperate, and explore the capital. 
 
-In Thunderpeak, the dwarves are a whirl of activity. Preparing for a siege is second nature to them, a rite etched into their ancestral memory by the harsh trials of history. The clang of hammers on metal resounds through the streets, the deep rhythm of a city preparing for war.
+In [[Thunderpeak]], the dwarves are a whirl of activity. Preparing for a siege is second nature to them, a rite etched into their ancestral memory by the harsh trials of history. The clang of hammers on metal resounds through the streets, the deep rhythm of a city preparing for war.
 
 The dwarven stonemasons inspect the walls, tracing their fingers over the cool stone, marking any weak spots for repair. They move with a steady, reassuring rhythm, their craftsmanship a testament to their enduring strength. As they work, they chant old songs of fortitude and resilience, their deep voices creating a haunting melody that echoes through the city.
 
@@ -25,7 +25,7 @@ In the taverns, the dwarven spirit is not dampened. They drink deeply, sing loud
 
 As the days trickle by, a curious sight unfolds. An intricately decorated caravan halts near the chasm, a safe distance from the city. From within emerges a muscular figure adorned in ritualistic robes. He examines the high city walls, takes notes in a small black notebook, and begins to inscribe cryptic symbols on the ground.
 
-A couple days later, an ethereal pathway materializes from the symbols. Unfazed by the manifestation, the robed figure and his caravan cross this pathway effortlessly, proceeding to lay the city under siege.
+A couple hours later, an ethereal pathway materializes from the symbols. Unfazed by the manifestation, the robed figure steps effortlessly on this pathway, proceeding to lay the city under siege.
 
 <hr>
 
