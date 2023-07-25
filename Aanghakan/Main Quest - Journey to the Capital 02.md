@@ -61,7 +61,7 @@ actions:
 
 ___________
 
-#Master-Notes  [[Duxemburg]] is a #cLocation and for such it can be modified without fear of damaging the coherence of the story. Here some possible scenarios :
+#Master-Notes  [[Duxemburg]] is a simple town and for such it can be modified without fear of damaging the coherence of the story. Here some possible scenarios :
 
 - the city, usually bustling with activity, has been mostly evacuated due to information passed down by the survivors. The party meets a group of guards that will help them get the necessary tools and information to continue the journey.
 - the city is bustling with activity as usual, the party may find any information at the local merchant's guild, tools and rations at the local market

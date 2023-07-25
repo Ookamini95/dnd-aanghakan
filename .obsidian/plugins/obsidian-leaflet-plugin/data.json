@@ -2,22 +2,22 @@
   "mapMarkers": [
     {
       "id": "leaflet-map",
-      "lastAccessed": 1689696586209,
+      "lastAccessed": 1690300158539,
       "markers": [
         {
           "id": "ID_f9ea29ab4b78",
           "type": "default",
           "loc": [
-            -0.9834403852778263,
-            1.5641973608469
+            -0.9794152307081264,
+            1.5371328958585235
           ],
           "link": "Main Quest - Introduction 01",
           "layer": "%5B%5Bmap-00.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.5213991202823,
-            0.32781346175927545
+            0.5123776319528411,
+            0.32647174356937547
           ],
           "description": "Esmeralda",
           "minZoom": null,

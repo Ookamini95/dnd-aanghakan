@@ -1,6 +1,6 @@
 Daughter of [[Dwalin the Stout]], she's the proud Forgemaster of the Stonehelm Clan. She maintains her residence in the high crags of [[Thunderpeak]], under the steadfast tutelage of her legendary father. Having inherited his title, she diligently absorbs the final fragments of his vast wisdom, the culmination of generations of Stonehelm know-how.
 
-She perpetually immerses herself in the complex study and manipulation of exotic gems. These precious stones, mined from the enigmatic recesses of the Crystal Caves, serve not only as her artistic mediums but also her founts of inspiration. Years of relentless exploration and meticulous scholarship have bestowed upon her an unparalleled knowledge of these labyrinthic tunnels, their shimmering veins as familiar to her as the lines on her weathered palms.
+She perpetually immerses herself in the complex study and manipulation of exotic gems. These precious stones, mined from the enigmatic recesses of the Crystal Caves, serve not only as her artistic mediums but also her founts of inspiration. Years of relentless exploration and meticulous scholarship have bestowed upon her an unparalleled knowledge of these labyrinthine tunnels, their shimmering veins as familiar to her as the lines on her weathered palms.
 
 However, there remains an enigmatic piece of this underground world yet uncharted by our heroine - The Pits. Veiled in deep shadows and riddled with whispering tales of mystery and peril, this part of the caves has thus far eluded her adventurous spirit...
 

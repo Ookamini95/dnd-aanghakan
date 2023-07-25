@@ -1,3 +1,3 @@
 - [[Main Quest - Introduction 01]]
 - [[Main Quest - Journey to the Capital 02]]
-- 
+- [[Main Quest - The Hearth of the Mountain 03]]

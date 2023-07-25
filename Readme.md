@@ -15,7 +15,3 @@ TODO
 Authors
 
 Ookami95
-
-
-
-#aLocation #bLocation #cLocation  different tiers for locations, from most important to cohesiviness to more customizable.

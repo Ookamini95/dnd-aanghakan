@@ -1,2 +1,1 @@
-[[Missing Child]]
 [[The Lost Mines of Thunderpeak]]

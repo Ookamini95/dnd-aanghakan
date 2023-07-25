@@ -1,0 +1,1 @@
+Master of flesh magic, this shapeshifting monstrosity is the head of the 

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d86f9bb4bd7f276b",
+            "id": "84feb8079802ffe6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aanghakan/Locations/Thunderpeak/Assets/quests/side-quests/Missing Child.md",
+                "file": "Aanghakan/Locations/Thunderpeak/Assets/characters/Mell.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Yggdrasil",
+                "query": "aa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,8 +94,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aanghakan/Locations/Thunderpeak/Assets/quests/side-quests/Missing Child.md",
-                "collapseAll": false,
+                "file": "Aanghakan/Locations/Thunderpeak/Assets/characters/Mell.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aanghakan/Locations/Thunderpeak/Assets/quests/side-quests/Missing Child.md",
+                "file": "Aanghakan/Locations/Thunderpeak/Assets/characters/Mell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aanghakan/Locations/Thunderpeak/Assets/quests/side-quests/Missing Child.md"
+                "file": "Aanghakan/Locations/Thunderpeak/Assets/characters/Mell.md"
               }
             }
           },
@@ -146,8 +146,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "d02568bb13dba9ce",
@@ -180,50 +179,50 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "d86f9bb4bd7f276b",
+  "active": "84feb8079802ffe6",
   "lastOpenFiles": [
-    "Aanghakan/Main Quest - Introduction 01.md",
+    "Aanghakan/Locations/Thunderpeak/Assets/characters/Layla Al-Hassan.md",
+    "Aanghakan/Locations/Thunderpeak/Assets/characters/Filip and Ki.md",
+    "Aanghakan/Locations/Thunderpeak/Assets/characters/Dwalin the Stout.md",
+    "Aanghakan/Locations/Thunderpeak/Assets/characters/Bifur, Bofur, and Bombur.md",
+    "Aanghakan/Locations/Thunderpeak/Assets/characters/Dofur the Brave.md",
+    "Aanghakan/Locations/Thunderpeak/Assets/characters/Balin Stonehelm.md",
+    "Aanghakan/Locations/Thunderpeak/Assets/characters/Grog son of Greg.md",
+    "Aanghakan/Locations/Thunderpeak/Main Quest - Escaping the capital 04.md",
+    "Aanghakan/Locations/Thunderpeak/Main Quest - The Hearth of the Mountain 03.md",
+    "Aanghakan/Locations/Thunderpeak/Assets/locations/Royal archives.md",
+    "Aanghakan/Locations/Thunderpeak/Thunderpeak.md",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Esmeralda.md",
     "Aanghakan/Locations/Thunderpeak/Assets/quests/side-quests/Missing Child.md",
-    "Layla Al-Hassan.md",
     "Aanghakan/Locations/Thunderpeak/Assets/quests/side-quests/Like Rats in a Cellar.md",
     "Aanghakan/Locations/Thunderpeak/Assets/quests/side-quests/Ale Shortage.md",
-    "Aanghakan/Locations/Thunderpeak/Thunderpeak.md",
-    "Aanghakan/Locations/Geopolitics here - Erebor.md",
-    "Aanghakan/Factions/Cult of the Abyssal Serpent/Cult of the abyssal serpent.md",
-    "Aanghakan/Factions/Cult of the Abyssal Serpent/Assets/characters/Vespera Shadowdancer.md",
-    "Aanghakan/Other/Folklore and History/Hearth of the Mountain.md",
-    "Aanghakan/Locations/Thunderpeak/Assets/quests/The Siege of Thunderpeak.md",
+    "Aanghakan/Locations/Thunderpeak/Assets/locations/Embassy.md",
+    "Aanghakan/Locations/Thunderpeak/Assets/locations/Glimmering Anvil Inn - Inn.md",
+    "Aanghakan/Locations/Thunderpeak/Assets/locations/Miner's Refuge - Tavern.md",
+    "Aanghakan/Locations/Thunderpeak/Assets/locations/Untitled",
+    "Aanghakan/Locations/Thunderpeak/Assets/quests/side-quests/The Miner's Lament.md",
+    "Aanghakan/Locations/Erebor.md",
     "Aanghakan/Locations/Thunderpeak/Assets/quests/The Lost Mines of Thunderpeak.md",
-    "Aanghakan/Locations/Crystal Caverns/Crystal Caverns.md",
-    "Aanghakan/Locations/Crystal Caverns/Deep Crystal Caverns.md",
-    "Aanghakan/Aanghakan.md",
-    "Aanghakan/Locations/Thunderpeak/Assets/characters/Balin Stonehelm.md",
-    "Aanghakan/Locations/Thunderpeak/Assets/characters/Bifur, Bofur, and Bombur.md",
-    "Aanghakan/Locations/Thunderpeak/Assets/images/Dwalin_the_Stout.png",
-    "Aanghakan/Locations/Thunderpeak/Assets/images/Balin_Stonehelm.png",
-    "Aanghakan/Factions/Red Star Syndicate/Red Star Syndicate.md",
-    "Aanghakan/Main Quest - Journey to the Capital 02.md",
-    "Aanghakan/Factions/Stonehelm clan/Assets/characters/Thenerifa.md",
-    "Aanghakan/Factions/Stonehelm clan/Assets/characters/Gill.md",
-    "Aanghakan/Locations/Jade Mountains",
-    "Aanghakan/Locations/East O'lands",
-    "mainq.md",
-    "Aanghakan/Locations/Jade Mountains/Jade mountains.md",
-    "Aanghakan/Locations/Thunderpeak/Assets/images/Thunderpeak-city.png",
-    "Aanghakan/Locations/Thunderpeak/Assets/images/Bifur_Bofur_and_Bombur.png",
+    "Aanghakan/Locations/Thunderpeak/Assets/locations",
+    "Aanghakan/Locations/Thunderpeak/Assets/quests/The Siege of Thunderpeak.md",
     "Aanghakan/Locations/The Green Sea/Assets/locations/Duxemburg.md",
-    "Aanghakan/Factions/Stonehelm clan/Assets/characters",
-    "Aanghakan/Factions/Stonehelm clan/Assets",
-    "Aanghakan/Factions/Stonehelm clan/Stonehelm clan.md",
-    "Aanghakan/Factions/Cult of the Abyssal Serpent/Assets/characters",
-    "Aanghakan/Factions/Cult of the Abyssal Serpent/Assets",
-    "Aanghakan/Other/Folklore and History/Abyssal Serpent.md",
-    "Aanghakan/Locations/The Green Sea/Assets",
-    "Aanghakan/Locations/The Green Sea/Assets/characters",
-    "Aanghakan/Locations/The Green Sea/Assets/locations",
-    "Aanghakan/Other/Assets/images",
+    "Aanghakan/Locations/The Green Sea/Assets/characters/Hank.md",
+    "Aanghakan/Locations/The Green Sea/The Great Forest.md",
+    "Aanghakan/Locations/The Green Sea/The Green Sea.md",
     "Aanghakan/Other/Assets/images/map-00.png",
     "Aanghakan/Other/Assets/images/Aanghakan.png",
+    "Aanghakan/Other/Assets/images/ps6A81.tmp",
+    "Aanghakan/Locations/Thunderpeak/Assets/images/Dwalin_the_Stout.png",
+    "Aanghakan/Locations/Thunderpeak/Assets/images/Balin_Stonehelm.png",
+    "Aanghakan/Locations/Jade Mountains",
+    "Aanghakan/Locations/East O'lands",
+    "Aanghakan/Locations/Thunderpeak/Assets/images/Thunderpeak-city.png",
+    "Aanghakan/Locations/Thunderpeak/Assets/images/Bifur_Bofur_and_Bombur.png",
+    "Aanghakan/Factions/Stonehelm clan/Assets/characters",
+    "Aanghakan/Factions/Stonehelm clan/Assets",
+    "Aanghakan/Factions/Cult of the Abyssal Serpent/Assets/characters",
+    "Aanghakan/Factions/Cult of the Abyssal Serpent/Assets",
+    "Aanghakan/Locations/The Green Sea/Assets",
     "Aanghakan/Locations/Thunderpeak/Assets/images/Thrain_Ironfist.png",
     "Aanghakan/Locations/Thunderpeak/Assets/images/Oin_the_wise.png",
     "Aanghakan/Locations/Thunderpeak/Assets/images/Grog_son_of_greg.png",
