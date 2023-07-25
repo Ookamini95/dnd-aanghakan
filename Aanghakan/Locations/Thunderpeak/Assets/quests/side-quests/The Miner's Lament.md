@@ -1,7 +1,7 @@
 
 [[Filip and Ki|Filip]], the foreman of the Crystal Caves, is in a bind. Not only have there been mysterious cave-ins spooking his miners, but now an infestation of exploding rats, seemingly originating from deeper within the caves, is jeopardizing operations. [[Filip and Ki|Filip]] needs you to investigate and deal with these problems before panic spreads among his crew. Also it seems that his partner in business, [[Filip and Ki|Ki]] has gone missing in the mines. 
 
-As you delve deeper into the caves, you discover that the rats are not naturally explosive but have been corrupted by what appears to be a fungus parasite. You also find out that the cave-ins and the rat infestation are not unrelated. The disturbances in the cave structure seem to have agitated the normally passive rats, which seem to trigger explosions in random portions of the galleries.
+As you delve deeper into the caves, you may discover that the rats are not naturally explosive but have been corrupted by what appears to be a parasite. You also find out that the cave-ins and the rat infestation are not unrelated. The disturbances in the cave structure seem to have agitated the normally passive rats, which seem to trigger explosions in random portions of the galleries. 
 
 Several puzzles can be involved in this quest:
 

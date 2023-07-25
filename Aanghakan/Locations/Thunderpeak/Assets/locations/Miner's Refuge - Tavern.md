@@ -1,1 +1,3 @@
-[[Bifur, Bofur, and Bombur]]
+The **Miner's Refuge**, located near the [[The mining district|mining district]], a haven for those who bear the weight of the mountains on their shoulders. Managed by the ebullient trio of [[Bifur, Bofur, and Bombur]], it throbs with the heartbeat of labor and camaraderie. Its tables and chairs are well-worn, etched with the history of many an ale-fueled evening. Laughter and raucous song often spill into the cobbled streets, blending with the staccato rhythm of hammers on anvils. The air inside is thick with the smell of hearty brews and the earthy aroma of the tunnels below. It is a sanctuary from the unforgiving rock and the unyielding pick, a place to trade stories and temporarily forget the ever-present danger lurking in the depths.
+
+#Quest [[Ale Shortage]] - [[The Miner's Lament]]

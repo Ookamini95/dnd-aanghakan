@@ -1,2 +1,7 @@
-[[Missing Child]]
+A sanctuary for emissaries and ambassadors alike; it is the stone-bound heartbeat of Thunderpeak's diplomacy, amidst the raw and stony tenacity of the city. Hewn from the same stoic stone that comprises the formidable mountain range, it stands as a steadfast testament to the unwavering alliances the dwarves have forged throughout the ages. The polished granite facade is graced with the emblems and banners of distant nations, a colorful tapestry woven from threads of unity and harmony, fluttering solemnly against the icy mountain winds. 
 
+Inside grand halls that echo the heroic tales of old, statues standing sentinel, their stoic faces illuminated by the ethereal glow of embedded crystals. The large oak tables, sturdy and unyielding as the dwarven resolve, bear the weight of countless deliberations.
+
+Yet, its grandiosity is balanced by an intricate network of office burrows. These claustrophobic corridors, lined with parchment-stuffed shelves and ledger-laden desks, whisper the slower rhythms of diplomacy. The aroma of ink and ancient papyrus fills the air, interrupted occasionally by the scent of strong dwarven ale - the only permissible interruption to the methodical bureaucracy. 
+
+#Quest [[Missing Child]]

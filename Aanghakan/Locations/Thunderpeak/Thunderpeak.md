@@ -14,5 +14,12 @@ Only a few weeks' journey from the city lies the vast expanse of the surrounding
 ![[Thunderpeak-city.png]]
 
 
-#TODO Locations inside the city
-#Master-Notes Here I'll provide the main locations inside the city
+#Master-Notes Here I'll provide the main locations inside the city : 
+
+- [[Glimmering Anvil Inn - Inn]]
+- [[The wet market]]
+- [[Stonehelm's clan Stronghold]]
+- [[Royal archives]]
+- [[Embassy]]
+- [[Miner's Refuge - Tavern]]
+- [[The mining district]]
