@@ -111,4 +111,4 @@ actions:
 
 After reaching the city, [[Gill]] manages to contact [[Thenerifa]], informing her about what unfolded the previous day. After a seemingly endless conversation between the two held in dwarvish, the merchant returns to the party to comunicate his intention to reach the capital as soon as possible, while answering any questions about the travel the party may have.
 
-#Master-Notes The journey to the capital lasts about 2 weeks and you are free to pick and choose locations and encounters for the players from the [[The Green Sea]], the [[The Opal Sea]] or the [[Jade Mountains]], depending on which way the party decides to embark in order to reach the [[capital|Thunderpeak]].
+#Master-Notes The journey to the capital lasts about 2 weeks and you are free as a GM to pick and choose locations and encounters for the players from the [[The Green Sea]], the [[The Opal Sea]] or the [[Jade Mountains]] depending on which way the party decides to embark in order to reach the [[Thunderpeak|capital]].

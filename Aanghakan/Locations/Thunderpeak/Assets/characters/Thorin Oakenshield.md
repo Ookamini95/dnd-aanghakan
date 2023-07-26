@@ -5,7 +5,7 @@ Thorin of the [[Oakenshield clan]] was born in Thunderpeak, the grandson of Thac
 
 
 
-TODO :::
+TODO ::: MOVE INTO FOLKLORE
 
 
 

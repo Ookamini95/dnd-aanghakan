@@ -1,6 +1,6 @@
 Balin Stonehelm was born into the [[Stonehelm clan]], one of the most prominent and respected families in [[Thunderpeak]]. From a young age, Balin showed a natural talent for leadership and strategy, and he quickly rose through the ranks of the city's military forces.
 
-In his early years, Balin distinguished himself in battle against the orcish hordes that threatened Thunderpeak's borders. His tactical prowess and courage earned him the respect and admiration of his fellow dwarves, and he soon became a favorite among the city's citizens.
+In his early years, Balin distinguished himself in battle against orcish hordes that threatened Thunderpeak's borders. His tactical prowess and courage earned him the respect and admiration of his fellow dwarves, and he soon became a favorite among the city's citizens.
 
 As Balin grew older, he began to take on more and more responsibilities within the city. He served as a military commander, a judge, and a diplomat, using his intellect and wisdom to guide Thunderpeak through times of war and peace.
 

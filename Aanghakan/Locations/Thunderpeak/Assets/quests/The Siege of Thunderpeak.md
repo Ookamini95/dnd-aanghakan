@@ -4,12 +4,12 @@
 A rival faction, the [[Cult of the abyssal serpent]], has laid siege to Thunderpeak, threatening the city's safety. The cult's members believe that obtaining the Heart of the Mountain will grant them the power to bring their god into the mortal world, and they are willing to do anything to achieve their goal. Their forces are composed of cultists, summoned fiends, and serpentine monsters. 
 An immense army is facing the city, just at the beginning of the narrow gap that leads to the city. 
 
-> [[Balin Stonehelm]] : Destroy the bridge! 
+> *Dwarf scout* : Destroy the bridge! 
 > *HORNS*
 
 The destruction of the bridge stalls the enemy's advance, leaving them temporarily incapacitated. They are left with no choice but to set up camp and begin preparations for a siege.
 
-#Master-Notes This unexpected respite gives our heroes a chance to regroup, recuperate, and explore the capital. 
+#Master-Notes This unexpected respite gives our heroes a chance to regroup, recuperate, and continue exploring the capital. 
 
 In [[Thunderpeak]], the dwarves are a whirl of activity. Preparing for a siege is second nature to them, a rite etched into their ancestral memory by the harsh trials of history. The clang of hammers on metal resounds through the streets, the deep rhythm of a city preparing for war.
 
@@ -39,6 +39,4 @@ The resilience of the dwarven fortress of Thunderpeak shines through. Impenetrab
 
 <hr>
 
-As the celebrations rage on, our heroes retire to a quiet alley near the camp. They rest, and amidst the calm, discuss the trials that lie ahead.
-
-[[The Lost Mines of Thunderpeak]]
+As the celebrations rage on, our heroes decide what to do next, while a familiar figure is calmly approaching the party. [[Okin the Wise|Okin]] is the bearer of [[The Lost Mines of Thunderpeak|great news]], as a matter of great importance has arisen from the [[Royal archives]], and will lead the party to the [[Stonehelm's clan Stronghold]] in order to meet the [[Balin Stonehelm|king himself]].

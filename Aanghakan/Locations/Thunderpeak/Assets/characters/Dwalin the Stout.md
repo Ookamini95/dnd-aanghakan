@@ -4,4 +4,4 @@ Dwalin's skill as a blacksmith caught the attention of the city's ruling council
 
 Over time, Dwalin's reputation grew beyond Thunderpeak, and his work became known throughout the entire region. He began receiving requests for his creations from outside the city, and his work was soon being sought after by kings and warlords alike.
 
-Despite his growing fame, Dwalin remained true to his roots and continued to work in his family's forge in [[Thunderpeak]]. 
+Despite his growing fame, Dwalin remained true to his roots and continued to work in his family's forge in [[Thunderpeak]], where he nurtured a family. His daughter, [[Thenerifa]] is his only child and he's very protective of her, while leaving her enough space to grow and prosper.

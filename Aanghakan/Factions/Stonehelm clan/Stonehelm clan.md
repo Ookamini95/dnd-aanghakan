@@ -6,7 +6,7 @@ The Stonehelm clan is known for their deep sense of honor and loyalty, and they 
 
 
 1. Stonehelm Clan Patriarch: The revered elder and leader of the entire Stonehelm Clan, responsible for making important decisions and guiding the clan's destiny. ++ [[Balin Stonehelm]]
-2. High Warden of Stonehelm: The guardian and protector of the clan's ancestral stronghold, entrusted with defending its borders and ensuring its security.
+2. High Warden of Stonehelm: The guardian and protector of the clan's ancestral stronghold, entrusted with defending its borders and ensuring its security. ++ [[Leon the Brave]]
 3. Stonehelm Clan Archivist: The individual responsible for preserving the clan's historical records, traditions, and ancestral knowledge. ++ [[Okin the Wise]]
 4. Stonehelm Clan Battlemaster: The supreme commander of the clan's warriors, overseeing training, strategy, and leading them into battle. ++ [[Grog son of Greg]]
 5. Stonehelm Clan Runekeeper: A skilled dwarf who studies and unlocks the ancient runic magic of the Stonehelm Clan, serving as both a historian and magical advisor.

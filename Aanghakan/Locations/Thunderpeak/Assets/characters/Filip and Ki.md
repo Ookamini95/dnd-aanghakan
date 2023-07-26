@@ -1,2 +1,5 @@
-[[Missing Child]]
-[[The Lost Mines of Thunderpeak]]
+A curious symbiosis of man and dwarf, their collective spirits etched by the unyielding grip of the mines. Filip, a man of human stock, his face weathered like an old map, each line a testament to the trials endured in the belly of the earth. His hands, calloused from the weight of his responsibility, his eyes, once brimming with a miner's unquenchable ambition, now flicker with a fear that permeates the cavernous expanse of the Crystal Caves. Yet, in his trembling gaze lies not just fear, but a glimmer of faithlful hope.
+
+Beside him, the specter of Ki lingers. Stout-hearted and unyielding as the stone she hails from, this dwarven maiden’s absence echoes loudly through the mines. The riddle of her disappearance is woven into the very sinew of the caves, a thread intertwined with the fate of the world above.
+
+#Quest [[The Miner's Lament]] - [[Like Rats in a Cellar]] - [[The Lost Mines of Thunderpeak]]

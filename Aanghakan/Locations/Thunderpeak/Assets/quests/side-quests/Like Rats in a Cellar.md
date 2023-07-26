@@ -7,5 +7,5 @@ Unveiling this concealed menace and ensuring the city's defenses remain a myster
 #Master-Notes **Here are some potential objectives for the Abyssal Serpent cultists** :
 
 - *A passage through the mountains :* a covert passage to the [[Crystal Caverns]] lies a day's march from the city. If found, the cultist may have a real shot at the [[Hearth of the Mountain]]. 
-- *A Wrench in the Works :* sabotage has long been a favored tool of subterfuge. A well-executed disruption could significantly impact the party's plans and force them to adapt on the fly. The wet market is an ideal target...
+- *A Wrench in the Works :* sabotage has long been a favored tool of subterfuge. A well-executed disruption could significantly impact the party's plans and force them to adapt on the fly. The wet market is an ideal target.
 - *A Deadly Shadow :* given their infiltration, the cultists could potentially leverage the element of surprise for an assassination. With a potent poison and meticulous planning, they could strike at the heart of Thunderpeak's leadership.
