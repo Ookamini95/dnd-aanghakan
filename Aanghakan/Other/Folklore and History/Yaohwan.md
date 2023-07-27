@@ -1,0 +1,1 @@
+The third Chosen, Yaohwan, was born of the valiant Valkyrie blood. His tale is one of wisdom, diplomacy, and unity. As a guardian and protector, he helped weave the disparate threads of Aanghakan into a tapestry of unity. His death marked the end of an era, but his legacy continues to resonate through time, a constant reminder of the peace and hope he tirelessly championed.

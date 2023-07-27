@@ -13,43 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aanghakan/Locations/Thunderpeak/Assets/characters/Grog son of Greg.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30461346cf663a75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aanghakan/Locations/Thunderpeak/Main Quest - The Hearth of the Mountain 03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff68866820fcfc77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aanghakan/Factions/Stonehelm clan/Stonehelm clan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d1d1d850d1be1cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aanghakan/Locations/Thunderpeak/Assets/quests/side-quests/The Miner's Lament.md",
+                "file": "Aanghakan/Other/Folklore and History/Abyssal Serpent.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aanghakan/Locations/Thunderpeak/Assets/characters/Grog son of Greg.md",
+                "file": "Aanghakan/Other/Folklore and History/Abyssal Serpent.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aanghakan/Locations/Thunderpeak/Assets/characters/Grog son of Greg.md",
+                "file": "Aanghakan/Other/Folklore and History/Abyssal Serpent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aanghakan/Locations/Thunderpeak/Assets/characters/Grog son of Greg.md"
+                "file": "Aanghakan/Other/Folklore and History/Abyssal Serpent.md"
               }
             }
           },
@@ -217,34 +181,34 @@
   },
   "active": "05692ecf5745f717",
   "lastOpenFiles": [
-    "Aanghakan/Factions/Stonehelm clan/Stonehelm clan.md",
-    "Aanghakan/Locations/Thunderpeak/Main Quest - The Hearth of the Mountain 03.md",
+    "Aanghakan/Other/Folklore and History/Thein.md",
+    "Aanghakan/Other/Folklore and History/Aein.md",
+    "Aanghakan/Other/Folklore and History/Abyssal Serpent.md",
+    "Aanghakan/Other/Folklore and History/Yaneet.md",
+    "Aanghakan/Other/Folklore and History/Yaohwan.md",
+    "Aanghakan/Other/Folklore and History/Thrain Ironfist (deceased).md",
+    "Aanghakan/Other/Folklore and History/Thousand Roots.md",
     "Aanghakan/Locations/Thunderpeak/Assets/quests/side-quests/The Miner's Lament.md",
-    "Aanghakan/Locations/Thunderpeak/Assets/characters/Okin the Wise.md",
-    "Aanghakan/Locations/Thunderpeak/Assets/characters/Filip and Ki.md",
-    "Aanghakan/Locations/Thunderpeak/Assets/characters/Grog son of Greg.md",
-    "Aanghakan/Locations/Thunderpeak/Assets/characters/Layla Al-Hassan.md",
-    "Aanghakan/Locations/Thunderpeak/Assets/characters/Leon the Brave.md",
-    "Aanghakan/Locations/Thunderpeak/Assets/characters/Mell.md",
+    "Aanghakan/Other/Folklore and History/Goor.md",
+    "Aanghakan/Other/Folklore and History/Hearth of the Mountain.md",
+    "Aanghakan/Other/Folklore and History/Giants.md",
+    "Aanghakan/Other/Folklore and History/The Chosen.md",
+    "Aanghakan/Other/Folklore and History/Lord Cantrocas.md",
+    "Aanghakan/Other/Folklore and History/Elune.md",
     "Aanghakan/Main Quest - Introduction 01.md",
-    "Aanghakan/Locations/Thunderpeak/Main Quest - Escaping the capital 04.md",
-    "Aanghakan/Main Quest - Journey to the Capital 02.md",
-    "Aanghakan/Locations/Thunderpeak/Assets/quests/The Siege of Thunderpeak.md",
     "Aanghakan/Locations/The Green Sea/Assets/locations/Esmeralda.md",
     "Aanghakan/Locations/The Green Sea/Assets/locations/Duxemburg.md",
     "Aanghakan/Locations/The Green Sea/The Green Sea.md",
+    "Aanghakan/Locations/The Green Sea/Mirthshade.md",
+    "Aanghakan/Locations/Thunderpeak/Main Quest - The Hearth of the Mountain 03.md",
     "Aanghakan/Locations/The Green Sea/Assets/locations/The Great Forest/The Great Forest.md",
-    "Aanghakan/Locations/Erebor.md",
-    "Azura.md",
-    "Aanghakan/Aanghakan.md",
     "Aanghakan/Locations/The Green Sea/Assets/characters/Hank.md",
-    "Aanghakan/Locations/The Green Sea/Assets/locations/The Great Forest",
     "Aanghakan/Locations/Jade Mountains/Jade mountains.md",
-    "Aanghakan/Locations/Crystal Caverns/Crystal Caverns.md",
-    "Aanghakan/Locations/East O'lands/East O'lands.md",
+    "Azura.md",
+    "Main Quest.md",
+    "Readme.md",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/The Great Forest",
     "Aanghakan/Locations/Crystal Caverns/Deep Crystal Caverns",
-    "Aanghakan/Locations/Crystal Caverns/Deep Crystal Caverns/Deep Crystal Caverns.md",
-    "Aanghakan/Locations/Thunderpeak/Assets/quests/The Lost Mines of Thunderpeak.md",
     "Aanghakan/Locations/Thunderpeak/Assets/locations/Untitled",
     "Aanghakan/Locations/Thunderpeak/Assets/locations",
     "Aanghakan/Other/Assets/images/map-00.png",
