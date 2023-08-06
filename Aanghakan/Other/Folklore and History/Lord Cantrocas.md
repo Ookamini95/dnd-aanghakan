@@ -57,7 +57,7 @@ However, every tool of power comes with its limitations. Each time Lord Cantroca
 
 This tragic irony wasn't lost on Lord Cantrocas. The very gems that were meant to unite his splintered self now became chains, dragging him into a chasm of insanity. In a fleeting moment of clarity, he recognized the imperative to distance himself from these volatile conduits. Not for the world's salvation, but for his self-preservation, the gems were buried deep within [[Aanghakan]]. He hoped that the earth would muffle their calls, allowing him to regain some semblance of his former self...
 
-By the time they were unearthed and presented to [[Thein]], their origins had been obliterated from mortal memory by the gems' own power, striving the subconscious desire to remain hidden from any Lord Cantrocas, a threat to their very existence.
+By the time they were unearthed and presented to [[Thein]], their origins had been obliterated from mortal memory by the gems' own power, driven by a subconscious desire to remain hidden from any Lord Cantrocas, a threat to their very existence.
 
 The same gems would be utilized to forge and empower the [[Thousand Roots Crown]], a legendary artifact created by [[Thein|Thein's]] ingenuity, and avert the ascent of the [[Abyssal Serpent]].  Funny, how chances mold the future in unexpected ways.
 
