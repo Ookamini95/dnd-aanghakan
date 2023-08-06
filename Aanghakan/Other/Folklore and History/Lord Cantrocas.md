@@ -1,41 +1,63 @@
-An erudite of the myths can pull out numerous curiosity from the list of the most powerful entities that walked the lands of Aanghakan in his known history, but an even odder creature of outstanding power has entered this realm in the recent time.
-Lord Cantrocas, with his unique and yet a very familiar aspect, walks amongst the mortal creatures brooding over his only and fatal defeat, plotting his revenge while trapped in his own cruel, eternal and quite peculiar exile.
-___
-## The other world
-During his mortal life Cantrocas used to be an ordinary individual in his own world, in his own universe. Little is known of this different plan of existence if not that the people of his race were called *half elves* and a few Gods used to rule and bend the reality and the mortal creatures to their will. Cyclic ages of war, despair and rebuild forged brave and strong races and spectacular individuals amongst them raised as hero to break the constant and selfish war schemed by the Gods. 
 
-## The beginning
-But this is not the world Cantrocas was born in. Thousands of years after the Age of the Heros, Cantrocas was born from the love of an elf adventurer and a human bride, unhappy of her dull existence as the wife of a farmer. Of course this is not a very interesting story, but it lead the young Cantrocas on a path of ambition fueled by cruelty and a total lack of empathy.
 
-The key part of his ascension to God and Immortal creature is the meeting of a disjointed, undisciplined and absolutely gullible adventurer during one of his journey. This people, called by Cantrocas ***his party***, proved themselves capable of incredible challenges, given their scarse experience and equipment. In few years of adventures and questing their renown and prestige raised quickly enough to gain the  long forgotten and very powerful appellative of **Heroes**.
+Erudites of myths could name multitudes of curiosities from the lives of the most powerful entities that have walked the lands of Aanghakan throughout its known history. Yet, an even more peculiar creature of outstanding power has entered this realm by sheer accident, slipping through the gaps of the universe, evading the very gaze of the gods.
 
+Lord Cantrocas, with his unique yet eerily familiar aspect, walks among mortal creatures, brooding over his devastating and **ONLY** defeat. He silently plots his revenge while trapped in his own harsh, eternal, and distinctly bizarre exile.
+
+---
+
+## The Other World
+
+In another realm, a universe distinct from Aanghakan, Cantrocas was once an ordinary man. This world was an enigma as everything relating to it has been torn from the fabric of existence long before our story had begun. 
+
+Few gods, neither benevolent nor malevolent, held sway over this reality, bending the very essence of existence and influencing mortals as they deemed fit. 
+Time in this realm was cyclical, marked by epochs of war, heartbreak, and rebirth. 
+
+Amidst this, standout individuals emerged, hailed as heroes, striving to cease the gods' seemingly capricious wars. 
+
+## The Beginning
+
+Thousands of years before the [[Age of the Heroes|age of heroes]], the tapestry of time was still being woven, with threads of destiny intertwining and paths yet undiscovered. Cantrocas, born in a world on the cusp of magic and reality, was just another thread amidst the vast cosmos. However, a latent fire of ambition smoldered within him, awaiting a gust of fate to ignite its flames.
+
+A pivotal moment in his ascent to godhood and immortality occurred unexpectedly, on a day much like any other. He chanced upon a group of adventurers — disjointed, undisciplined, and utterly naive in their understanding of the world's arcane mysteries — yet, their very rawness intrigued Cantrocas, and sensing a potential that even they were unaware of, he christened them as _**his**_ party.
+
+Under his tutelage and leadership, they faced seemingly insurmountable challenges, often defying the very laws that governed the existence of mortals. Their resilience, combined with Cantrocas's vision, molded them into a formidable force. Tales of their exploits spread like wildfire, and before they even realized, they were revered, respected, and feared. 
+
+The title of **Heroes** — a moniker lost in the annals of history — found its rightful bearers once more.
 
 ## The Ascension
-But the souls of those heroes were very different from the ones that forged that lang lasting age of peace and the Gods, defeated but not destroyed, were looking keenly the growth of the self proclaimed **Lord Cantrocas**. His very birth was part of their plan and the path of power he was walking were built centuries before his own father met the mother of the pour half elf.
 
-Blinded by his own ambition and sudden growth of power, Lord Cantrocas exploited his own companion to ascend from his mortal form, entering the forgotten realm of the Gods and gaining the status of Eternal. The ancient God known as **The Blind Precentor** master of **Fate** was slain by Lord Cantrocas and the enslaved souls of his former companions and his power stolen from the half elf in the process.
+However, the paths these heroes tread were not simply their own making. The gods, hidden in the shadows of the universe's vast expanse, observed with keen interest the rise of the self-proclaimed **Lord Cantrocas**. His very existence was orchestrated, and the trajectory of power he traversed was laid down centuries before his own conception.
 
-Blessed by his new power Lord Cantrocas saw his future, his fate, and also get to know the reason of his very existence. He war just a tool in the hands of the sealed Gods, an instrument vowed to free his masters, but his Ego grew beyond measures, turning the event in an explicable future even for the master of fate itself. 
+Blinded by ambition and a meteoric rise in power, Lord Cantrocas mercilessly used his companions to ascend to his _**fate of greatness**_, striving to reach the highest echelons of divinity. 
 
+The ancient god known as **The Blind Precentor**, the master of **Fate**, final barrier to true godhood, was then slain by Lord Cantrocas, who seized his power and enslaved the souls of his erstwhile allies.
+
+Endowed with newfound power, Lord Cantrocas glimpsed his future, his destiny, and the overarching scheme that bound him. He realized he was merely a pawn in the grand designs of the gods, a tool preordained to fulfill their whims. Yet, his overwhelming ego couldn't reconcile with the notion of being a mere puppet. The very thought of being controlled enraged him, clouding his judgment and perception.
 ## The Exile
-In an unpredicted turn of the events, Lord Cantrocas called all the powers available to do the only thing he could to step out of the path the Gods plotted for him. Incapable of accepting that he was played by a superior power, with just the illusion of being a free willing individual, he did the unspeakable casting the most powerful spell in the history of all the universe on himself.
-The spell shattered the now Eternal soul of Lord Cantrocas, sending one infinitely small fragment in each possible universe, pieces of reality unknown even to the Gods themselves.
 
-Incapable of dyeing, the soul fragments reincarnated in new inhabitants of this new realms. Each piece contain only an extremely small spark of the original power of Lord Cantrocas, but retain all the memories of the former mortal he used to be. Everything happened since the day he was born the first time to the day he opened the gate to the realm of the Gods, all the nefariousness acts, the infamous conduct of his past life, still lives in the infinite replicas of Lord Cantrocas.
+In a desperate act of defiance, Lord Cantrocas hatched a plan to break free from the gods' puppet strings. Believing he could escape their clutches, he summoned every ounce of his formidable powers to craft a spell that would fragment his eternal soul, scattering its shards across all conceivable universes, thus giving him multiple lifelines and dominions.
 
-Lord Cantrocas doesn't really know what happened to him, but a strong link between each one of his replica exists, driving the infinite and clueless lords to seek for each other. His own ambition and ego makes impossible too cooperate and lead the poor soul to fall in an infinite fight between his infinite fragments.
+In his ambition, Lord Cantrocas sought to spread his essence across countless realities, hoping to dilute any strings of fate the gods had woven. Yet, deep within each shard of his being lay a resonating echo of his true self, an essence he couldn't escape. 
 
-Each time a Lord Cantrocas is born in an universe the same path of selfdetruction begin. First he seeks for power, in any way possible, usually exploiting strong individuals met in his journey. Then he find a way to reach a fragment of his soul. A fight begin between the two Lord Cantrocas, a fight where only one part will last, absorbing the power and the knowledge of the other one.
+These fragments, rather than thriving, felt a mysterious bond towards one another, compelling them to seek one another, entangling themselves in repetitive fights and battles in order to seize the full power, their overpowering ambition and ego rendering cooperation impossible. What was intended as his greatest act of freedom paradoxically forged chains of a curse he had not foreseen.
 
-When a Lord Cantrocas get enough power and knoledge to invade other universes he start to collect numerous fragments until he meets another powerful Lord Cantrocas. During a fight between two powerful enough Lord Cantrocas the soul of the loser shatters again in an attempt to get free from the opponent, starting this infinite cycle again.
-___
-# The Lord Cantrocas
-In this universe the corrupting touch of Lord Cantrocas started eons ago. During his first reincarnation on Aanghakan Lord Cantrocas managed to constraint numerous fragment of his soul inside the four gems the will became to be known as the gems of [[The ancient Gods]] used  to forge and power the [[Thousand Roots]] by [[Thein]] in a future age.
+Unable to perish, these soul fragments reincarnated in the inhabitants of these new realms. Each shard held but a minuscule fraction of Lord Cantrocas' original essence but retained *most* of his memories, resonating within these countless incarnations.
 
-A crown set with those gems was used by a Lord Cantrocast to best powerful replicas of himself without actually became one with the other selves, in a futile attempt to escape the regrettable fate casted by himself ages ago in a different reality.
+When a Lord Cantrocas accumulates enough power and knowledge to invade other universes, he commences gathering fragments until he's met with a formidable counterpart. A clash between the two is of such powerful scale, that it results in the souls fragmenting once more,dispersing like embers in a cosmic gale, and the cycle begins anew.
 
-Left without the possibility to ever escape his fate, the previous Lord Cantrocas of this universe faced his inevitable defeat in the end and the precious jewels that used to adorn his crown were sealed in the deep of the hearth by his last attempt to stop another Lord to steal the power gathered in a lifetime of unmerciful and infamous acts.
+---
 
-The gems, buried underground ended up fueling the power of the ancient gods in ways regrettably lost deeply in time. When they were first unburied and gifted to [[Thein]] their origin was already sealed in the oblivion of the mortal knowledge by the power of the gem itself, in the attempt to never be founded by another Lord Cantrocas, a danger to the very existence of the gems themselves that in time became sentient entities.
+## The Lord Cantrocas
 
-But the Fate of a Lord is to be entangled in his own tragedy and so forth, the new Lord Cantrocas feel the inexplicable link that connect himmself to the very power that hold the balance of the world. His cruel and ambitious nature cannot stop itself to lead the Lord on a path of cruelty to steal the power for himself once again, uncaring of the consequences of his own action.
+In this universe, Lord Cantrocas' malevolent influence began eons ago. With the knowledge of inter dimensional travel, he sought to tether his fragmented selves, sealing them within four gems of great power. A crown embedded with these gems would enable Lord Cantrocas to conquer its counterparts and draw upon the power of the absorbed souls, without truly merging with them, in a vain bid to evade the self-inflicted doom.
+
+However, every tool of power comes with its limitations. Each time Lord Cantrocas used its powers the gems strained under the cosmic pressures, slowly developing fractures. These cracks became doorways for his other selves, slowly siphoning their consciousness back, threatening to overwhelm the bearer's consciousness. With time, the incessant cacophony of conflicting wills began corrupting Lord Cantrocas's mind, seeding doubt and paranoia, driving him to a deep madness.
+
+This tragic irony wasn't lost on Lord Cantrocas. The very gems that were meant to unite his splintered self now became chains, dragging him into a chasm of insanity. In a fleeting moment of clarity, he recognized the imperative to distance himself from these volatile conduits. Not for the world's salvation, but for his self-preservation, the gems were buried deep within [[Aanghakan]]. He hoped that the earth would muffle their calls, allowing him to regain some semblance of his former self...
+
+By the time they were unearthed and presented to [[Thein]], their origins had been obliterated from mortal memory by the gems' own power, striving the subconscious desire to remain hidden from any Lord Cantrocas, a threat to their very existence.
+
+The same gems would be utilized to forge and empower the [[Thousand Roots Crown]], a legendary artifact created by [[Thein|Thein's]] ingenuity, and avert the ascent of the [[Abyssal Serpent]].  Funny, how chances mold the future in unexpected ways.
+
+Yet, a Lord's destiny is intertwined with his tragedy. Currently Lord Cantrocas is residing in [[East O'lands]] and still feels the unexplainable bond connecting him to the formidable forces maintaining the world's balance. His mind, blanked from an eternity of numbness, regained consciousness but not memories, but its inherent cruelty and ambition irresistibly propel him on a quest to once again seize power, indifferent to the repercussions of his actions...
