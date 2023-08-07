@@ -1,0 +1,1 @@
+A chasm created by an ancient spell. Not much is known to what was there before, but to those capable of observing the [[Astral Cosmos]], this () is visible to the naked eye.

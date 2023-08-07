@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aanghakan/Other/Folklore and History/Lord Cantrocas.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aanghakan/Other/Folklore and History/Thousand Roots Crown.md",
+                "file": "Aanghakan/Other/Folklore and History/Abyss.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c71b17d933bb95e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aanghakan/Locations/Crystal Caverns/Crystal Caverns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ac3718cf65403e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aanghakan/Other/Folklore and History/Lord Cantrocas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aa",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aanghakan/Other/Folklore and History/Lord Cantrocas.md",
+                "file": "Aanghakan/Locations/Crystal Caverns/Crystal Caverns.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aanghakan/Other/Folklore and History/Lord Cantrocas.md",
+                "file": "Aanghakan/Locations/Crystal Caverns/Crystal Caverns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aanghakan/Other/Folklore and History/Lord Cantrocas.md"
+                "file": "Aanghakan/Locations/Crystal Caverns/Crystal Caverns.md"
               }
             }
           },
@@ -191,34 +216,36 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "05692ecf5745f717",
+  "active": "7c71b17d933bb95e",
   "lastOpenFiles": [
-    "Aanghakan/Other/Folklore and History/Thousand Roots Crown.md",
-    "Aanghakan/Other/Folklore and History/Lord Cantrocas.md",
-    "Aanghakan/Other/Folklore and History/Yaneet.md",
-    "Aanghakan/Other/Folklore and History/Yaohwan.md",
-    "Aanghakan/Other/Folklore and History/The Chosen.md",
     "Aanghakan/Other/Folklore and History/Goor.md",
-    "Aanghakan/Other/Folklore and History/Elune.md",
     "Aanghakan/Other/Folklore and History/Aein.md",
     "Aanghakan/Other/Folklore and History/Abyssal Serpent.md",
-    "Aanghakan/Other/Folklore and History/Giants.md",
-    "Aanghakan/Other/Folklore and History/Hearth of the Mountain.md",
+    "Aanghakan/Other/Folklore and History/Abyss.md",
+    "Aanghakan/Other/Folklore and History/Elune.md",
+    "Aanghakan/Other/Folklore and History/Astral Cosmos.md",
     "Aanghakan/Other/Folklore and History/The ancient Gods.md",
-    "Aanghakan/Other/Folklore and History/Thein.md",
-    "Aanghakan/Other/Folklore and History/Thrain Ironfist (deceased).md",
-    "Aanghakan/Locations/Thunderpeak/Assets/quests/side-quests/The Miner's Lament.md",
+    "Aanghakan/Other/Folklore and History/Lord Cantrocas.md",
+    "Aanghakan/Other/Folklore and History/Hearth of the Mountain.md",
     "Aanghakan/Main Quest - Introduction 01.md",
+    "Aanghakan/Main Quest - Journey to the Capital 02.md",
+    "Aanghakan/Locations/East O'lands/Assets/characters/Cantrocas the Mad Alchemist.md",
+    "Aanghakan/Locations/East O'lands/Assets/Untitled.md",
+    "Aanghakan/Locations/East O'lands/Assets/characters",
+    "Aanghakan/Locations/East O'lands/Assets",
+    "Aanghakan/Other/Folklore and History/Thousand Roots Crown.md",
+    "Readme.md",
+    "Aanghakan/Other/Folklore and History/Yaneet.md",
+    "Aanghakan/Other/Folklore and History/Thrain Ironfist (deceased).md",
+    "Main Quest.md",
+    "Aanghakan/Other/Folklore and History/Yaohwan.md",
+    "Aanghakan/Aanghakan.md",
+    "Aanghakan/Other/Folklore and History/Thein.md",
+    "Aanghakan/Other/Folklore and History/The Chosen.md",
+    "Aanghakan/Other/Folklore and History/Giants.md",
+    "Aanghakan/Locations/Thunderpeak/Assets/quests/side-quests/The Miner's Lament.md",
     "Aanghakan/Locations/The Green Sea/Assets/locations/Esmeralda.md",
     "Aanghakan/Locations/The Green Sea/Assets/locations/Duxemburg.md",
-    "Aanghakan/Locations/The Green Sea/The Green Sea.md",
-    "Aanghakan/Locations/The Green Sea/Mirthshade.md",
-    "Aanghakan/Locations/Thunderpeak/Main Quest - The Hearth of the Mountain 03.md",
-    "Aanghakan/Locations/The Green Sea/Assets/locations/The Great Forest/The Great Forest.md",
-    "Aanghakan/Locations/The Green Sea/Assets/characters/Hank.md",
-    "Aanghakan/Locations/Jade Mountains/Jade mountains.md",
-    "Azura.md",
-    "Main Quest.md",
     "Aanghakan/Locations/The Green Sea/Assets/locations/The Great Forest",
     "Aanghakan/Locations/Crystal Caverns/Deep Crystal Caverns",
     "Aanghakan/Locations/Thunderpeak/Assets/locations/Untitled",
@@ -233,8 +260,6 @@
     "Aanghakan/Locations/Thunderpeak/Assets/images/Thunderpeak-city.png",
     "Aanghakan/Locations/Thunderpeak/Assets/images/Bifur_Bofur_and_Bombur.png",
     "Aanghakan/Factions/Stonehelm clan/Assets/characters",
-    "Aanghakan/Factions/Stonehelm clan/Assets",
-    "Aanghakan/Factions/Cult of the Abyssal Serpent/Assets/characters",
     "Aanghakan/Locations/Thunderpeak/Assets/images/Thrain_Ironfist.png",
     "Aanghakan/Locations/Thunderpeak/Assets/images/Oin_the_wise.png",
     "Aanghakan/Locations/Thunderpeak/Assets/images/Grog_son_of_greg.png",

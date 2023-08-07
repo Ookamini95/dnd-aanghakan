@@ -1,0 +1,1 @@
+A simple minded orc, subjugated by the whispers of dark ancient powers, sacrificed everything to bring forth his master, the [[Abyssal Serpent]].
