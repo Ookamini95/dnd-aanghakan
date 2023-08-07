@@ -8,12 +8,12 @@ Lord Cantrocas, with his unique yet eerily familiar aspect, walks among mortal c
 
 ## The Other World
 
-In another realm, a universe distinct from Aanghakan, Cantrocas was once an ordinary man. This world was an enigma as everything relating to it has been torn from the fabric of existence long before our story had begun. 
+In another realm, a universe distinct from Aanghakan, Cantrocas was once an ordinary man. This world is an enigma as everything relating to it has been torn from the fabric of existence long before our story had begun. 
 
 Few gods, neither benevolent nor malevolent, held sway over this reality, bending the very essence of existence and influencing mortals as they deemed fit. 
 Time in this realm was cyclical, marked by epochs of war, heartbreak, and rebirth. 
 
-Amidst this, standout individuals emerged, hailed as heroes, striving to cease the gods' seemingly capricious wars. 
+Amidst this, standout individuals emerged, hailed as heroes, striving to cease the gods' seemingly capricious wars, bringing peace and prosperity. 
 
 ## The Beginning
 
@@ -34,17 +34,18 @@ Blinded by ambition and a meteoric rise in power, Lord Cantrocas mercilessly use
 The ancient god known as **The Blind Precentor**, the master of **Fate**, final barrier to true godhood, was then slain by Lord Cantrocas, who seized his power and enslaved the souls of his erstwhile allies.
 
 Endowed with newfound power, Lord Cantrocas glimpsed his future, his destiny, and the overarching scheme that bound him. He realized he was merely a pawn in the grand designs of the gods, a tool preordained to fulfill their whims. Yet, his overwhelming ego couldn't reconcile with the notion of being a mere puppet. The very thought of being controlled enraged him, clouding his judgment and perception.
+
 ## The Exile
 
 In a desperate act of defiance, Lord Cantrocas hatched a plan to break free from the gods' puppet strings. Believing he could escape their clutches, he summoned every ounce of his formidable powers to craft a spell that would fragment his eternal soul, scattering its shards across all conceivable universes, thus giving him multiple lifelines and dominions.
 
 In his ambition, Lord Cantrocas sought to spread his essence across countless realities, hoping to dilute any strings of fate the gods had woven. Yet, deep within each shard of his being lay a resonating echo of his true self, an essence he couldn't escape. 
 
-These fragments, rather than thriving, felt a mysterious bond towards one another, compelling them to seek one another, entangling themselves in repetitive fights and battles in order to seize the full power, their overpowering ambition and ego rendering cooperation impossible. What was intended as his greatest act of freedom paradoxically forged chains of a curse he had not foreseen.
+These fragments, rather than thriving, felt a mysterious bond, compelling them to seek one another, entangling themselves in repetitive schemes and battles in order to seize the full power of the original, their overpowering ambition and ego rendering cooperation impossible. What was intended as his greatest act of freedom paradoxically forged chains of a curse he had not foreseen.
 
 Unable to perish, these soul fragments reincarnated in the inhabitants of these new realms. Each shard held but a minuscule fraction of Lord Cantrocas' original essence but retained *most* of his memories, resonating within these countless incarnations.
 
-When a Lord Cantrocas accumulates enough power and knowledge to invade other universes, he commences gathering fragments until he's met with a formidable counterpart. A clash between the two is of such powerful scale, that it results in the souls fragmenting once more,dispersing like embers in a cosmic gale, and the cycle begins anew.
+When a Lord Cantrocas accumulates enough power and knowledge to invade other universes, he commences gathering fragments until he's met with a formidable counterpart. A clash between the two is of such powerful scale, that it results in the souls fragmenting once more, dispersing like embers in a cosmic gale, and the cycle begins anew.
 
 ---
 
@@ -56,8 +57,8 @@ However, every tool of power comes with its limitations. Each time Lord Cantroca
 
 This tragic irony wasn't lost on Lord Cantrocas. The very gems that were meant to unite his splintered self now became chains, dragging him into a chasm of insanity. In a fleeting moment of clarity, he recognized the imperative to distance himself from these volatile conduits. Not for the world's salvation, but for his self-preservation, the gems were buried deep within [[Aanghakan]]. He hoped that the earth would muffle their calls, allowing him to regain some semblance of his former self...
 
-By the time they were unearthed and presented to [[Thein]], their origins had been obliterated from mortal memory by the gems' own power, striving the subconscious desire to remain hidden from any Lord Cantrocas, a threat to their very existence.
+By the time they were unearthed and presented to [[Thein]], their origins had been obliterated from mortal memory by the gems' own power, driven by a subconscious desire to remain hidden from any Lord Cantrocas, a threat to their very existence.
 
 The same gems would be utilized to forge and empower the [[Thousand Roots Crown]], a legendary artifact created by [[Thein|Thein's]] ingenuity, and avert the ascent of the [[Abyssal Serpent]].  Funny, how chances mold the future in unexpected ways.
 
-Yet, a Lord's destiny is intertwined with his tragedy. Currently Lord Cantrocas is residing in [[East O'lands]] and still feels the unexplainable bond connecting him to the formidable forces maintaining the world's balance. His mind, blanked from an eternity of numbness, regained consciousness but not memories, but its inherent cruelty and ambition irresistibly propel him on a quest to once again seize power, indifferent to the repercussions of his actions...
+Yet, a Lord's destiny is intertwined with his tragedy. Currently Lord Cantrocas is residing in [[East O'lands]] and still feels the unexplainable bond connecting him to the formidable forces maintaining the world's balance. His mind, blanked from an eternity of numbness, regained consciousness although not its memories, but its inherent cruelty and ambition irresistibly propel him on a quest to once again seize power, indifferent to the repercussions of his actions...
