@@ -1,5 +1,4 @@
 
-
 Erudites of myths could name multitudes of curiosities from the lives of the most powerful entities that have walked the lands of Aanghakan throughout its known history. Yet, an even more peculiar creature of outstanding power has entered this realm by sheer accident, slipping through the gaps of the universe, evading the very gaze of the gods.
 
 Lord Cantrocas, with his unique yet eerily familiar aspect, walks among mortal creatures, brooding over his devastating and **ONLY** defeat. He silently plots his revenge while trapped in his own harsh, eternal, and distinctly bizarre exile.
@@ -51,9 +50,9 @@ When a Lord Cantrocas accumulates enough power and knowledge to invade other uni
 
 ## The Lord Cantrocas
 
-In this universe, Lord Cantrocas' malevolent influence began eons ago. With the knowledge of inter dimensional travel, he sought to tether his fragmented selves, sealing them within four gems of great power. A crown embedded with these gems would enable Lord Cantrocas to conquer its counterparts and draw upon the power of the absorbed souls, without truly merging with them, in a vain bid to evade the self-inflicted doom.
+In this universe, Lord Cantrocas' malevolent influence began eons ago. With the knowledge of interdimensional travel, he sought to tether his fragmented selves, sealing them within four gems of great power, made from the [[Aanghakan|Aanghakan's]] finest materials. A crown embedded with these masterpieces would enable Lord Cantrocas to conquer its counterparts and draw upon the power of the absorbed souls, without truly merging with them, in a vain bid to evade the self-inflicted doom.
 
-However, every tool of power comes with its limitations. Each time Lord Cantrocas used its powers the gems strained under the cosmic pressures, slowly developing fractures. These cracks became doorways for his other selves, slowly siphoning their consciousness back, threatening to overwhelm the bearer's consciousness. With time, the incessant cacophony of conflicting wills began corrupting Lord Cantrocas's mind, seeding doubt and paranoia, driving him to a deep madness.
+While every artifact of dominion promises unparalleled might, it's often the unexpected vulnerabilities that prove to be its undoing. When Eon dispersed his essence into the land and pantheon, a minute fragment found its way into these very stones. Leveraging this clandestine connection, the [[The ancient Gods|gods]], carefully manipulated the foundational energies of the gems. Each use of power drew Cantrocas's fragmented selves closer, slowly siphoning their consciousness back, threatening to overwhelm the bearer's consciousness. With time, the incessant cacophony of conflicting wills began corrupting Lord Cantrocas's mind, seeding doubt and paranoia, driving him to a deep madness.
 
 This tragic irony wasn't lost on Lord Cantrocas. The very gems that were meant to unite his splintered self now became chains, dragging him into a chasm of insanity. In a fleeting moment of clarity, he recognized the imperative to distance himself from these volatile conduits. Not for the world's salvation, but for his self-preservation, the gems were buried deep within [[Aanghakan]]. He hoped that the earth would muffle their calls, allowing him to regain some semblance of his former self...
 

@@ -1,1 +1,2 @@
-The interconnection between different dimensions and universes.
+
+Within the vast expanse of existence, the Astral Cosmos acts as a bridge between various dimensions and universes. Those attuned to its mysteries can witness the interconnected web of realities. As travelers navigate this celestial expanse, they'd encounter realms of wonder and enigma, where time may flow differently and where laws of nature take on new meaning.

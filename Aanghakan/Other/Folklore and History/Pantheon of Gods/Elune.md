@@ -1,0 +1,4 @@
+In the pantheon of [[The ancient Gods|the ancient Gods]], Elune shines the brightest, a beacon of ethereal light in the stygian abyss. Her ethereal radiance permeates the fabric of existence, illuminating the path for the lost and the worthy. To be chosen by Elune is not a privilege, it's an epoch-defining destiny, a path to immortality through the crucible of sacrifice and valor.
+
+- **Cult Practices**: The Erebor people perform nocturnal rituals, where they sing hymns and tales, invoking her protection. On clear nights, they climb their tallest peaks to be closer to the stars and light bonfires as offerings.
+- **Personality**: Elune embodies grace, elegance, and an undying spirit. She is known for her boundless compassion and unwavering determination, guiding her followers towards resilience and hope.

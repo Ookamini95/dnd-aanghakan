@@ -1,6 +1,6 @@
 The Thousand Roots, a laurel crown of monumental significance, cradles the gems of [[The ancient Gods|the ancient Gods]]. Not many know about its powers, and even fewer are acquainted with its history, often shrouded in whispers and half-truths.
 
-The legend narrates that the artifact was used to seal away an [[Abyssal Serpent|ancient terror]] and subsequently broken into pieces which currently adorn the gems, their purpose lost by the tides of time.
+The legend narrates that the artifact was used to seal away an [[Abyssal Serpent|ancient terror]] and subsequently broken into pieces which currently adorn the gems, their original purpose lost by the tides of time.
 
 <hr>
 
