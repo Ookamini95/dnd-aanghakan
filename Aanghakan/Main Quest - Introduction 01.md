@@ -186,9 +186,10 @@ People scream and scatter in all directions, their screams piercing the night, d
 
 [[Hank]], driven by sheer determination, pushes through the frantic crowd, his eyes scanning desperately for Serene. The players, caught in the midst of the chaos, find themselves unable to fight or take immediate decisive action. The overwhelming panic paralyzes their ability to react, forcing them to witness the unfolding carnage as the beasts from the forest wreak havoc upon the defenseless villagers.
 
-#Master-Notes Here you should discuss with the party what is their plan to get out alive. Players have very limited ability to do anything due to the panic.
+#Master-Notes Here you should discuss with the party what is their plan to get out alive. Players have very limited ability to do anything due to the panic. 
+- Perception check 18 DC the party sees an hooded man, following the flow of the people running away, while menacingly staring at the party and turning only to see another black figure moving through the crowd. 
 
-Amidst the chaos, a solitary black figure can be seen slipping through the crowd of people, moving with an eerie grace, seemingly unaffected by the presence of those around it, towards the town's church. Despite the chaos and commotion, its advance is unhindered, almost as if it was death itself.
+Amidst the chaos, a solitary black figure can be seen slipping through the crowd of people, which focuses the attention of the party, moving with an eerie grace, seemingly unaffected by the presence of those around it, towards the town's church. Despite the chaos and commotion, its advance is unhindered, almost as if it was death itself.
 
 Your players arrive at the scene just in time to witness the cloaked figure reveal herself. She's a young drakonoid, her scales glistening in the moonlight and eyes ablaze with an unholy fervor. As she catches sight of Serene, her lips curl up into a sinister smirk.
 

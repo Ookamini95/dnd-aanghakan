@@ -23,9 +23,13 @@ In the taverns, the dwarven spirit is not dampened. They drink deeply, sing loud
 
 <hr>
 
-As the days trickle by, a curious sight unfolds. An intricately decorated caravan halts near the chasm, a safe distance from the city. From within emerges a muscular figure adorned in ritualistic robes. He examines the high city walls, takes notes in a small black notebook, and begins to inscribe cryptic symbols on the ground.
+The moon's light was obscured, plunging the night into a deeper darkness than the city had ever known. Whispers of unease fluttered among the guards on the city walls. In the distance, near the edge of the chasm, torchlights revealed a sinister caravan, cloaked in shadowy hues and marked with symbols of the abyssal serpent. The caravan was unlike any the city had seen, with cages rattling with the desperate cries of the tormented and monstrous shapes lurking within.
 
-A couple hours later, an ethereal pathway materializes from the symbols. Unfazed by the manifestation, the robed figure steps effortlessly on this pathway, proceeding to lay the city under siege.
+From this caravan emerged a hooded figure, garbed in dark robes stained with blood and scales resembling those of serpents. With a staff carved from bone, the figure drew ominous symbols on the ground, each radiating an otherworldly, malevolent energy. The air became thick, and the winds carried the distant, sorrowful hymns of the damned.
+
+As the climax of their ritual approached, gargantuan tentacles, scales glinting with bioluminescent patterns, erupted from the depths and anchored onto the city's walls, pulling the city closer to the chasm's edge inch by inch. 
+
+The path to the city is now open.
 
 <hr>
 

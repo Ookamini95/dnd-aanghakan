@@ -8,9 +8,6 @@ With a grimace, the merchant wipes his brow, glancing at the chaos engulfing the
 
 > *Merchant:* Oi, you there! Lend a hand, will you? We could get out of here with this carriage if I can just get it moving!
 
-#Master-Notes 
-While leaving Serene behind is perfectly good ending, this campaign tries to last longer than that, and the [[Gill|merchant]] should be the npc you should use to persuade the players to take in Serene. This note has been left as a joke but also as a reminder for myself about making a possible fork to the story if a good idea comes up. 
-
 ____________________
 
 As the players make their departure, they can cast a final glance over their shoulders at the town now consumed in flames. Ashes ascend towards the heavens, coalescing into the ominous form of a serpent in the sky. The merchant, his gaze firmly fixed the dimly lighted road, introduces himself as [[Gill]], a man in service to the esteemed [[Stonehelm clan]]. His task was to retrieve a shipment of high quality goods ordered by [[Thenerifa]], Stonehelm Clan Forge master, for a present for the [[Mell|king's newborn daughter]]. This was supposed to be an easy task, not much unlike a paid vacation... instead he'll be the harbinger of dire news.
@@ -55,7 +52,7 @@ actions:
 ```
 
 
-- __The party encounters a group of merchants headed for the festival:__ this one is more of a social encounter. As the dawn's light paints the sky in shades of red and orange, a merry group of merchants comes into view. They're on their way to the festival, unaware of the town's fate. The party could choose to warn them, withhold information, or extract what they can from these merchants in terms of goods or information. 
+- __The party encounters a circus headed for the festival:__ this one is more of a social encounter. As the dawn's light paints the sky in shades of red and orange, a merry group of people comes into view. They're on their way to the festival, unaware of the town's fate. The party could choose to warn them, withhold information, or extract what they can from these people in terms of goods or information. 
   
 - __A small family of refugees crosses their path, asking for aid or information:__ the refugees are a family of farmers who barely escaped the disaster at the town. They're hungry, frightened, and desperate for help. The party could choose to aid them with food, protection, or information.
 
@@ -68,7 +65,7 @@ ___________
 - the city is deserted, an eerie silence filling the streets. It's clear something terrible happened here. The party has the opportunity to investigate and discover what happened, potentially unearthing new clues or even a short quest line.
 - the city has fallen victim to a deadly plague. The party can choose to help, avoid the city altogether, or look for the source of the plague, perhaps finding a cure.
 
-In the meanwhile, Serene has just regained senses, her eyes lost on the magnificence of the [[The Green Sea]], whilst listening to the refreshing spring noises coming from the countryside. Although the idyllic frame, she's clearly deep in her thoughts, and not really in the mood for talking. 
+In the meanwhile, Serene has just regained senses, her eyes lost on the magnificence of [[The Green Sea|the Green Sea]], whilst listening to the refreshing spring noises coming from the countryside. Although the idyllic frame, she's clearly deep in her thoughts, and not really in the mood for talking. 
 
 #Master-Notes Serene, while possessed, has spoken with the deity, and is aware of her father's death. She responds in monosyllables, not in the mood for conversations. Below I've provided her character sheet.
 

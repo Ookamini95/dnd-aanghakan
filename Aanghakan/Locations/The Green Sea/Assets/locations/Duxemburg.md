@@ -1,0 +1,1 @@
+Duxemburg is renowned for its prosperous trade. It's a hub for merchants from far and wide who come to barter and sell their wares. The city is particularly known for its rare arboreal products such as special tree saps, rare woods, and herbs. The Duxemburg market square is the heart of the city, always bustling with activity.

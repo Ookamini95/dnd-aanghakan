@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bc48131903cdb162",
+        "id": "1650910dd011d59c",
         "type": "tabs",
         "children": [
           {
-            "id": "05692ecf5745f717",
+            "id": "65d256291403326d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9978452e24a1e093",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aanghakan/Other/Folklore and History/Pantheon of Gods/Yaneet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c71b17d933bb95e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aanghakan/Other/Folklore and History/The ancient Gods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6b25b630b8278dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aanghakan/Other/Folklore and History/Astral Cosmos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ac3718cf65403e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aanghakan/Other/Folklore and History/Lord Cantrocas.md",
+                "file": "Aanghakan/Locations/East O'lands/East O'lands.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aanghakan/Other/Folklore and History/Pantheon of Gods/Yaneet.md",
+                "file": "Aanghakan/Locations/East O'lands/East O'lands.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aanghakan/Other/Folklore and History/Pantheon of Gods/Yaneet.md",
+                "file": "Aanghakan/Locations/East O'lands/East O'lands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aanghakan/Other/Folklore and History/Pantheon of Gods/Yaneet.md"
+                "file": "Aanghakan/Locations/East O'lands/East O'lands.md"
               }
             }
           },
@@ -228,52 +179,90 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "9978452e24a1e093",
+  "floating": {
+    "id": "c45faa9561c861c6",
+    "type": "floating",
+    "children": [
+      {
+        "id": "9424052d79558127",
+        "type": "window",
+        "children": [
+          {
+            "id": "e299f33862bd49a6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5f76913db23cd6b7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Aanghakan/Aanghakan.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1349,
+        "y": -210,
+        "width": 819,
+        "height": 640,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "65d256291403326d",
   "lastOpenFiles": [
-    "Aanghakan/Other/Folklore and History/Pantheon of Gods/Moros.md",
-    "Aanghakan/Other/Folklore and History/Pantheon of Gods/Mohen.md",
-    "Aanghakan/Other/Folklore and History/Pantheon of Gods/Lirael.md",
-    "Aanghakan/Other/Folklore and History/Pantheon of Gods/Fenral.md",
-    "Aanghakan/Other/Folklore and History/Pantheon of Gods/Elune.md",
-    "Aanghakan/Other/Folklore and History/Pantheon of Gods/Abyssal Serpent.md",
+    "Aanghakan/Locations/Crystal Caverns/Deep Crystal Caverns/Secret Ale Stash/Secret_ale_stash.png",
+    "Aanghakan/Locations/East O'lands/Assets/Untitled.md",
+    "Aanghakan/Locations/East O'lands/Assets/characters/Cancastor the Mad Alchemist.md",
+    "Aanghakan/Factions/Red Star Syndicate/Red Star Syndicate.md",
+    "Aanghakan/Locations/The Opal Sea/Assets/locations/Dekka.md",
+    "Aanghakan/Locations/The Opal Sea/Assets",
+    "Aanghakan/Locations/Thunderpeak/Thunderpeak.md",
+    "Aanghakan/Locations/The Opal Sea/Assets/locations",
+    "Aanghakan/Locations/The Opal Sea",
+    "Aanghakan/Factions/Red Star Syndicate/Assets/characters/Gustav Kozlov.md",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Crestwood/The Den.md",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Crestwood",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Crestwood/Crestwood.md",
+    "Aanghakan/Factions/Red Star Syndicate/Assets/characters",
+    "Aanghakan/Locations/The Green Sea/Assets/quests/A crimson star.md",
+    "Aanghakan/Locations/The Green Sea/Assets/quests/Whispers in Duxemburg.md",
+    "Aanghakan/Locations/The Green Sea/The Green Sea.md",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Esmeralda.md",
+    "Aanghakan/Locations/The Green Sea/Assets/quests/Untitled",
+    "Aanghakan/Locations/The Green Sea/Assets/quests",
+    "Aanghakan/Locations/The Green Sea/Untitled",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Duxemburg.md",
+    "Aanghakan/Main Quest - Journey to the Capital 02.md",
+    "Aanghakan/Aanghakan.md",
+    "Aanghakan/Locations/Thunderpeak/Assets/quests/side-quests/Killing spree.md",
+    "Aanghakan/Locations/Thunderpeak/Assets/quests/The Lost Mines of Thunderpeak.md",
+    "Aanghakan/Locations/Thunderpeak/Assets/quests/The Siege of Thunderpeak.md",
+    "Aanghakan/Locations/Erebor.md",
+    "Aanghakan/Other/Folklore and History/Gems/Hearth of the Mountain.md",
     "Aanghakan/Other/Folklore and History/History/The Chosen.md",
     "Aanghakan/Other/Folklore and History/History/Goor.md",
     "Aanghakan/Other/Folklore and History/History/Giants.md",
-    "Aanghakan/Other/Folklore and History/History/Age of the Heroes.md",
-    "Aanghakan/Other/Folklore and History/Astral Cosmos.md",
-    "Aanghakan/Other/Folklore and History/History",
-    "Aanghakan/Other/Folklore and History/Gems",
-    "Aanghakan/Other/Folklore and History/Abyss.md",
-    "Aanghakan/Main Quest - Introduction 01.md",
-    "Aanghakan/Locations/Thunderpeak/Main Quest - The Hearth of the Mountain 03.md",
-    "Aanghakan/Other/Folklore and History/The Chosen/Aein.md",
-    "Aanghakan/Other/Folklore and History/The Chosen",
-    "Aanghakan/Other/Folklore and History/Pantheon of Gods/Yaneet.md",
     "Aanghakan/Other/Folklore and History/Thousand Roots Crown.md",
     "Aanghakan/Other/Folklore and History/Thrain Ironfist (deceased).md",
-    "Aanghakan/Other/Folklore and History/The Chosen/Yaohwan.md",
-    "Aanghakan/Other/Folklore and History/Pantheon of Gods",
-    "Aanghakan/Other/Folklore and History/Untitled.md",
-    "Aanghakan/Other/Folklore and History/Lord Cantrocas.md",
-    "Aanghakan/Other/Folklore and History/The ancient Gods.md",
-    "Aanghakan/Other/Folklore and History/Hidd.md",
-    "Aanghakan/Other/Folklore and History/The Chosen/Thein.md",
-    "Aanghakan/Locations/Crystal Caverns/Crystal Caverns.md",
-    "Aanghakan/Locations/East O'lands/Assets/characters",
-    "Aanghakan/Locations/East O'lands/Assets",
-    "Aanghakan/Locations/The Green Sea/Assets/locations/The Great Forest",
-    "Aanghakan/Locations/Crystal Caverns/Deep Crystal Caverns",
-    "Aanghakan/Locations/Thunderpeak/Assets/locations/Untitled",
-    "Aanghakan/Locations/Thunderpeak/Assets/locations",
-    "Aanghakan/Other/Assets/images/map-00.png",
     "Aanghakan/Other/Assets/images/Aanghakan.png",
-    "Aanghakan/Locations/Thunderpeak/Assets/images/Dwalin_the_Stout.png",
-    "Aanghakan/Locations/Thunderpeak/Assets/images/Balin_Stonehelm.png",
-    "Aanghakan/Locations/Thunderpeak/Assets/images/Thunderpeak-city.png",
-    "Aanghakan/Locations/Thunderpeak/Assets/images/Bifur_Bofur_and_Bombur.png",
-    "Aanghakan/Locations/Thunderpeak/Assets/images/Thrain_Ironfist.png",
-    "Aanghakan/Locations/Thunderpeak/Assets/images/Oin_the_wise.png",
-    "Aanghakan/Locations/Thunderpeak/Assets/images/Grog_son_of_greg.png",
-    "Aanghakan/Locations/Thunderpeak/Assets/images/Filip_and_Kli.png"
+    "Aanghakan/Other/Assets/images/folklore/Elune.png",
+    "Aanghakan/Other/Assets/images/folklore/Yaneet.png",
+    "Aanghakan/Locations/Thunderpeak/Assets/images/manunscript/Explorer_Camp.png",
+    "Aanghakan/Locations/Thunderpeak/Assets/images/manunscript/Section_of_deep_caverns.png",
+    "Aanghakan/Locations/Thunderpeak/Assets/images/manunscript/Secret_Entrance_in_the_Jade_mountains.png",
+    "Aanghakan/Other/Assets/images/folklore",
+    "Aanghakan/Other/Assets/images/map",
+    "Aanghakan/Factions/Red Star Syndicate/Assets/images/ookami4130_dishonored_video_game_villain_smiling_hyperrealistic_3a31c65f-9d11-4944-a3fe-d053a255df1e.png",
+    "Aanghakan/Locations/Crystal Caverns/Deep Crystal Caverns/Secret Ale Stash/ookami4130_A_dungeons_and_dragons_map_of_a_crystal_cave_The_map_a5748a3b-2bd5-4b65-868b-316fc7ee51f0.png",
+    "Aanghakan/Other/Assets/images/map/map-00.png",
+    "Aanghakan/Locations/Thunderpeak/Assets/images/characters/Dwalin_the_Stout.png"
   ]
 }

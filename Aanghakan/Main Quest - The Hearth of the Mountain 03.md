@@ -19,8 +19,14 @@ After gaining some notoriety, or by igniting the archivist's curiosity, it is po
 - [[Okin the Wise|Okin]] informs the party of the presence of enemy forces within the city 
 - #Quest [[Like Rats in a Cellar]] - [[Missing Child]]
 
-Meanwhile in the city, news about impending doom have just arrived. A dwarven scout has just reached the stronghold and is asking an hearing to the king's counselor, High Warden of the [[Stonehelm clan]], [[Carne the Brave]] to tell about an army, seemingly approaching from [[The Green Sea|the forest.]]
+Meanwhile in the city, news about impending doom have just arrived. A dwarven scout has just reached the stronghold and is asking an hearing to the king's counselor, High Warden of the [[Stonehelm clan]], [[Carne the Brave]] to tell about an army, seemingly approaching from [[The Green Sea|the forest]].
 
 This is grave news, as retrieving the gem may prove a challenge: the entrance to the caverns has already fallen under the enemy's control and soon the army will reach the city walls.
 
 #Quest [[The Siege of Thunderpeak]] - [[The Lost Mines of Thunderpeak]]
+
+**The Siege’s Challenges**:
+
+- As Thunderpeak is under siege, leaving the city undetected will be the adventurers' first obstacle. There are secret passages, known only to a few dwarven elders, that lead outside the city.
+- The cult assassins are eliminating key members of the city, and our expedition party could be targeted.
+- 

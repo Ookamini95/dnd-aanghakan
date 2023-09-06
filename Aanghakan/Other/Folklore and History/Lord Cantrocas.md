@@ -60,4 +60,10 @@ By the time they were unearthed and presented to [[Thein]], their origins had be
 
 The same gems would be utilized to forge and empower the [[Thousand Roots Crown]], a legendary artifact created by [[Thein|Thein's]] ingenuity, and avert the ascent of the [[Abyssal Serpent]].  Funny, how chances mold the future in unexpected ways.
 
-Yet, a Lord's destiny is intertwined with his tragedy. Currently Lord Cantrocas is residing in [[East O'lands]] and still feels the unexplainable bond connecting him to the formidable forces maintaining the world's balance. His mind, blanked from an eternity of numbness, regained consciousness although not its memories, but its inherent cruelty and ambition irresistibly propel him on a quest to once again seize power, indifferent to the repercussions of his actions...
+Yet, a Lord's destiny is intertwined with his tragedy. Current Lord Cantrocas's location is unknown, but he still feels the unexplainable bond connecting him to the formidable forces maintaining the world's balance and he's sure to make a move soon. 
+
+His mind, blanked from an eternity of numbness, regained consciousness although not its memories, but its inherent cruelty and ambition irresistibly propel him on a quest to once again seize power, indifferent to the repercussions of his actions...
+
+#Master-Notes 
+
+This character is know by many names #TODO 

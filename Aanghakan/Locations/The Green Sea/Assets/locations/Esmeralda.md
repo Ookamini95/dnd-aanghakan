@@ -4,6 +4,6 @@ The heart of Esmeralda is its small market, a vibrant tapestry of trade where th
 
 At the center, the town square boasts a well-trodden bulletin board and the modest town hall. It is here that the pulse of Esmeralda beats strongest, where news and gossip intertwine, and the decisions shaping the town's destiny are made.
 
-Nearby, a small church whispers prayers to the wind, its stoic walls echoing with the tales of [[Yaneet]] , sister of [[Elune]]. A tranquil fountain stands by its side, mirroring the statue of Yaneet in its crystalline waters. It's a place of respite and reflection, where the sacred intertwines with the ordinary.
+Nearby, a small church whispers prayers to the wind, its stoic walls echoing with the tales of [[Yaneet]], sister of [[Elune]]. A tranquil fountain stands by its side, mirroring the statue of Yaneet in its crystalline waters. It's a place of respite and reflection, where the sacred intertwines with the ordinary.
 
 As spring approaches, a different rhythm sweeps across Esmeralda. Preparations for the traditional spring festivities are in full swing, and the air sings with anticipation. Folk from neighboring settlements are drawn towards Esmeralda, enticed by the promise of a spirited nightly revelry that echoes under the star-studded canopy.
