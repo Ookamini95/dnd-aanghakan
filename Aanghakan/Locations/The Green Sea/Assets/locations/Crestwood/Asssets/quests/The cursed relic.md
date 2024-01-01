@@ -1,0 +1,1 @@
+4. **The Cursed Relic**: An ancient, cursed relic has been stolen from a private collection. The players must track down the thief, leading them to a black market auction where they might catch a glimpse of Kozlov among the attendees.

@@ -1,1 +1,1 @@
-Gill is one of the merchants routinely hired by the [[Stonehelm clan]] to perform various tasks around the region. In particular Gill has been given the order of claiming a shipment of curated pelts from the town of [[Esmeralda]] directly from the Stonehelm's [[Forgemaster|Thenerifa]].
+Gill is one of the merchants routinely hired by the [[Stonehelm clan]] to perform various tasks around the region. In particular Gill has been given the order of claiming a shipment of curated pelts from the town of [[Esmeralda]] directly from the Stonehelm's [[Thenerifa|Forgemaster]].

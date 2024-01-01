@@ -7,7 +7,7 @@ But the land alone wouldn't suffice. To truly elude this horror's gaze, Eon had 
 
 These entities, known as the ancient gods, act as a bulwark against **malevolent forces** that may intrude and disrupt the delicate **harmony** Eon so meticulously crafted, a parting gift to the denizens of [[Aanghakan]].
 
-The known ancient gods are revered and adored, each by their own people. The cult to [[Elune]], (bright star of the cosmos), constitutes the principal religion of the [[Erebor]], as its inhabitants, being the closest to the history of [[The Chosen|the chosens]], are the torchbearers of these ancient tales, weaving them into their daily lives as reminders of a time when heroes rose against unsurmountable adversities.
+The known ancient gods are revered and adored, each by their own people. The cult to [[Elune]] bright star of the cosmos constitutes the principal religion of the [[Erebor]], as its inhabitants, being the closest to the history of [[The Chosen|the chosens]], are the torchbearers of these ancient tales, weaving them into their daily lives as reminders of a time when heroes rose against unsurmountable adversities.
 
 The cult to **[[Lirael]]**, goddess of the tides and moon, is the most practiced in the islands. Islanders celebrate her through moonlit dances on the shores, sending out lanterns on the waves, and sculpting intricate moon-shaped amulets. Their society, intertwined with the ebb and flow of tides, has evolved around the teachings of Lirael, placing emphasis on cyclical rebirth, resilience, and the balance between land and sea.
 

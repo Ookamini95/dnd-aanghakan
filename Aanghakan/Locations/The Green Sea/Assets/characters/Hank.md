@@ -1,0 +1,1 @@
+An old warrior from far away lands, decided to marry an half elf woman and live a peaceful life in [[Esmeralda]], his hometown. After the death of his wife he had changed, but also had to provide for his daughter Serene... Thankfully the village helped them wholeheartedly and Serene managed do live a peaceful youth.

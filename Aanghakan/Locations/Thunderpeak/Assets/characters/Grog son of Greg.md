@@ -1,4 +1,4 @@
-Grog, progeny of [[Greg the Giant]], an unyielding bulwark of the Stonehelm clan. Carved from the same formidable granite as his forebears, this formidable warrior stands steadfast amidst the tumult of the world.
+Grog, progeny of Greg the Giant, an unyielding bulwark of the Stonehelm clan. Carved from the same formidable granite as his forebears, this formidable warrior stands steadfast amidst the tumult of the world.
 
 His presence, an embodiment of brooding silence, dwarfs the babbling of words, rendering them insignificant. His hushed demeanor bellies a lethal prowess, a deadly dance of steel and blood. In the throes of battle, he becomes an artist, his canvas the chaos of combat, his brush the keen edge of his blade.
 

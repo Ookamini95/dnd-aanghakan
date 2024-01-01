@@ -1,3 +1,0 @@
-[[The Green Sea]] is [[Red Star Syndicate]] main turf, and most proficuous business venture. Here [[Gustav Kozlov]], leader of the organization has established a sprawling underground network of illegal activities. From illicit trade in rare substances to underground fighting rings featuring exotic beasts from the world's edge, the Red Star Syndicate has its hand in every shade of vice, while always keeping a tight grip to power.
-
-[[Gustav Kozlov]], a shrewd and calculating man, rose to power through a mix of cunning, brutality, and an unparalleled understanding of the Green Sea's underground economy  

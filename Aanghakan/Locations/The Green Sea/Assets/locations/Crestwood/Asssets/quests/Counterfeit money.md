@@ -1,0 +1,1 @@
+10. **The Counterfeit Coin**: Counterfeit currency is flooding the market, destabilizing the economy. The players are hired to find the source, leading to a complex web involving the Syndicate and offering a slim chance to trace the operation back to Kozlov.

@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "leaflet-map",
-      "lastAccessed": 1690300158539,
+      "lastAccessed": 1704147394088,
       "markers": [
         {
           "id": "ID_f9ea29ab4b78",
@@ -127,8 +127,8 @@
           "id": "ID_d92b59ea3b38",
           "type": "default",
           "loc": [
-            -1.3246501787290983,
-            2.3950143202353256
+            -1.550958809906808,
+            1.6480381991063935
           ],
           "layer": "%5B%5Bmap-00.png%5D%5D",
           "mutable": true,
@@ -219,12 +219,46 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_5918cab8cbd8",
+          "type": "default",
+          "loc": [
+            -1.498934163718648,
+            2.116310530059329
+          ],
+          "link": "Dekka",
+          "layer": "%5B%5Bmap-00.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_387b781a3bf8",
+          "type": "default",
+          "loc": [
+            -0.705727869064442,
+            1.205141848197302
+          ],
+          "link": "Crestwood",
+          "layer": "%5B%5Bmap-00.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
       "shapes": [],
       "files": [
-        "Aanghakan/Aanghakan.md"
+        "Aanghakan/Locations/Aanghakan.md"
       ]
     }
   ],
@@ -244,11 +278,11 @@
   "long": -82.98333,
   "notePreview": false,
   "layerMarkers": true,
-  "previousVersion": "5.5.0",
+  "previousVersion": "6.0.1",
   "version": {
-    "major": 5,
-    "minor": 5,
-    "patch": 0
+    "major": 6,
+    "minor": 0,
+    "patch": 1
   },
   "warnedAboutMapMarker": false,
   "copyOnClick": false,

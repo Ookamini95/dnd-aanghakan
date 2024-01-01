@@ -1,3 +1,0 @@
-Dofur the Brave was born and raised in Thunderpeak, where he quickly gained a reputation as a skilled warrior and adventurer. As a young dwarf, he would often explore the nearby mountains and caverns, searching for valuable treasures and fighting off dangerous creatures.
-
-Dofur became known for his talents and quick wit. He would often lead groups of dwarves on dangerous expeditions in the [[Crystal Caverns]], relying on his combat skills and clever tactics to overcome any obstacles they faced.

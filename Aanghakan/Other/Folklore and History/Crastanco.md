@@ -1,0 +1,1 @@
+A figure of almost mythical stature, whose artistry was spoken of in hushed, reverent tones even amongst his kin. While history remembers him as the teacher of [[Thein]] not much other that that is known.

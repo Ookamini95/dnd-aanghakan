@@ -11,108 +11,81 @@ party: lol
 creatures:
  - 3: Goblin
 ```
+  
 
 ```statblock
 image: [[Wikilink To Image]]
-name: string
-size: string
-type: string
-subtype: string
-alignment: string
-ac: number
-hp: number
-hit_dice: 8d8
-speed: string
-stats: [number, number, number, number, number, number]
-saves:
-  - <ability-score>: number
-skillsaves:
-  - <skill-name>: number
-damage_resistances: string
-senses: string
-languages: string
-cr: number
-spells:
-  - <description>
-  - <spell level>: <spell-list>
-traits:
-  - name: <reaction-name>
-  - desc: <reaction-description>
-  - ...
+name: Elite Kobold Warrior
+size: small
+type: Humanoid
+subtype: Kobold
+alignment: Lawful Evil
+ac: 17
+hp: 65
+speed: 30 ft.
+stats: [14,16,16,8,12,9]
+senses: Darkvision 60 ft., passive Perception 14
+languages: Draconic
+challenge: 4 (1,100 XP)
 actions:
-  - name: <reaction-name>
-  - desc: <reaction-description>
-  - ...
-legendary_actions:
-  - name: <reaction-name>
-  - desc: <reaction-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-  - desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-  - desc: <reaction-description>
-  - ...
+  - name: ba
+    desc: bebe
+traits:
+  - name: bubu
+    desc: caca
+  - name: xpsilon
+    desc: work pls
+traits+:
+  - name: cucu
+    desc: mumu
 ```
 
+  - name: Pack Tactics
+  - desc: The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.
+  - name: Ambush Leader
+  - desc: The kobold can guide its allies in setting up an effective ambush, granting them a +2 bonus to their initiative rolls if they are part of the ambush.
 
 
 ```statblock
-image: [[https://pathfinderwiki.com/mediawiki/images/thumb/9/95/Red_dragon.jpg/250px-Red_dragon.jpg]]
-name: Ancient Red Dragon (Level 35)
-size: Gargantuan
-type: Dragon
-subtype: Fire
-alignment: Chaotic Evil
-ac: 45
-hp: 642
-hit_dice: 35d12+315
-speed: 60 ft., climb 60 ft., fly 250 ft.
-stats: [41, 10, 29, 26, 23, 26]
-fage_stats: [35, 35, 35, 35, 35, 35, 35, 35, 35]
+name: Infernal Emissary
+size: Large
+type: Fiend
+subtype: Devil
+alignment: Lawful Evil
+ac: 18
+hp: 200
+hit_dice: 16d10 + 112
+speed: "30 ft., fly 60 ft."
+stats: [22, 14, 24, 17, 15, 20]
 saves:
-  - fortitude: 32
-  - reflex: 22
-  - will: 28
-skillsaves:
-  - acrobatics: 45
-  - perception: 49
-  - stealth: 45
-  - intimidate: 49
-  - bluff: 49
-damage_vulnerabilities: Cold
-damage_resistances: Fire (30)
-damage_immunities: Paralysis, sleep
-condition_immunities: Frightened, charmed
-senses: Darkvision 120 ft., Blindsight 60 ft., True Seeing 120 ft.
-languages: Draconic, Common, Giant, Ignan
-cr: 35
-spells:
-  - caster level: 17
-  - 9th level: Meteor Swarm
-  - 8th level: Fire Storm, Incendiary Cloud
-  - 7th level: Delayed Blast Fireball, Firebrand
-  - 6th level: Chain Lightning, Contingency
-  - 5th level: Wall of Force, Teleport
+  - dexterity: 7
+  - constitution: 12
+  - wisdom: 7
+  - charisma: 10
+skills: 
+  - deception: 10
+  - intimidation: 10
+damage_resistances: "Cold; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered"
+damage_immunities: "Fire, Poison"
+condition_immunities: "Poisoned"
+senses: "Truesight 120 ft., Passive Perception 12"
+languages: "Infernal, Common, Telepathy 120 ft."
+cr: 11
 traits:
+  - name: Infernal Command
+    desc: "Can command lesser devils and demons within 60 feet as a bonus action."
+  - name: Dark Pact
+    desc: "Telepathic bond with its Warlock master, allowing them to communicate over any distance on the same plane of existence."
+  - name: Abyssal Flames
+    desc: "Melee weapon attacks deal an extra 10 (3d6) fire damage on a hit."
+  - name: Magic Resistance
+    desc: "The devil has advantage on saving throws against spells and other magical effects."
   - name: Spellcasting
-    desc: The ancient red dragon is a 17th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 23, +15 to hit with spell attacks). It knows the following sorcerer spells.
-  - name: Frightful Presence
-    desc: Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 27 Wisdom saving throw or become frightened for 1 minute.
+    desc: "The devil is a 10th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). It has the following warlock spells prepared: Cantrips (at will): Eldritch Blast, Minor Illusion; 1st-5th level (3 5th-level slots): Hex, Hold Monster, Fireball, Dimension Door, Wall of Fire."
 actions:
   - name: Multiattack
-    desc: The ancient red dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
-  - name: Bite
-    desc: Melee Weapon Attack: +29 to hit, reach 20 ft., one target. Hit: 23 (4d6 + 19) piercing damage and 14 (4d6) fire damage.
-  - name: Claw
-    desc: Melee Weapon Attack: +29 to hit, reach 15 ft., one target. Hit: 17 (2d6 + 19) slashing damage.
-  - name: Tail
-    desc: Melee Weapon Attack: +29 to hit, reach 20 ft., one target. Hit: 19 (2d8 + 19) bludgeoning damage.
-  - name: Breath Weapons (Recharge 5-6)
-    desc: The dragon uses one of the following breath weapons:
-          1. Fire Breath: The dragon exhales fire in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 30 Dexterity saving throw, taking 112 (25d8) fire damage on a failed save, or half as much damage on a successful one.
-          2. Weakening Breath: The dragon exhales gas in a 120-foot line that
-
+    desc: "The devil makes three attacks with its infernal glaive."
+  - name: Infernal Glaive
+    desc: "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 15 (2d8 + 6) slashing damage plus 10 (3d6) fire damage."
+challenge: 11 (7,200 XP)
 ```

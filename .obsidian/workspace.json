@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1650910dd011d59c",
+        "id": "59af952926b9ea15",
         "type": "tabs",
         "children": [
           {
-            "id": "65d256291403326d",
+            "id": "28cae73244bafca2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aanghakan/Locations/East O'lands/East O'lands.md",
+                "file": "Aanghakan/Main Quest - The Hearth of the Mountain 03.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,6 @@
       {
         "id": "2fc17ff77e62e329",
         "type": "tabs",
-        "dimension": 75.49019607843137,
         "children": [
           {
             "id": "3fcd2cc15ed23865",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aanghakan/Locations/East O'lands/East O'lands.md",
+                "file": "Aanghakan/Main Quest - The Hearth of the Mountain 03.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,9 +110,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aanghakan/Locations/East O'lands/East O'lands.md",
+                "file": "Aanghakan/Main Quest - The Hearth of the Mountain 03.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "0f10448926443a33",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Aanghakan/Main Quest - The Hearth of the Mountain 03.md"
               }
             }
           },
@@ -129,32 +138,34 @@
             }
           },
           {
-            "id": "0f10448926443a33",
+            "id": "d094ed19c90a88bf",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "all-properties",
               "state": {
-                "file": "Aanghakan/Locations/East O'lands/East O'lands.md"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
           {
-            "id": "4874b01ad784a43a",
+            "id": "0cf0322b644a99eb",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
-        "id": "d02568bb13dba9ce",
+        "id": "10a2be0858393467",
         "type": "tabs",
-        "dimension": 24.50980392156863,
         "children": [
           {
-            "id": "4501854bed7c6435",
+            "id": "2162fbca31383577",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-creature-view",
@@ -165,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 458.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,93 +186,58 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "floating": {
-    "id": "c45faa9561c861c6",
-    "type": "floating",
-    "children": [
-      {
-        "id": "9424052d79558127",
-        "type": "window",
-        "children": [
-          {
-            "id": "e299f33862bd49a6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5f76913db23cd6b7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Aanghakan/Aanghakan.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1349,
-        "y": -210,
-        "width": 819,
-        "height": 640,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "65d256291403326d",
+  "active": "28cae73244bafca2",
   "lastOpenFiles": [
-    "Aanghakan/Locations/Crystal Caverns/Deep Crystal Caverns/Secret Ale Stash/Secret_ale_stash.png",
-    "Aanghakan/Locations/East O'lands/Assets/Untitled.md",
-    "Aanghakan/Locations/East O'lands/Assets/characters/Cancastor the Mad Alchemist.md",
-    "Aanghakan/Factions/Red Star Syndicate/Red Star Syndicate.md",
-    "Aanghakan/Locations/The Opal Sea/Assets/locations/Dekka.md",
-    "Aanghakan/Locations/The Opal Sea/Assets",
-    "Aanghakan/Locations/Thunderpeak/Thunderpeak.md",
-    "Aanghakan/Locations/The Opal Sea/Assets/locations",
-    "Aanghakan/Locations/The Opal Sea",
-    "Aanghakan/Factions/Red Star Syndicate/Assets/characters/Gustav Kozlov.md",
-    "Aanghakan/Locations/The Green Sea/Assets/locations/Crestwood/The Den.md",
-    "Aanghakan/Locations/The Green Sea/Assets/locations/Crestwood",
-    "Aanghakan/Locations/The Green Sea/Assets/locations/Crestwood/Crestwood.md",
-    "Aanghakan/Factions/Red Star Syndicate/Assets/characters",
-    "Aanghakan/Locations/The Green Sea/Assets/quests/A crimson star.md",
-    "Aanghakan/Locations/The Green Sea/Assets/quests/Whispers in Duxemburg.md",
-    "Aanghakan/Locations/The Green Sea/The Green Sea.md",
-    "Aanghakan/Locations/The Green Sea/Assets/locations/Esmeralda.md",
-    "Aanghakan/Locations/The Green Sea/Assets/quests/Untitled",
-    "Aanghakan/Locations/The Green Sea/Assets/quests",
-    "Aanghakan/Locations/The Green Sea/Untitled",
-    "Aanghakan/Locations/The Green Sea/Assets/locations/Duxemburg.md",
     "Aanghakan/Main Quest - Journey to the Capital 02.md",
-    "Aanghakan/Aanghakan.md",
-    "Aanghakan/Locations/Thunderpeak/Assets/quests/side-quests/Killing spree.md",
-    "Aanghakan/Locations/Thunderpeak/Assets/quests/The Lost Mines of Thunderpeak.md",
-    "Aanghakan/Locations/Thunderpeak/Assets/quests/The Siege of Thunderpeak.md",
+    "Aanghakan/Main Quest - Introduction 01.md",
+    "Aanghakan/Main Quest - Escaping the capital 04.md",
+    "Readme.md",
+    "Main Quest.md",
+    "Test Plugins.md",
     "Aanghakan/Locations/Erebor.md",
-    "Aanghakan/Other/Folklore and History/Gems/Hearth of the Mountain.md",
-    "Aanghakan/Other/Folklore and History/History/The Chosen.md",
-    "Aanghakan/Other/Folklore and History/History/Goor.md",
-    "Aanghakan/Other/Folklore and History/History/Giants.md",
-    "Aanghakan/Other/Folklore and History/Thousand Roots Crown.md",
-    "Aanghakan/Other/Folklore and History/Thrain Ironfist (deceased).md",
-    "Aanghakan/Other/Assets/images/Aanghakan.png",
-    "Aanghakan/Other/Assets/images/folklore/Elune.png",
-    "Aanghakan/Other/Assets/images/folklore/Yaneet.png",
-    "Aanghakan/Locations/Thunderpeak/Assets/images/manunscript/Explorer_Camp.png",
-    "Aanghakan/Locations/Thunderpeak/Assets/images/manunscript/Section_of_deep_caverns.png",
-    "Aanghakan/Locations/Thunderpeak/Assets/images/manunscript/Secret_Entrance_in_the_Jade_mountains.png",
-    "Aanghakan/Other/Assets/images/folklore",
-    "Aanghakan/Other/Assets/images/map",
-    "Aanghakan/Factions/Red Star Syndicate/Assets/images/ookami4130_dishonored_video_game_villain_smiling_hyperrealistic_3a31c65f-9d11-4944-a3fe-d053a255df1e.png",
-    "Aanghakan/Locations/Crystal Caverns/Deep Crystal Caverns/Secret Ale Stash/ookami4130_A_dungeons_and_dragons_map_of_a_crystal_cave_The_map_a5748a3b-2bd5-4b65-868b-316fc7ee51f0.png",
-    "Aanghakan/Other/Assets/images/map/map-00.png",
-    "Aanghakan/Locations/Thunderpeak/Assets/images/characters/Dwalin_the_Stout.png"
+    "Aanghakan/Locations/Azura.md",
+    "Aanghakan/Locations/Aanghakan.md",
+    "Aanghakan/Locations/Thunderpeak/Thunderpeak.md",
+    "Aanghakan/Locations/Thunderpeak/Assets/characters/Bifur, Bofur, and Bombur.md",
+    "Aanghakan/Locations/Thunderpeak/Assets/characters/Layla Al-Hassan.md",
+    "Aanghakan/Locations/Thunderpeak/Assets/characters/Grog son of Greg.md",
+    "Aanghakan/Locations/Thunderpeak/Assets/characters/Filip and Ki.md",
+    "Aanghakan/Other/Folklore and History/Lord Cantrocas.md",
+    "Aanghakan/Locations/Thunderpeak/Assets/side-quests/Killing spree.md",
+    "Aanghakan/Locations/Deep Crystal Caverns/Deep Crystal Caverns.md",
+    "Aanghakan/Locations/Crystal Caverns/Crystal Caverns.md",
+    "Aanghakan/Locations/Ael'vo/Ael'vo.md",
+    "Aanghakan/Factions/Cult of the Abyssal Serpent/Cult of the abyssal serpent.md",
+    "Aanghakan/Factions/Cult of the Abyssal Serpent/Assets/characters/Vespera Shadowdancer.md",
+    "Aanghakan/Factions/Cult of the Abyssal Serpent/Assets/characters/Llig the Deceiver.md",
+    "Aanghakan/Factions/Cult of the Abyssal Serpent/Assets/characters/Broum the Unbreakable.md",
+    "Aanghakan/Other/Assets/images/cities/Thunderpeak-city.png",
+    "Aanghakan/Other/Assets/images/characters/Thrain_Ironfist.png",
+    "Aanghakan/Other/Assets/images/cities",
+    "Aanghakan/Other/Assets/images/characters/Dwalin_the_Stout.png",
+    "Aanghakan/Other/Assets/images/characters/Grog_son_of_greg.png",
+    "images/characters/Filip_and_Kli.png",
+    "Aanghakan/Other/Assets/images/characters/Bifur_Bofur_and_Bombur.png",
+    "Aanghakan/Other/Assets/images/characters/Balin_Stonehelm.png",
+    "Aanghakan/Other/Assets/images/other/Crystal_Caverns_manuscript/Section_of_deep_caverns.png",
+    "Aanghakan/Other/Assets/images/other/Crystal_Caverns_manuscript/Secret_Entrance_in_the_Jade_mountains.png",
+    "Aanghakan/Other/Assets/images/other/Crystal_Caverns_manuscript/Explorer_Camp.png",
+    "Aanghakan/Other/Assets/images/other",
+    "Aanghakan/Locations/Thunderpeak/Assets/locations/The wet market.md",
+    "Aanghakan/Locations/Thunderpeak/Assets/locations/The mining district.md",
+    "Aanghakan/Locations/Thunderpeak/Assets/locations/Stonehelm's clan Stronghold.md",
+    "Aanghakan/Other/Assets/images/map/psEB2A.tmp",
+    "Aanghakan/Locations/Gorge of the Ancients",
+    "Aanghakan/Other/Singleton Characters/Vex/Vex-feats.pdf",
+    "Aanghakan/Other/Singleton Characters/Vex/Vex.pdf",
+    "Aanghakan/Other/Singleton Characters/Vex/Vex-actions.pdf",
+    "Aanghakan/Other/Singleton Characters/Vex/Vex-cs.pdf",
+    "Aanghakan/Other/Singleton Characters/Vex",
+    "Aanghakan/Other/Singleton Characters"
   ]
 }

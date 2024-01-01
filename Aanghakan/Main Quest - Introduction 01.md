@@ -12,7 +12,7 @@ Our party of yet to be heroes has just completed an humble request of the local 
 In this section I'll present a couple notes for the master, as in the world building some elements must be necessary in order to maintain a coherent story, while allowing you to create your own world.
 
 <span style="background-color:lightblue;color:black;"> !important </span> 
-Main quest - The following person should be introduced as soon as possible, as it will be the main NPC (or played by someone special) of the quest. Serene, daughter of a retired human warrior [[Hank]] and of an half elf from the [[East O'lands]], known as the land of the elves. Rumor has it that her mother may be of noble blood due to the her silver hair, but she left early due to an unknown illness so not much is actually known. She's (not yet) the next chosen of Elune and, despite her current lack of power, she will be accompanying the party in the initial stages of her journey.
+Main quest - The following person should be introduced as soon as possible, as it will be the main NPC (or played by someone special) of the quest. Serene, daughter of a retired human warrior [[Hank]] and of an half elf from the [[Ael'vo]], known as the land of the elves. Rumor has it that her mother may be of noble blood due to the her silver hair, but she left early due to an unknown illness so not much is actually known. She's (not yet) the next chosen of Elune and, despite her current lack of power, she will be accompanying the party in the initial stages of her journey.
 
 Previous knowledge - the players know the following things about the area:
 
@@ -187,7 +187,7 @@ People scream and scatter in all directions, their screams piercing the night, d
 [[Hank]], driven by sheer determination, pushes through the frantic crowd, his eyes scanning desperately for Serene. The players, caught in the midst of the chaos, find themselves unable to fight or take immediate decisive action. The overwhelming panic paralyzes their ability to react, forcing them to witness the unfolding carnage as the beasts from the forest wreak havoc upon the defenseless villagers.
 
 #Master-Notes Here you should discuss with the party what is their plan to get out alive. Players have very limited ability to do anything due to the panic. 
-- Perception check 18 DC the party sees an hooded man, following the flow of the people running away, while menacingly staring at the party and turning only to see another black figure moving through the crowd. 
+- Perception check 15 DC the party sees an hooded man, following the flow of the people running away, while menacingly staring at the party. Another black figure moving through the crowd cut off their focus, and the figure disappears. 
 
 Amidst the chaos, a solitary black figure can be seen slipping through the crowd of people, which focuses the attention of the party, moving with an eerie grace, seemingly unaffected by the presence of those around it, towards the town's church. Despite the chaos and commotion, its advance is unhindered, almost as if it was death itself.
 
@@ -282,10 +282,22 @@ The aftermath of the spectacle is almost eerily serene. The chaos that had once 
 
 She turns her gaze to the party, a wise and ancient light burning in her eyes. Her voice is soft, yet it carries an undeniable authority as she speaks:
 
-> _Elune_ : "Children of Esmeralda, you have witnessed the evil that has taken root in this land. My chosen one, Serene, is the beacon of hope against this rising tide of chaos. She carries within the power to turn the tides, but she cannot do it alone. 
-> I beseech you to protect my daughter, guide her, help her fulfill her destiny. 
-> Journey with her to Thunderpeak, seek out a man named [[Okin the Wise]]. He will guide you further."
+> _Elune_ : "
+> 	Children of Esmeralda, 
+> 	you have witnessed the evil that has taken root in this land. 
+> 	My chosen one, 
+> 	Serene, is the beacon of hope against this rising tide of chaos. She carries within the power to turn the tides, but she cannot do it alone. 
+> 	
+> 	I beseech you to protect my daughter, guide her, help her fulfill her destiny. 
+> 	Journey with her to Thunderpeak. 
+> 	Seek out the [[Okin the Wise|wise man]]. Seek the [[Hearth of the Mountain]]. 
+> 	
+> 	Glory awaits you.
+> "
 
 As the goddess's words fade, her celestial form begins to dissipate, the radiant aura shrinking back and Serene collapses to the ground, her body frail and unconscious after the divine possession.
 
 Reality sets in as the beasts continue the rampage, leaving no choice but to leave...
+
+
+

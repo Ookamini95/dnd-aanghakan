@@ -8,4 +8,4 @@ Despite the serene facade, the Green Sea is not without its perils. Human ambiti
 
 And from the shadows of the mountains and the depths of the woods, other dangers encroach. Raids from the audacious mountain goblins disturb the otherwise placid life, a grim reminder of the primal wilderness that borders this sea of green. Beasts emerge from the forest's edge, driven by hunger and instinct, adding another layer of trepidation to the hardworking lives of the people.
 
-Administered by the steadfast [[Stonehelm Clan]] from the majestic [[Thunderpeak]], and guided by the wisdom of the Triumvirate, it stands as an emblem of humanity's persistence, a testament to our tenacity in the face of adversity. It is here, amidst the pastoral fields and beneath the azure sky, that life unfurls in all its complex simplicity.
+Administered by Triumvirate and guided by the wisdom of the steadfast [[Stonehelm Clan]], it stands as an emblem of humanity's collaborative efforts to endure, adapt, and thrive. As night falls, casting its velvety shroud over the landscape, the Green Sea sleeps, dreaming of the next dawn and the stories yet to be told.
