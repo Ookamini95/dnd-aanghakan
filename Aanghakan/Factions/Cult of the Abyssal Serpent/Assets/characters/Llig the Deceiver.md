@@ -1,1 +1,1 @@
-Master of flesh magic, this shapeshifting monstrosity is the head of the 
+Master of flesh magic, this shapeshifting monstrosity is the head of the Serpent's Whisper, able to assume any shape and semblance.

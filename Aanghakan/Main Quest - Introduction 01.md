@@ -1,5 +1,5 @@
 
-The chosen of [[Elune]], a legendary warrior destined to defend the world in its darkest times. Legends talk about [[Aein]], curator of souls, first of [[The Chosen|the chosen]], born of the [[Giants]], and how he defeated [[Goor]], king of the Orcs, and his vast armies of chaos. Then there is [[Thein]] the second chosen, born among wolves, pure of soul, untarnished, and bearer of the [[Thousand Roots Crown]]. Then there is [[Yaohwan]], born of Valkyrie blood, third of the chosen, protector of the people, wise diplomat and architect of the unity in [[Aanghakan]]. He died, thousands of years in the past, leaving a legacy of peace and hope.
+The chosen of [[Elune]], a legendary warrior destined to defend the world in its darkest times. Legends talk about [[Aein]], first of [[The Chosen|the chosen]], born of the [[Giants]], and how he defeated [[Goor]], king of the Orcs, and his vast armies of chaos. Then there is [[Thein]] the second chosen, born among wolves, bearer of the [[Thousand Roots Crown]], and how he sealed away the [[Abyssal Serpent]]. Then there is [[Yaohwan]], born of Valkyrie blood, third of the chosen, protector of the people, wise diplomat and architect of the unity in [[Aanghakan]]. He died, thousands of years in the past, leaving a legacy of peace and hope.
 
 But while hope yields prosperity, evil is *always* capable of seeping through the smallest gaps, corrupt the meek, build upon the dark desires of the ones left behind.
 
@@ -28,12 +28,12 @@ The players are then introduced to what they know about the area and the culture
 
 When the players get to the town square they can overhear an animate discussion between a merchant and a known hunter of the area, [[Hank]]. The discussion seems about a missed deadline of an important shipment of exotic pelts for the capital.
 
->Hank: My deepest apologies, sir. 
->Merchant: I CAN'T BELIEVE... 
->Hank: Please, sir, allow me to explain. I've said it numerous times - the animals seem to have wandered off. 
->Merchant: IMPOSSIBLE. Animals don't just vanish; they're hunted and their pelts are sold. Who has my pelts? WHO? FOR WHAT PRICE? 
->Hank: Sir, I assure you... If you could give it just a couple more days... 
->Merchant: ... Hank, you're in the dark. If I miss _HER_ birthday, my fate is sealed! You're essentially advising me to savor my final days on Earth.
+>**Hank**: My deepest apologies, sir. 
+>**Merchant**: I CAN'T BELIEVE... 
+>**Hank**: Please, sir, allow me to explain. I've said it numerous times - the animals seem to... *have wandered off*. 
+>**Merchant**: IMPOSSIBLE. Animals don't just vanish; they're hunted and their pelts are sold. Who has my pelts? WHO? FOR WHAT PRICE? 
+>**Hank**: Sir, I assure you... If you could give it just a couple more days... 
+>**Merchant**: ... Hank, you're in the dark. If I miss _HER_ birthday, my fate is sealed! You're essentially advising me to savor my final days on earth.
 
 #Master-Notes If players ignore the conversation, they will be later met by Serene that will hint at [[Hank]], mentioning the return of a favor the hunter did for the party. If it fails, let them enjoy the bustling town and its attractions, they will be later met by [[Hank]] himself that will propose a job for the team.
 
@@ -69,7 +69,7 @@ creatures:
 ```
 
 ```statblock
-image: [[https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2010-kodiak-bear-1.jpg/1200px-2010-kodiak-bear-1.jpg]]
+image: [../Aanghakan/Other/Assets/images/custom_monsters/corrupted_bear.png]
 name: Corrupted Bear
 size: Medium
 type: Corrupted beast
@@ -107,7 +107,7 @@ actions:
 
 
 ```statblock
-image: [[https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2010-kodiak-bear-1.jpg/1200px-2010-kodiak-bear-1.jpg]]
+image: [../Aanghakan/Other/Assets/images/custom_monsters/serpent_cultist_a.png]
 name: Cultist
 size: Medium
 type: Cultist of the Abyssal Serpent
@@ -169,7 +169,7 @@ Hidden amongst the cultist's personal effects, the party uncovers a unsettling l
 
 The cultist encampment is a trove of goods—pelts, rations, and beyond the mundane, weapons, enchanted components, and even explosives.
 
-> _Hank:_ This is an omen... I've got a sick feeling about what's coming next.
+> **Hank**: This is an omen... I've got a sick feeling about what's coming next.
 
 The moment the party decides to go back, it's late afternoon and the festivities have just begun. Returning to the village will take at least 2 hours of forced march and players will be fatigued by the time they reach destination.
 
@@ -201,15 +201,15 @@ Hank, witnessing this horrific act from the edge of the square, unleashes a rese
 
 The figure calmly turns around and says with a soft voice :
 
-> *?????* : Here comes the noble knight.
+> **?????** : Here comes the noble knight.
 
 With a swift, practiced motion, she slashes open Hank's throat.
 
 This time, the players attract the attention of the enigmatic figure, a sense of curiosity gleaming in her draconic eyes. Her words are meticulously chosen, each phrase delivered with a careful, deliberate demeanor. She exudes an aura of calculated control, every subtle inflection of her voice underscoring her formidable power.
 
-> *?????* : And who are you supposed to be...
+> **?????** : And who are you supposed to be...
 
-#Master-Notes The figure is [[Vespera Shadowdancer]], renowned assassin of the Serpent's Cult. Her task is currently to track down and extinguish the bloodline of [[Aein]], preventing the resurrection of the chosen of Elune. It's crucial to convey her overwhelming power to the players; Vespera should never appear threatened. In the face of any belligerence, she has a handy Sleep spell at her disposal.
+#Master-Notes The figure is [[Vespera Shadowdancer]], renowned assassin of the Serpent's Cult. Her task is currently to track down and extinguish the bloodline of [[Aein]], preventing the resurrection of the chosen of Elune. It's crucial to convey her overwhelming power to the players; Vespera should never appear threatened. In the face of any belligerence, she has a handy spells at her disposal.
 After answering some of the possible questions the party may have, [[Vespera Shadowdancer|Vespera]] presents an ultimatum. The lives of the party in return for the children stowed away in the wagon.
 
 #Master-Notes Among the children, one stands out. This child, of about sixteen years of age, has caramel skin, wears refined clothes and has a silver pendant that holds a picture of a duchess, check [[Missing Child|missing child]] quest.
@@ -219,7 +219,7 @@ After answering some of the possible questions the party may have, [[Vespera Sha
 [[Vespera Shadowdancer|Vespera]] possesses an arsenal of spells to toy with the party and delights in reveling in the despair and dread she instills in her pawns.
 
 ```statblock
-image: [[https://vespera-shadowdancer-portrait.jpg]]
+image: [../Aanghakan/Other/Assets/images/characters/Vespera_Shadowdancer.png]
 name: Vespera Shadowdancer
 size: Medium
 type: Assassin
@@ -259,8 +259,8 @@ spells:
 
 ## The awakening
 
-> *????* : This is getting boring. \*\*brings a player prone and points the dagger to his face\*\*  
-> *????* : Any last words?
+> **????** : This is getting boring. \*\*brings a player prone and points the dagger to his face\*\*  
+> **????** : Any last words?
 
 Just as Vespera looms over one of your players, ready to deliver the final blow, a searing radiance breaks forth from the heart of the fountain, exploding like a newborn star, its light washing over the pandemonium-stricken square. All, including Vespera, recoil as their gaze is drawn towards this spectacle. Even the vicious onslaught of the abyssal creatures momentarily wavers.
 
@@ -282,7 +282,7 @@ The aftermath of the spectacle is almost eerily serene. The chaos that had once 
 
 She turns her gaze to the party, a wise and ancient light burning in her eyes. Her voice is soft, yet it carries an undeniable authority as she speaks:
 
-> _Elune_ : "
+> __Elune__ : "
 > 	Children of Esmeralda, 
 > 	you have witnessed the evil that has taken root in this land. 
 > 	My chosen one, 

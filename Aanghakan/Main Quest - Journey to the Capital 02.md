@@ -12,15 +12,15 @@ ____________________
 
 As the players make their departure, they can cast a final glance over their shoulders at the town now consumed in flames. Ashes ascend towards the heavens, coalescing into the ominous form of a serpent in the sky. The merchant, his gaze firmly fixed the dimly lighted road, introduces himself as [[Gill]], a man in service to the esteemed [[Stonehelm clan]]. His task was to retrieve a shipment of high quality goods ordered by [[Thenerifa]], Stonehelm Clan Forge master, for a present for the [[Mell|king's newborn daughter]]. This was supposed to be an easy task, not much unlike a paid vacation... instead he'll be the harbinger of dire news.
 
-[[Gill]] intends to travel throughout the coming night, allowing the party to recover their strength. By dawn, hoping to have put enough distance between them and the horrors of the last night, he will ask one of the players to swap places in order to rest, while giving instructions on how to reach their next destination, [[Luxemburg]], a small commercial city near the coastal line. From there it should be possible to contact his headmaster and decide what to do.
+[[Gill]] intends to travel throughout the coming night, allowing the party to recover their strength. By dawn, hoping to have put enough distance between them and the horrors of the last night, he will ask one of the players to swap places in order to rest, while giving instructions on how to reach their next destination, [[Dephol]], a small commercial city near the coastal line. From there it should be possible to contact his headmaster and decide what to do.
 
 #Master-Notes Here a couple of different scenarios can unfold. Below I've provided a couple of examples.
 
 - __The party is reached by 1d4+1 mutant hounds:__ As the players continue their journey, they hear the distant howl of beasts. They could try to outrun them, hide, or prepare for battle. Depending on the roll, they might face up to five mutant hounds, each mutated in strange and horrifying ways, a living testament to the catastrophe that happened in the town.
   
  ``` statblock
-image: [[https://i.pinimg.com/originals/3c/83/8d/3c838d8a8a9b7e76b093378c8f47489e.jpg]]
-name: Mutant Hound
+image: [../Aanghakan/Other/Assets/images/custom_monsters/mutant_hound.png]
+name: Mutant Wolf
 size: Medium
 type: Mutant Beast
 subtype: Hound
@@ -58,10 +58,9 @@ actions:
 
 ___________
 
-#Master-Notes  [[Duxemburg]] is a simple town and for such it can be modified without fear of damaging the coherence of the story. Here some possible scenarios :
+#Master-Notes  [[Ymburg]] is a simple town and for such it can be modified without fear of damaging the coherence of the story. Here some possible scenarios :
 
 - The city, usually bustling with activity, has been mostly evacuated due to information passed down by the survivors. The party meets a group of guards that will help them get the necessary tools and information to continue the journey.
-- The city is bustling with activity as usual, the party may find any information at the local merchant's guild, tools and rations at the local market
 - The city is deserted, an eerie silence filling the streets. It's clear something terrible happened here. The party has the opportunity to investigate and discover what happened, potentially unearthing new clues or even a short quest line.
 - The city has fallen victim to a deadly plague. The party can choose to help, avoid the city altogether, or look for the source of the plague, perhaps finding a cure.
 
@@ -72,7 +71,7 @@ In the meanwhile, Serene has just regained senses, her eyes lost on the magnific
 #Master-Notes Serene, while possessed, has spoken with the deity, and is aware of her father's death. She responds in monosyllables, not in the mood for conversations. Below I've provided her character sheet.
 
  ``` statblock
-image: [[imagehere]]
+image: [../Aanghakan/Other/Assets/images/characters/Serene.png]
 name: Serene
 size: Medium
 type: Human

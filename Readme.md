@@ -30,7 +30,13 @@ e dopo prompto
 Complete the blanks and the descriptive blanks in the following text. You have full artistic freedom on both the blank and the normal text :
 
 
+
 Custom rules (some optional rules) :
 
 - Baldur gate 3 custom rules ... #TODO 
 - Expedition : some players may decide to send their pg to an expedition (discussed with the DM). In the meanwhile they will be allowed to use a lower level pg created with the DM. When both characters are present, the player MUST use its original character.
+
+Additional links :
+
+- Top down VTT resources > https://www.forgotten-adventures.net/
+- Top down VTT battle maps > https://www.pinterest.it/marcosmauney/top-down-battle-maps/

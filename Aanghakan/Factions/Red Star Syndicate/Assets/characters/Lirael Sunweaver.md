@@ -1,0 +1,3 @@
+An elvish memory trader in the land of the elves. She is skilled in the art of extracting and bottling elvish memories, a practice seen as a profound betrayal by her kin but highly valued by the Syndicate and its clients.
+
+#Master-Notes An appreciated side effect of elvish memories is a longer lifespan, for this reason this delicacy is not searched by scholars, interested in the vast knowledge of the elven race, but also nobles and rich merchants alike.

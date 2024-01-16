@@ -1,0 +1,1 @@
+The ruthless overseer of the hidden arenas in the Green Sea. A former champion fighter himself, Malik now delights in orchestrating battles that are as bloody as they are profitable.

@@ -64,6 +64,4 @@ Yet, a Lord's destiny is intertwined with his tragedy. Current Lord Cantrocas's 
 
 His mind, blanked from an eternity of numbness, regained consciousness although not its memories, but its inherent cruelty and ambition irresistibly propel him on a quest to once again seize power, indifferent to the repercussions of his actions...
 
-#Master-Notes 
-
-This character is know by many names #TODO 
+#Master-Notes This character is know by many names, most of them will be anagrams but if it's an exception it will be specified in the character note.

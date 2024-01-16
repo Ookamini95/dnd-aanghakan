@@ -1,0 +1,1 @@
+The overseer of the spice routes in [[Regnai]] ([[Azura]]). He is a master of illusions and reality-bending experiences, known for his ability to procure and distribute hallucinogenic spices that can induce visions ranging from blissful to nightmarish.

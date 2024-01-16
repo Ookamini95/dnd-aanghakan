@@ -4,16 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "59af952926b9ea15",
+        "id": "ccae198a722efc4f",
         "type": "tabs",
         "children": [
           {
-            "id": "28cae73244bafca2",
+            "id": "6d6c1067d6d03983",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aanghakan/Main Quest - The Hearth of the Mountain 03.md",
+                "file": "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Dephol.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3a2f86db9fbb390",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aanghakan/Main Quest - Journey to the Capital 02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "954fe3761213f551",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aanghakan/Locations/Aanghakan.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#TODO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5110321044922
+    "width": 335.51103591918945
   },
   "right": {
     "id": "339a8902eecbf0a4",
@@ -93,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aanghakan/Main Quest - The Hearth of the Mountain 03.md",
+                "file": "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Dephol.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aanghakan/Main Quest - The Hearth of the Mountain 03.md",
+                "file": "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Dephol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aanghakan/Main Quest - The Hearth of the Mountain 03.md"
+                "file": "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Dephol.md"
               }
             }
           },
@@ -158,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "10a2be0858393467",
@@ -173,10 +197,25 @@
             }
           }
         ]
+      },
+      {
+        "id": "c6ca79788bfe37ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "810075fa5be803a4",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 458.5
+    "width": 458.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,53 +230,53 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "28cae73244bafca2",
+  "active": "6d6c1067d6d03983",
   "lastOpenFiles": [
-    "Aanghakan/Main Quest - Journey to the Capital 02.md",
-    "Aanghakan/Main Quest - Introduction 01.md",
-    "Aanghakan/Main Quest - Escaping the capital 04.md",
-    "Readme.md",
-    "Main Quest.md",
-    "Test Plugins.md",
-    "Aanghakan/Locations/Erebor.md",
-    "Aanghakan/Locations/Azura.md",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/quests/A legend back from its grave.md",
+    "Aanghakan/Factions/Tribal factions.md",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Dephol.md",
+    "Aanghakan/Locations/The Green Sea/The Green Sea.md",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/quests/Rumblings in the red underground.md",
     "Aanghakan/Locations/Aanghakan.md",
-    "Aanghakan/Locations/Thunderpeak/Thunderpeak.md",
-    "Aanghakan/Locations/Thunderpeak/Assets/characters/Bifur, Bofur, and Bombur.md",
-    "Aanghakan/Locations/Thunderpeak/Assets/characters/Layla Al-Hassan.md",
-    "Aanghakan/Locations/Thunderpeak/Assets/characters/Grog son of Greg.md",
-    "Aanghakan/Locations/Thunderpeak/Assets/characters/Filip and Ki.md",
-    "Aanghakan/Other/Folklore and History/Lord Cantrocas.md",
-    "Aanghakan/Locations/Thunderpeak/Assets/side-quests/Killing spree.md",
-    "Aanghakan/Locations/Deep Crystal Caverns/Deep Crystal Caverns.md",
-    "Aanghakan/Locations/Crystal Caverns/Crystal Caverns.md",
+    "Aanghakan/Main Quest - Journey to the Capital 02.md",
+    "Aanghakan/Factions/Triumvirate of the plains/Triumvirate of the plains.md",
+    "Aanghakan/Factions/Triumvirate of the plains/Assets/characters/temp.md",
+    "Aanghakan/Factions/Stonehelm clan/Stonehelm clan.md",
+    "Aanghakan/Factions/Stonehelm clan/Assets/characters/Carne the Brave.md",
+    "Aanghakan/Factions/Stonehelm clan/Assets/characters/Chad Stonecrest.md",
+    "Aanghakan/Factions/Stonehelm clan/Assets/characters/Gill.md",
+    "Aanghakan/Factions/Stonehelm clan/Assets/characters/Mell.md",
+    "Aanghakan/Factions/Stonehelm clan/Assets/characters/Okin the Wise.md",
+    "Aanghakan/Factions/Stonehelm clan/Assets/characters/Sir Gregor the III.md",
+    "Aanghakan/Factions/Stonehelm clan/Assets/characters/Thenerifa.md",
+    "Aanghakan/Factions/Stonehelm clan/Assets/characters/Belanie Stonehelm.md",
+    "Aanghakan/Factions/Stonehelm clan/Assets/characters/Balin Stonehelm.md",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Ymburg/Ymburg.md",
+    "Aanghakan/Main Quest - Introduction 01.md",
+    "Test Plugins.md",
+    "Aanghakan/Locations/Ael'vo/Assets/characters/Cancastor the Mad Alchemist.md",
+    "Aanghakan/Locations/Azura.md",
+    "Aanghakan/Main Quest - Escaping the capital 04.md",
     "Aanghakan/Locations/Ael'vo/Ael'vo.md",
-    "Aanghakan/Factions/Cult of the Abyssal Serpent/Cult of the abyssal serpent.md",
-    "Aanghakan/Factions/Cult of the Abyssal Serpent/Assets/characters/Vespera Shadowdancer.md",
-    "Aanghakan/Factions/Cult of the Abyssal Serpent/Assets/characters/Llig the Deceiver.md",
-    "Aanghakan/Factions/Cult of the Abyssal Serpent/Assets/characters/Broum the Unbreakable.md",
-    "Aanghakan/Other/Assets/images/cities/Thunderpeak-city.png",
-    "Aanghakan/Other/Assets/images/characters/Thrain_Ironfist.png",
-    "Aanghakan/Other/Assets/images/cities",
-    "Aanghakan/Other/Assets/images/characters/Dwalin_the_Stout.png",
-    "Aanghakan/Other/Assets/images/characters/Grog_son_of_greg.png",
-    "images/characters/Filip_and_Kli.png",
-    "Aanghakan/Other/Assets/images/characters/Bifur_Bofur_and_Bombur.png",
-    "Aanghakan/Other/Assets/images/characters/Balin_Stonehelm.png",
-    "Aanghakan/Other/Assets/images/other/Crystal_Caverns_manuscript/Section_of_deep_caverns.png",
-    "Aanghakan/Other/Assets/images/other/Crystal_Caverns_manuscript/Secret_Entrance_in_the_Jade_mountains.png",
-    "Aanghakan/Other/Assets/images/other/Crystal_Caverns_manuscript/Explorer_Camp.png",
-    "Aanghakan/Other/Assets/images/other",
-    "Aanghakan/Locations/Thunderpeak/Assets/locations/The wet market.md",
-    "Aanghakan/Locations/Thunderpeak/Assets/locations/The mining district.md",
-    "Aanghakan/Locations/Thunderpeak/Assets/locations/Stonehelm's clan Stronghold.md",
-    "Aanghakan/Other/Assets/images/map/psEB2A.tmp",
-    "Aanghakan/Locations/Gorge of the Ancients",
-    "Aanghakan/Other/Singleton Characters/Vex/Vex-feats.pdf",
-    "Aanghakan/Other/Singleton Characters/Vex/Vex.pdf",
-    "Aanghakan/Other/Singleton Characters/Vex/Vex-actions.pdf",
-    "Aanghakan/Other/Singleton Characters/Vex/Vex-cs.pdf",
-    "Aanghakan/Other/Singleton Characters/Vex",
-    "Aanghakan/Other/Singleton Characters"
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Ymburg",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Esmeralda/Assets/characters",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Esmeralda/Assets",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Esmeralda",
+    "Aanghakan/Locations/Deep Crystal Caverns/Assets/side-quests/Secret Ale Stash/top_stash.png",
+    "Aanghakan/Locations/Deep Crystal Caverns/Assets/side-quests/Secret Ale Stash/Secret_ale_stash.png",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/quests",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol",
+    "Aanghakan/Factions/Triumvirate of the plains/Assets/characters",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Crestwood/Asssets/locations",
+    "Aanghakan/Other/Assets/images/Aanghakan.png",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/The Great Forest/Assets/locations",
+    "Aanghakan/Other/Assets/images/custom_monsters/mutant_hound.png",
+    "Aanghakan/Other/Assets/images/characters/Vespera_Shadowdancer.png",
+    "Aanghakan/Other/Assets/images/characters/DALL·E 2024-01-03 00.11.18 - Vespera Shadowdancer, the drakonoid assassin, in a more dynamic and imposing pose. She retains her intimidating appearance with shimmering scales and .png",
+    "Aanghakan/Other/Assets/images/custom_monsters/serpent_cultist_a.png",
+    "Aanghakan/Other/Assets/images/custom_monsters/serpent_cultist_1.png",
+    "AANGHA~1/Other/Assets/images/other/Crystal_Caverns_manuscript/Secret_Entrance_in_the_Jade_mountains.png",
+    "AANGHA~1/Other/Assets/images/other/Crystal_Caverns_manuscript/Section_of_deep_caverns.png"
   ]
 }

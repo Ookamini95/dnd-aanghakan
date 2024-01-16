@@ -7,7 +7,7 @@
 
 ```encounter
 name: Example encounter
-party: lol
+party: 2
 creatures:
  - 3: Goblin
 ```

@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "leaflet-map",
-      "lastAccessed": 1704147394088,
+      "lastAccessed": 1705400765330,
       "markers": [
         {
           "id": "ID_f9ea29ab4b78",
@@ -159,13 +159,16 @@
           "id": "ID_1a797b2b4888",
           "type": "default",
           "loc": [
-            -0.7491964758833993,
-            1.4394759249720455
+            -0.3886427811726279,
+            1.4510833571611181
           ],
           "layer": "%5B%5Bmap-00.png%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.4836944523870394,
+            0.1295475937242093
+          ],
           "description": "The green sea",
           "minZoom": null,
           "maxZoom": null,
@@ -191,31 +194,17 @@
           "id": "ID_894b6999485a",
           "type": "default",
           "loc": [
-            -0.880324401444692,
-            1.858427748696509
+            -0.8967284517730761,
+            1.8857865656310275
           ],
           "layer": "%5B%5Bmap-00.png%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.6285955218770092,
+            0.29890948392435873
+          ],
           "description": "Veiled Ravine",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_9bb808ab5ad8",
-          "type": "default",
-          "loc": [
-            -0.8932869854264138,
-            1.3452226346629157
-          ],
-          "link": "Main Quest - Journey to the Capital 02",
-          "layer": "%5B%5Bmap-00.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Duxemburg",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
@@ -245,6 +234,43 @@
             1.205141848197302
           ],
           "link": "Crestwood",
+          "layer": "%5B%5Bmap-00.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b8b9af939fb",
+          "type": "default",
+          "loc": [
+            -0.9021736508589462,
+            1.331520898896073
+          ],
+          "link": "Dephol",
+          "layer": "%5B%5Bmap-00.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4438402996320243,
+            0.3007245502863154
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_28e9491a99fb",
+          "type": "default",
+          "loc": [
+            -0.7838610903908017,
+            1.4885971228977017
+          ],
+          "link": "Ymburg",
           "layer": "%5B%5Bmap-00.png%5D%5D",
           "mutable": true,
           "command": false,

@@ -1,0 +1,1 @@
+A mysterious figure on the island of Dekka. She is a master of forbidden rituals and dark alchemy, known for creating concoctions that trap and torment souls. Her work is both feared and revered by those who seek the Syndicate's darker services.
