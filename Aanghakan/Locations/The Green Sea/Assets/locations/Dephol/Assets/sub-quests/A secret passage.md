@@ -1,0 +1,1 @@
+A secret passage to a den of the [[Red Star Syndicate]] is situated in the city's cemetery.

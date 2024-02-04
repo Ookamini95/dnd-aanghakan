@@ -1,0 +1,3 @@
+Cicilia, once celebrated for its bustling markets, exquisite architecture, and strategic maritime position, has seen its golden age tarnished by dark dealings. The once vibrant streets, filled with traders from distant lands, now whisper secrets of a more sinister nature.
+
+The current ruler, Henrich Mafia III, a weak-willed ruler, easily swayed by the promises whispered by [[The Prophet]] himself, and now serves as a puppet for the cult's dark bidding.

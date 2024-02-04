@@ -6,11 +6,11 @@ As you delve deeper into the caves, you may discover that the rats are not natur
 Several puzzles can be involved in this quest:
 
 1. **The Mine Map Puzzle:** To navigate the sprawling caves, the party will need a map. Getting one should be easy enough...
-2. **The Crystal Resonance Puzzle:** Certain formations of crystals in the cave walls seem to be able to pacify the rats when they resonate at a certain frequency, while making them explode at other frequencies. The party needs to figure out how to replicate this resonance to create safe passage through areas thick with the explosive vermin and to rescue [[Filip and Ki|Ki]].
+2. **The Crystal Resonance Puzzle:** Certain formations of crystals in the cave walls seem to be able to pacify the rats when they resonate at a certain frequency, while making them explode at other frequencies. The party needs to figure out how to replicate this resonance to create safe passage through areas thick with the explosive vermin and to rescue [[Filip and Ki|Ki]]. Maybe a critical miss could turn into an opportunity... 
 
-The quest will culminate in the revelation that [[Filip and Ki|Filip]] has betrayed the city in exchange of a favorable treatment by the cultists, and also suspects that he could be a member himself. 
+The quest will culminate in the revelation that [[Filip and Ki|Filip]] has betrayed the city in exchange of favorable treatment by the cultists, and also suspects that he could be a member himself. 
 
-
+>  *Filip* : That **darn** dwarf and his fixation to dig. I **specifically** told him not to dig in the direction of the [[Crystal Caverns]], but **NOOO**. He **had to**, and now he's missing. 
 
 ```statblock
 image: [[Enchanted Armor Image Link]]

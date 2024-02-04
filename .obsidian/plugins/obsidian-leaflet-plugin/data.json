@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "leaflet-map",
-      "lastAccessed": 1705400765330,
+      "lastAccessed": 1705590983299,
       "markers": [
         {
           "id": "ID_f9ea29ab4b78",
@@ -98,6 +98,7 @@
             -0.9366238546342236,
             2.087101266908955
           ],
+          "link": "Veiled revine",
           "layer": "%5B%5Bmap-00.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -267,15 +268,58 @@
           "id": "ID_28e9491a99fb",
           "type": "default",
           "loc": [
-            -0.7838610903908017,
-            1.4885971228977017
+            -0.78328823417559,
+            1.4909557619480365
           ],
           "link": "Ymburg",
           "layer": "%5B%5Bmap-00.png%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.49698525398267884,
+            0.26109607805853
+          ],
           "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89a82868eaf8",
+          "type": "default",
+          "loc": [
+            -0.9312741948276271,
+            1.6515746845481576
+          ],
+          "link": "Veiled revine",
+          "layer": "%5B%5Bmap-00.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5505248948493858,
+            0.310424731609209
+          ],
+          "description": "Silent man's pass",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_99b8e99bd87b",
+          "type": "default",
+          "loc": [
+            -0.791015625,
+            1.640958375031957
+          ],
+          "link": "Veiled revine",
+          "layer": "%5B%5Bmap-00.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5469861250106524,
+            0.263671875
+          ],
+          "description": "Mistwalker's Gorge",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"

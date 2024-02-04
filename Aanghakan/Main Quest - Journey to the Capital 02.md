@@ -58,10 +58,9 @@ actions:
 
 ___________
 
-#Master-Notes  [[Ymburg]] is a simple town and for such it can be modified without fear of damaging the coherence of the story. Here some possible scenarios :
+#Master-Notes  [[Ymburg]] is a simple town. Here some possible scenarios :
 
 - The city, usually bustling with activity, has been mostly evacuated due to information passed down by the survivors. The party meets a group of guards that will help them get the necessary tools and information to continue the journey.
-- The city is deserted, an eerie silence filling the streets. It's clear something terrible happened here. The party has the opportunity to investigate and discover what happened, potentially unearthing new clues or even a short quest line.
 - The city has fallen victim to a deadly plague. The party can choose to help, avoid the city altogether, or look for the source of the plague, perhaps finding a cure.
 
 ____

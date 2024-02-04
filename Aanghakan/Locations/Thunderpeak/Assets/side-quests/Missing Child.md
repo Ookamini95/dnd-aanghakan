@@ -7,6 +7,6 @@ A duchess has sent one of her vassals to search for her child between the surviv
 
 The duchess will give the players a generous reward of about 1.000 gold pieces or of equivalent valued goods. She herself will gladly offer her knowledge to the questing party and can help in the following quests :
 
-- [[The Siege of Thunderpeak]] : a group of expert adventurers [[Filip and Ki]] will accompany the group into the depths of the [[Deep Crystal Caverns]]. Their experience will prove very useful in uncharted caverns as they are experienced scouts.
+- [[The Siege of Thunderpeak]] : a group of expert adventurers will accompany the group into the depths of the [[Deep Crystal Caverns]]. Their experience will prove very useful in uncharted caverns as they are experienced scouts.
   
 - [[Like Rats in a Cellar]] : her experience as a seasoned diplomat can provide invaluable insight and strategy. Her diplomacy could serve to defuse escalating tensions and maintain the critical alliances necessary to withstand the coming trials.

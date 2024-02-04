@@ -4,11 +4,9 @@ Yet, lurking in the shadows, the [[Cult of the Abyssal Serpent]] has been weavin
 
 #Master-Notes Quest can be initiated during exploration:  
 
-- A bloodied survivor: While exploring a bustling marketplace or the outskirts of [[Dephol]], the party is suddenly accosted by a ragged, bloodied individual. Showing signs of extreme malnutrition and desperation, he attempts to steal food from the party or nearby stalls.
-- In the shady corners of [[Dephol]], perhaps in a dimly lit tavern or in the city's seedy underbelly, the party is approached by an informant. This individual, driven by various motivations - greed, fear, or vendetta against the syndicate - unveils tales of a sinister arena and the syndicate's intertwining fate with the Cult of the Abyssal Serpent.
+- A bloodied survivor: while exploring an emptied by the night marketplace or the outskirts of [[Dephol]], the party is suddenly accosted by a ragged, bloodied individual. Showing signs of extreme malnutrition and desperation, he attempts to steal scraps of food from the party or nearby stalls. His mind is torn by the horrors he witnessed, but the message is clear : "The Serpent is among us, and has taken a bite of the Red Apple". An huge red tattoo in the shape of a star can be found, a DC 10 History (or related) check will point out the origin of the man as a member of the [[Red Star Syndicate]]. After a while he dies by the [[The pure blooded|curse of the pure blooded]].
 
 Investigating the syndicate's territories, the party stumbles upon secret dark rituals, performed in the shadows of the city's underbelly, where members of the Red Star Syndicate are being initiated into the Cult of the Abyssal Serpent, swayed by promises of unparalleled power. 
 
-Hidden deep within [[Dephol]], the underground arena is a hive of activity, although
 
 #Master-Notes [[Gustav Kozlov]] is aware of the cult's presence in his ranks, and has been quietly observing it, while deciding on the best course of action. In case the party eradicates the cult in [[Dephol]], Gustav will be pleased and have a better opinion on the party when they first meet.
