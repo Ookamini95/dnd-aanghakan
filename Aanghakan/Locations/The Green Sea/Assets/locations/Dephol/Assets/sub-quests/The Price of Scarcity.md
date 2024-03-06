@@ -1,4 +1,5 @@
-Shortages in the market has naturally increased the price of several products, but some merchant still are able to sell those goods and making good coin for it. 
-Market manipulation may be underway and some players may notice the high prices, leading to a trail of corruption and mismanagement.
+As Dephol grapples with the ghostly threats at sea, a new challenge emerges on land. The city's markets face unprecedented shortages, with prices of essential goods skyrocketing. Amidst the turmoil, certain merchants seem to thrive, hinting at possible market manipulation and corruption.
 
-Uncovering such a mistery is a key step into locating the [[Rumblings in the red underground|cultist members inside the city]].
+Some of the merchants seem to be in cahoots with the forces of the red star and have some back channels to trade with the syndicate outside of tariffs and the prying hands of thieves and raiders. Simple interactions with merchants and observing market dynamics can lead to clues of this. Collect documents, testimonies, or catch a shady deal in action. This could involve a brief stakeout or following a suspect discreetly.
+
+The price of necessity goods will start growing quickly, while the intensification of crimes around and within the city will soon show a pattern: hit the belly of the city, make it starve.

@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "leaflet-map",
-      "lastAccessed": 1705590983299,
+      "lastAccessed": 1709163133821,
       "markers": [
         {
           "id": "ID_f9ea29ab4b78",
@@ -248,16 +248,16 @@
           "id": "ID_3b8b9af939fb",
           "type": "default",
           "loc": [
-            -0.9021736508589462,
-            1.331520898896073
+            -0.9073361479507009,
+            1.3503248181335232
           ],
           "link": "Dephol",
           "layer": "%5B%5Bmap-00.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.4438402996320243,
-            0.3007245502863154
+            0.45010827271117443,
+            0.30244538265023363
           ],
           "description": null,
           "minZoom": null,

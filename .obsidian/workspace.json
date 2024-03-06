@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aanghakan/Main Quest - Introduction 01.md",
+                "file": "Aanghakan/Locations/The Opal Sea/Assets/locations/Swirling Strait.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.51103591918945
+    "width": 323.51103591918945
   },
   "right": {
     "id": "339a8902eecbf0a4",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aanghakan/Main Quest - Introduction 01.md",
+                "file": "Aanghakan/Locations/The Opal Sea/Assets/locations/Swirling Strait.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aanghakan/Main Quest - Introduction 01.md",
+                "file": "Aanghakan/Locations/The Opal Sea/Assets/locations/Swirling Strait.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aanghakan/Main Quest - Introduction 01.md"
+                "file": "Aanghakan/Locations/The Opal Sea/Assets/locations/Swirling Strait.md"
               }
             }
           },
@@ -207,8 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 610.5,
-    "collapsed": true
+    "width": 288.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,47 +222,46 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "f1b11b37154b623e",
+  "active": "6e6eba127e74b72d",
   "lastOpenFiles": [
-    "Aanghakan/Other/Assets/images/maps/map03.png",
+    "Aanghakan/Locations/The Green Sea/Assets/quests/The pure blooded.md",
     "Aanghakan/Other/Assets/images/maps/map02.png",
-    "Aanghakan/Other/Assets/images/maps/map01.png",
-    "Aanghakan/Other/Assets/images/cities/Esmeralda.png",
-    "Aanghakan/Factions/Tribal factions.md",
-    "Aanghakan/Factions/Triumvirate of the plains/Triumvirate of the plains.md",
-    "Aanghakan/Factions/Stonehelm clan/Assets/characters/Thenerifa.md",
-    "Aanghakan/Factions/Stonehelm clan/Assets/characters/Sir Gregor the III.md",
-    "Aanghakan/Factions/Stonehelm clan/Assets/characters/Okin the Wise.md",
-    "Aanghakan/Factions/Stonehelm clan/Assets/characters/Mell.md",
-    "Aanghakan/Factions/Stonehelm clan/Assets/characters/Gill.md",
-    "Aanghakan/Factions/Stonehelm clan/Assets/characters/Chad Stonecrest.md",
-    "Aanghakan/Factions/Stonehelm clan/Assets/characters/Carne the Brave.md",
-    "Aanghakan/Factions/Stonehelm clan/Assets/characters/Belanie Stonehelm.md",
-    "Aanghakan/Factions/Stonehelm clan/Assets/characters/Balin Stonehelm.md",
+    "Aanghakan/Other/Assets/images/maps/Dephol.png",
+    "Aanghakan/Other/Assets/images/maps/battle/country_road_encounter.png",
+    "Aanghakan/Other/Assets/images/maps/battle/Dephol_bay_battlemap.png",
+    "Aanghakan/Other/Assets/images/maps/battle/Dephol_bay_battlemap_closer.png",
+    "Aanghakan/Other/Assets/images/maps/battle/country_road_encounter_2.png",
+    "Aanghakan/Locations/The Green Sea/Assets/quests/Legends untold.md",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/The Great Forest/The Great Forest.md",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/sub-quests/The Price of Scarcity.md",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/sub-quests/Rum ahoy!.md",
+    "Aanghakan/Main Quest - Journey to the Capital 02.md",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/quests/A legend back from its grave.md",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/quests/Rumblings in the red underground.md",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/sub-quests/A secret passage.md",
+    "Aanghakan/Factions/Cult of the Abyssal Serpent/Assets/characters/The Prophet.md",
+    "Aanghakan/Locations/Thunderpeak/Assets/quests/The Siege of Thunderpeak.md",
+    "Aanghakan/Main Quest - The Hearth of the Mountain 03.md",
+    "Aanghakan/Main Quest - Introduction 01.md",
+    "Aanghakan/Main Quest - Escaping the capital 04.md",
+    "Aanghakan/Locations/The Green Sea/The Green Sea.md",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Dephol.md",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Ymburg/Ymburg.md",
     "Aanghakan/Factions/Red Star Syndicate/Red Star Syndicate.md",
-    "Aanghakan/Factions/Red Star Syndicate/Assets/characters/Sister Isolde.md",
-    "Aanghakan/Factions/Red Star Syndicate/Assets/characters/Vivienne Darkwater.md",
-    "Aanghakan/Factions/Red Star Syndicate/Assets/characters/Razaq al-Zahir.md",
-    "Aanghakan/Factions/Red Star Syndicate/Assets/characters/Malik Thorn.md",
-    "Aanghakan/Factions/Red Star Syndicate/Assets/characters/Lirael Sunweaver.md",
-    "Aanghakan/Factions/Red Star Syndicate/Assets/characters/Gustav Kozlov.md",
     "Aanghakan/Factions/Cult of the Abyssal Serpent/Cult of the abyssal serpent.md",
     "Aanghakan/Factions/Cult of the Abyssal Serpent/Assets/characters/Vespera Shadowdancer.md",
-    "Aanghakan/Factions/Cult of the Abyssal Serpent/Assets/characters/The Prophet.md",
     "Aanghakan/Factions/Cult of the Abyssal Serpent/Assets/characters/Llig the Deceiver.md",
     "Aanghakan/Factions/Cult of the Abyssal Serpent/Assets/characters/Broum the Unbreakable.md",
-    "Aanghakan/Main Quest - Introduction 01.md",
+    "Aanghakan/Locations/Aanghakan.md",
+    "Aanghakan/Locations/Azura.md",
+    "Aanghakan/Locations/Erebor.md",
+    "Aanghakan/Other/Assets/images/maps/map03.png",
+    "Aanghakan/Other/Assets/images/maps/map01.png",
+    "Aanghakan/Other/Assets/images/cities/Esmeralda.png",
     "Aanghakan/Other/Assets/images/cities/esmeralda.png",
-    "Aanghakan/Locations/The Green Sea/Assets/locations/Esmeralda/Esmeralda.md",
     "Aanghakan/Other/Assets/images/custom_monsters/tile/ps7938.tmp",
-    "AANGHA~1/Other/Assets/images/CUSTOM~1/tile/the_prophet.png",
-    "AANGHA~1/Other/Assets/images/CUSTOM~1/tile/drakonoid_assassin.png",
-    "AANGHA~1/Other/Assets/images/CUSTOM~1/tile/cultist.png",
     "AANGHA~1/Other/Assets/images/CUSTOM~1/tile",
-    "Aanghakan/Other/Assets/images/custom_monsters/tile/cultist.png",
     "Aanghakan/Other/Assets/images/custom_monsters/tile/ps147D.tmp",
-    "Aanghakan/Other/Assets/images/custom_monsters/tile/the_prophet.png",
-    "Aanghakan/Other/Assets/images/custom_monsters/tile/drakonoid_assassin.png",
     "Aanghakan/Other/Assets/images/custom_monsters/tile",
     "AANGHA~1/Other/Assets/images/other/Crystal_Caverns_manuscript",
     "AANGHA~1/Other/Assets/images/maps/battle",

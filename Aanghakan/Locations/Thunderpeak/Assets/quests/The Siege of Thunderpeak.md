@@ -27,13 +27,13 @@ The moon's light was obscured, plunging the night into a deeper darkness than th
 
 From this caravan emerged a hooded figure, garbed in dark robes stained with blood and scales resembling those of serpents. With a staff carved from bone, the figure drew ominous symbols on the ground, each radiating an otherworldly, malevolent energy. The air became thick, and the winds carried the distant, sorrowful hymns of the damned.
 
-As the climax of their ritual approached, gargantuan tentacles, scales glinting with bioluminescent patterns, erupted from the depths and anchored onto the city's walls, pulling the city closer to the chasm's edge inch by inch. 
+As the climax of their ritual approached, gargantuan tentacles, scales glinting with bioluminescent patterns, erupted from the depths and anchored onto the city's walls, pulling the city closer to the chasm's edge inch by inch and providing safe bridges for the invading forces. 
 
 The path to the city is now open.
 
 <hr>
 
-The siege is a bloody spectacle, with the enemy deploying goblins, fiends, and all manner of abhorrent creatures. Huge boulders hurtle towards the city walls, their impact absorbed by magical shields. Ladders, harpoons, and siege towers provide means to surmount the formidable city walls, a task made easier by the sheer number of the besieging forces.
+The siege is a bloody spectacle, with the enemy deploying goblins, fiends, and all manner of abhorrent creatures. Huge boulders and crab-like monsters are hurled towards the city walls, their impact partly absorbed by magical shields. Ladders, harpoons, and siege towers provide means to surmount the formidable city walls, a task made easier by the sheer number of the besieging forces.
 
 #Master-Notes Sieges are desperate times that can create moments for heroism. Whether it's a daring sortie against the enemy, a stealth mission to sabotage their siege equipment, or a powerful ritual to strengthen the city's defenses, these high-risk, high-reward scenarios can provide exciting opportunities for the characters to shine.
 

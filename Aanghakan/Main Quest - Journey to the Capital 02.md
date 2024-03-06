@@ -56,12 +56,6 @@ actions:
   
 - __A small family of refugees crosses their path, asking for aid or information:__ the refugees are a family of farmers who barely escaped the disaster at the town. They're hungry, frightened, and desperate for help. The party could choose to aid them with food, protection, or information.
 
-___________
-
-#Master-Notes  [[Ymburg]] is a simple town. Here some possible scenarios :
-
-- The city, usually bustling with activity, has been mostly evacuated due to information passed down by the survivors. The party meets a group of guards that will help them get the necessary tools and information to continue the journey.
-- The city has fallen victim to a deadly plague. The party can choose to help, avoid the city altogether, or look for the source of the plague, perhaps finding a cure.
 
 ____
 
@@ -106,6 +100,6 @@ actions:
 ```
 
 
-After reaching the city, [[Gill]] manages to contact [[Thenerifa]], informing her about what unfolded the previous day. After a seemingly endless conversation between the two held in dwarvish, the merchant returns to the party to comunicate his intention to reach the capital as soon as possible, while answering any questions about the travel the party may have.
+After reaching the city of [[Dephol]], [[Gill]] manages to contact [[Thenerifa]], informing her about what unfolded the previous day. After a seemingly endless conversation between the two held in dwarvish, the merchant returns to the party to comunicate his intention to reach the capital as soon as possible, while answering any questions about the travel the party may have.
 
 #Master-Notes The journey to the capital lasts about 2 weeks and you are free as a GM to pick and choose locations and encounters for the players from the [[The Green Sea]], the [[The Opal Sea]] or the [[Jade Mountains]] depending on which way the party decides to embark in order to reach the [[Thunderpeak|capital]].

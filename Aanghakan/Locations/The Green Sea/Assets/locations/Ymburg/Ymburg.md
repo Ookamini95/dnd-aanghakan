@@ -93,4 +93,4 @@ actions:
 ```
 
 
-#Master-Notes This town is a strategic route and enemy forces from [[The Great Fores]] will try to seize the location to have control over the [[Veiled ravine]].
+#Master-Notes This town is a strategic route and enemy forces from [[The Great Forest]] will try to seize the location to have control over the [[Veiled ravine]].

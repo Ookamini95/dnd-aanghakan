@@ -40,3 +40,5 @@ spells:
 ```
 
 [[Main Quest - Introduction 01]]
+
+#Master-Notes Most probably she dies in the introduction, if not she will work at the service of [[Llig the Deceiver]] and assume another identity at the side of [[Gill]] as an helper.

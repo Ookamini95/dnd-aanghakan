@@ -1,5 +1,11 @@
 
-The chosen of [[Elune]], a legendary warrior destined to defend the world in its darkest times. Legends talk about [[Aein]], first of [[The Chosen|the chosen]], born of the [[Giants]], and how he defeated [[Goor]], king of the Orcs, and his vast armies of chaos. Then there is [[Thein]] the second chosen, born among wolves, bearer of the [[Thousand Roots Crown]], and how he sealed away the [[Abyssal Serpent]]. Then there is [[Yaohwan]], born of Valkyrie blood, third of the chosen, protector of the people, wise diplomat and architect of the unity in [[Aanghakan]]. He died, thousands of years in the past, leaving a legacy of peace and hope.
+The chosen of [[Elune]], a legendary warrior destined to defend the world in its darkest times. 
+
+#Master-Notes  Some trivia for the introduction > 
+Legends talk about [[Aein]], first of [[The Chosen|the chosen]], born of the [[Giants]], and how he defeated [[Goor]], king of the Orcs, and his vast armies of chaos. 
+Then there is [[Thein]] the second chosen, born among wolves, bearer of the [[Thousand Roots Crown]], and how he sealed away the [[Abyssal Serpent]]. 
+Then there is [[Yaohwan]], born of Valkyrie blood, third of the chosen, protector of the people, wise diplomat and architect of the unity in [[Aanghakan]]. 
+He died, thousands of years in the past, leaving a legacy of peace and hope.
 
 But while hope yields prosperity, evil is *always* capable of seeping through the smallest gaps, corrupt the meek, build upon the dark desires of the ones left behind.
 
@@ -91,11 +97,11 @@ damage_vulnerabilities: Fire
 
 traits:
 - name: Multiattack
-- desc: The Bear makes two attacks.
+  desc: The Bear makes two attacks.
 - name: Iron Will
-- desc: The Bear has advantage on saving throws against being frightened.
+  desc: The Bear has advantage on saving throws against being frightened.
 - name: Corrupted Charge
-- desc: If the Corrupted Bear moves at least 9mt straight toward a target and then hits it with a claw attack on the same turn, the target takes an extra (2d6) slashing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
+  desc: If the Corrupted Bear moves at least 9mt straight toward a target and then hits it with a claw attack on the same turn, the target takes an extra (2d6) slashing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
 
 actions:
 - name : Bite
@@ -171,6 +177,8 @@ The cultist encampment is a trove of goods—pelts, rations, and beyond the mund
 
 > **Hank**: This is an omen... I've got a sick feeling about what's coming next.
 
+#Master-Notes Should the party decide to long rest, they may meet some reconnaissance from the Serpent's army
+
 The moment the party decides to go back, it's late afternoon and the festivities have just begun. Returning to the village will take at least 2 hours of forced march and players will be fatigued by the time they reach destination.
 
 As you make your way back to Esmeralda, the distant sounds of music and laughter gradually grow louder. As you enter the village, you find it bustling with activity and adorned with colorful decorations in preparation for the spring festivities. The town is nestled in a picturesque setting, surrounded by lush green fields and gentle rolling hills, filled with stands and people of all sorts.
@@ -225,7 +233,7 @@ size: Medium
 type: Assassin
 subtype: Drakonoid
 alignment: (Align:NE)
-ac: 24
+ac: 22
 hp: 150
 speed: 9mt
 stats: [15, 20, 16, 18, 18, 22]
@@ -285,7 +293,7 @@ She turns her gaze to the party, a wise and ancient light burning in her eyes. H
 > __Elune__ : "
 > 	Children of Esmeralda, 
 > 	you have witnessed the evil that has taken root in this land. 
-> 	My chosen one, 
+> 	My chosen ones, 
 > 	Serene, is the beacon of hope against this rising tide of chaos. She carries within the power to turn the tides, but she cannot do it alone. 
 > 	
 > 	I beseech you to protect my daughter, guide her, help her fulfill her destiny. 
