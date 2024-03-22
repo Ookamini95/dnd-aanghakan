@@ -162,7 +162,7 @@ Hidden amongst the cultist's personal effects, the party uncovers a unsettling l
 >
 >Our years of dedication and sacrifice are about to bear fruit. The army we have painstakingly amassed stands ready, a testament to our unwavering devotion to the Abyssal Serpent. The final pieces of our grand plan have fallen into place. The last of the beasts have been captured and transformed into void beings, their essence twisted to serve our divine purpose.
 >
->The march to the capital is imminent. Our forces, bolstered by the might of the void beasts, are unstoppable. The city's defenses will crumble before us, and the _Hearth_ of the city will beat in rhythm with our cause, and its pulse will echo the glory of the Abyssal Serpent.
+>The march to the capital is imminent. Our forces, bolstered by the might of the void beasts, are unstoppable. The city's defenses will crumble before us, and the _Heart_ of the city will beat in rhythm with our cause, and its pulse will echo the glory of the Abyssal Serpent.
 >
 >Let this letter serve as a reminder of our purpose and the destiny that awaits us. We are not mere followers; we are the chosen ones, the harbingers of a new era. Our actions will shape the future, and in the Abyssal Serpent's name, we will usher in a reign of darkness that will last for eternity.
 >

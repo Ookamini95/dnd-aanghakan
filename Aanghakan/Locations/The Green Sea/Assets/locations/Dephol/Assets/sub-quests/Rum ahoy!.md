@@ -2,7 +2,6 @@
 Some events may trigger
 
 
-
 - While in [[Dephol]], the players overhear a heated discussion at a local tavern. A group of frightened sailors are talking about their recent encounter with a ghostly ship manned by skeletal pirates. The sailors speak of a chilling figure leading the skeletons, a being they refer to as "one of the Skullies". In particular a survivor is convinced that the legendary [[Tribal factions|Lich Beard]] is back to haunt the waters of the Opal Sea and rumors have spread that some of those Skullies are already amongst the population.
 
 - A large shipment of refined beverages just arrived at the harbor. A closer inspections of the barrels could spot **Rum**, **Whiskey** and even some dwarven **Fire Wine**. 

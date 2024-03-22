@@ -1,1 +1,1 @@
-Leader of the Scaled Shield, this abomination of flesh is an amalgamation of meat and bones in the shape of a fearsome zombie warrior. It's weapon of choice is a column.
+Leader of the Scaled Shield, this abomination of flesh is an amalgamation of meat and bones in the shape of a fearsome zombie warrior. Its weapon of choice is a column.
