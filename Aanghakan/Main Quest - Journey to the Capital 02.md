@@ -89,7 +89,8 @@ traits:
   desc: This character emanates an aura of good around her
 - name : Thoughness
   desc : +3 hp, +1 hp/level
-
+- name : Cursed by the black blood
+  desc : The cult's has poisoned Serene with black blood, a curse that will weaken her connection to the deity and ultimately take her life. Each week she rolls the d20 and if she rolls less than 18 the curse advances a stage.
 actions:
 - name : Hammer strike
   desc : Melee Attack +6 to hit, 2d4 + 2 bludgeoning damage.
@@ -103,3 +104,4 @@ actions:
 After reaching the city of [[Dephol]], [[Gill]] manages to contact [[Thenerifa]], informing her about what unfolded the previous day. After a seemingly endless conversation between the two held in dwarvish, the merchant returns to the party to comunicate his intention to reach the capital as soon as possible, while answering any questions about the travel the party may have.
 
 #Master-Notes The journey to the capital lasts about 2 weeks and you are free as a GM to pick and choose locations and encounters for the players from the [[The Green Sea]], the [[The Opal Sea]] or the [[Jade Mountains]] depending on which way the party decides to embark in order to reach the [[Thunderpeak|capital]].
+

@@ -89,3 +89,62 @@ actions:
     desc: "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 15 (2d8 + 6) slashing damage plus 10 (3d6) fire damage."
 challenge: 11 (7,200 XP)
 ```
+
+
+
+hello gpt could you describe very powerful undead enemies for dnd campaign? They are the "skullies" undead pirates under the service of Lich Beard : I need something that can challenge a party of 5 people. The skullies are litteraly normal humanoids but cursed (like pirates of the carabean) so the sets of skills should be "player like". Also I need you to focus on the feats and actions (put spells in actions to simplify) from dnd 5e and fill out this as a form ```statblock 
+image: [] 
+name: Enemy_Name 
+string size: "Small" | "Medium" | "Large" 
+type: Enemy_Type string 
+subtype: Enemy_Subtype 
+string alignment: Enemy_Alignment "LE" | "CE" .... (caotic, legal, neutral, good, evil....) 
+ac: Enemy_AC number 
+hp: Enemy_HP number 
+speed: Enemy_Speed string(+"mt") 
+stats: [STR, DEX, CON, INT, WIS, CHA] 
+saves: - Fortitude : Enemy_Fort number - Reflex : Enemy_Reflex number - Will : Enemy_Will number 
+skillsaves: - Climb: +4 - Intimidate: +7 - Perception: +3 damage_vulnerabilities: Fire 
+traits: - name: Multiattack desc: The Bear makes two attacks. - name: Iron Will desc: The Bear has advantage on saving throws against being frightened... - name: Corrupted Charge desc: If the Corrupted Bear moves at least 9mt straight toward a target and then hits it with .... - name : Example string desc : Example_test string 
+actions: - name : Bite desc : Melee Attack +8 to hit, 1d8 + 5 piercing damage. - name : Claws desc : Melee Attack +8 to hit 2d6 + 5 slashing damage. - name : Example string desc : Example_test string ```
+
+
+```statblock
+image: []
+name: Skully Raider
+size: Medium
+type: Undead
+subtype: Pirate
+alignment: CE (Chaotic Evil)
+ac: 17
+hp: 75
+speed: 30ft
+stats: [16, 14, 16, 12, 11, 13]
+saves:
+  - Fortitude: +5
+  - Reflex: +4
+  - Will: +3
+skillsaves:
+  - Acrobatics: +5
+  - Intimidation: +4
+  - Perception: +4
+damage_vulnerabilities: b
+traits:
+- name: Multiattack
+  desc: The Skully Raider makes two weapon attacks.
+- name: Undead Fortitude
+  desc: If damage reduces the Skully Raider to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is fire or radiant. On a success, the Skully Raider drops to 1 hit point instead.
+- name: Cursed Blade
+  desc: Any melee attack made by the Skully Raider is considered magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+- name: Fearless Marauder
+  desc:  The Skully Raider must be under fullmoon light to benefit from this trait. The Skully Raider has advantage on saving throws against being frightened and can move through other creatures and objects as if they were difficult terrain. It does not provocate attacks of opportunity but takes 1d4 force damage if it ends its turn inside an object.
+actions:
+  - name: Cutlass Slash
+    desc: Melee Weapon Attack +6 to hit, reach 5 ft., one target. Dmg 1d6 + 4 slashing damage plus  1d8 necrotic damage.
+  - name: Pistol Shot
+    desc: Ranged Weapon Attack +5 to hit, range 30/90 ft., one target. Dmg 9 1d10 + 4 piercing damage. The Skully Raider can't use Pistol Shot again until it completes a short or long rest.
+  - name: Throwable net
+    desc: Ranged Weapon Attack +5 to hit, reach 10 ft., one target. Dmg 1d4 damage, and the target is grappled (escape DC 15). The Skully Raider can't use this ability again until it completes a short or long rest.
+```
+
+
