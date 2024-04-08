@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aanghakan/Locations/The Opal Sea/Assets/locations/Swirling Strait.md",
+                "file": "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/quests/Rumblings in the red underground.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/quests/A legend back from its grave.md",
+                "file": "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/quests/Rumblings in the red underground.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/quests/A legend back from its grave.md",
+                "file": "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/quests/Rumblings in the red underground.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/quests/A legend back from its grave.md"
+                "file": "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/quests/Rumblings in the red underground.md"
               }
             }
           },
@@ -234,24 +235,28 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "f1b11b37154b623e",
+  "active": "d24a5638be7e021e",
   "lastOpenFiles": [
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/quests/A legend back from its grave.md",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/characters/Cpt. Spugna.md",
+    "Aanghakan/Locations/The Opal Sea/Assets/locations/Swirling Strait.md",
     "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/quests/Rumblings in the red underground.md",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Dephol.md",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/characters/Untitled",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/characters",
+    "Aanghakan/Locations/The Green Sea/The Green Sea.md",
     "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/sub-quests/Rum ahoy!.md",
     "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/sub-quests/A secret passage.md",
+    "Aanghakan/Main Quest - Journey to the Capital 02.md",
+    "Aanghakan/Main Quest - The Hearth of the Mountain 03.md",
     "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/sub-quests/Speak Easy.md",
     "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/sub-quests/The Price of Scarcity.md",
-    "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Dephol.md",
-    "Aanghakan/Locations/The Opal Sea/Assets/locations/Swirling Strait.md",
     "Aanghakan/Locations/The Opal Sea/The Opal Sea.md",
     "Aanghakan/Locations/The Green Sea/Assets/locations/Crestwood/Crestwood.md",
     "Aanghakan/Locations/The Green Sea/Assets/locations/Esmeralda/Assets/characters/Hank.md",
-    "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/quests/A legend back from its grave.md",
     "Test Plugins.md",
     "Aanghakan/Main Quest - Introduction 01.md",
-    "Aanghakan/Main Quest - Journey to the Capital 02.md",
     "Aanghakan/Locations/Thunderpeak/Assets/side-quests/Missing Child.md",
-    "Aanghakan/Main Quest - The Hearth of the Mountain 03.md",
     "Aanghakan/Locations/Aanghakan.md",
     "Main Quest.md",
     "Aanghakan/Factions/Cult of the Abyssal Serpent/Assets/characters/Llig the Deceiver.md",
@@ -259,15 +264,12 @@
     "Aanghakan/Factions/Cult of the Abyssal Serpent/Assets/characters/Vespera Shadowdancer.md",
     "Aanghakan/Factions/Cult of the Abyssal Serpent/Assets/characters/The Prophet.md",
     "Aanghakan/Other/Folklore and History/Thousand Roots Crown.md",
-    "Aanghakan/Locations/The Green Sea/Assets/quests/The pure blooded.md",
     "Aanghakan/Other/Assets/images/maps/map02.png",
     "Aanghakan/Other/Assets/images/maps/Dephol.png",
     "Aanghakan/Other/Assets/images/maps/battle/country_road_encounter.png",
     "Aanghakan/Other/Assets/images/maps/battle/Dephol_bay_battlemap.png",
     "Aanghakan/Other/Assets/images/maps/battle/Dephol_bay_battlemap_closer.png",
     "Aanghakan/Other/Assets/images/maps/battle/country_road_encounter_2.png",
-    "Aanghakan/Locations/The Green Sea/Assets/quests/Legends untold.md",
-    "Aanghakan/Locations/The Green Sea/Assets/locations/The Great Forest/The Great Forest.md",
     "Aanghakan/Other/Assets/images/maps/map03.png",
     "Aanghakan/Other/Assets/images/maps/map01.png",
     "Aanghakan/Other/Assets/images/cities/Esmeralda.png",
@@ -279,8 +281,6 @@
     "AANGHA~1/Other/Assets/images/other/Crystal_Caverns_manuscript",
     "AANGHA~1/Other/Assets/images/maps/battle",
     "AANGHA~1/Other/Assets/images/custom_monsters/smoll",
-    "AANGHA~1/Other/Singleton Characters/Vex/Vex.pdf",
-    "AANGHA~1/Other/Singleton Characters/Vex/Vex-feats.pdf",
-    "AANGHA~1/Other/Singleton Characters/Vex/Vex-cs.pdf"
+    "AANGHA~1/Other/Singleton Characters/Vex/Vex.pdf"
   ]
 }

@@ -1,1 +1,1 @@
-Here powerful currents may sway the ship to a perilous end,
+Here powerful currents may sway the ship to a perilous end, dense fog makes hard to see incoming threats

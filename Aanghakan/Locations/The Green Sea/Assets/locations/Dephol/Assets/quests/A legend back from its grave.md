@@ -58,3 +58,6 @@ actions:
   - name: Throwable net
     desc: Ranged Weapon Attack +5 to hit, reach 10 ft., one target. Dmg 1d4 damage, and the target is grappled (escape DC 15). The Skully Raider can't use this ability again until it completes a short or long rest.
 ```
+
+
+#Master-Notes Among the equipment of the skullies, a *wand of major restoration* with one use can be found. Enough to mend one ship!
