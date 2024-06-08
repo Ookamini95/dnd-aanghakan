@@ -1,0 +1,2 @@
+- **Elena di Cicilia**: A merchant leader who opposes The Prophet. She could provide players with vital information or aid > has a dog.
+- **Marco, The Silent Blade**: A former bodyguard to king Henrich, now turned mercenary. He has no love for the current ruler but despises The Prophet even more.

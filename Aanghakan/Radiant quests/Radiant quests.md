@@ -1,0 +1,1 @@
+Radiant quests are quests that can be taken anywhere, anytime, which makes them very flexible.

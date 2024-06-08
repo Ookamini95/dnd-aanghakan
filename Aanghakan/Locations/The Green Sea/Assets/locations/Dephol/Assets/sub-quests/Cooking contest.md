@@ -1,55 +1,6 @@
+A cooking contest is underway and first price is 5 gold coins and a magic recipes book.
 
-
-## Aanghakan - A Pathfinder Adventure
-
-TODO - Readme
-
-This is a pathfinder adventure.
-
-Main Story
-TODO
-
-Other information
-TODO
-
-Authors
-
-Ookami95, Gluca96
-
-
-@ Gluca, se muoro
-
-Ecco come inizio una nota esempio :
-
-
-Long before the [[Age of the Heroes|age of heroes]], myths narrate the beginning of this universe as a tale of () and (). The ancient god Eon, master of birth and (), (was apparently running from an ancient being, talk about it in a myth like fashion -> you may loosely get inspiration from god of war)
-
-
-e dopo prompto
-
-Complete the blanks and the descriptive blanks in the following text. You have full artistic freedom on both the blank and the normal text :
-
-
-
-Custom rules (some optional rules) :
-
-- Baldur gate 3 custom rules ... #TODO 
-- Expedition : some players may decide to send their pg to an expedition (discussed with the DM). In the meanwhile they will be allowed to use a lower level pg created with the DM. When both characters are present, the player MUST use its original character.
-
-Additional links :
-
-- Top down VTT resources > https://www.forgotten-adventures.net/
-- Top down VTT battle maps > https://www.pinterest.it/marcosmauney/top-down-battle-maps/
-
-HOW to play Serene :
-
-- Less skilled party always needs an experienced team mate.
-- More skilled party can use Serene as an information point. Thus Serene should be played "as much as needed" > players can assign her complex roles > Serene will by default hang around religious institutions (orphanages, churches...)
-
-
-Other
-
-Let me know what you think. I'd love to hear you're suggestions.
+#Master-Notes  The content of the book are the following:
 
 1. Bardic Brandy of Bazoon  
     DC20 brewer's kit proficiency check  
@@ -84,7 +35,7 @@ Let me know what you think. I'd love to hear you're suggestions.
 7. Doppleganger Vindaloo  
     DC25 cooking utensils proficiency check  
     Requires one hour to prepare and sells for 10gp per serving. Meal must be consumed within one hour of preparation to benefit from any special effects. Effects: gain +2 charisma, and the ability to cast Alter Self at will.  
-    Risk: if doppleganger flesh is cooked imperfectly it can have volitile side effects. If the cooking utensils check is below the DC25 difficulty, the character eating the meal must roll a constitution save DC15. On a success, the meal has no effect. On a failure the character appears to gain all the benefits of the meal but also becomes afflicted by the doppelganger's curse. Each night they are afflicted by strange nightmares they are unable to gain benefits from a short or long rest and will acquire a level of exhaustion each day. At the point where they would gain their sixth level of exhaustion, roll a d20: 1-9 the character dies, replaced with a doppleganger who retains all of their memories 10-19 the character instead gains three points of madness and regains the ability to sleep soundly 20 the character recovers completely and perminantly gains the ability to cast alter self at will and their creature type becomes aberration.
+    Risk: if doppelganger flesh is cooked imperfectly it can have volatile side effects. If the cooking utensils check is below the DC25 difficulty, the character eating the meal must roll a constitution save DC15. On a success, the meal has no effect. On a failure the character appears to gain all the benefits of the meal but also becomes afflicted by the doppelganger's curse. Each night they are afflicted by strange nightmares and they are unable to gain benefits from a short or long rest and will acquire a level of exhaustion each day. At the point where they would gain their sixth level of exhaustion, roll a d20: 1-9 the character dies, replaced with a doppelganger who retains all of their memories 10-19 the character instead gains three points of madness and regains the ability to sleep soundly 20 the character recovers completely and permanently gains the ability to cast alter self at will and their creature type becomes aberration.
     
 8. Espresso Shot  
     DC15 brewer's kit proficiency check  

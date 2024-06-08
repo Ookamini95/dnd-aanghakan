@@ -1,0 +1,9 @@
+Giovanna "GioGio" Brando is a young dwarven female of the finest intellects, a prodigy in her field who combines the robust traditions of dwarven craft with the esoteric arts of geomancy and alchemy. Raised in the shadow of her father, the legendary alchemist Giovanella Brando, GioGio has always been surrounded by mystical tomes and potent artifacts, instilling in her a deep reverence for the powers that govern the natural and magical worlds.
+
+Despite her youth, GioGio has inherited not only her father’s intense curiosity but also his knack for innovation. In the cluttered yet surprisingly orderly chaos of her cellar laboratory, she toils tirelessly, continuing her father’s research into the mystical properties of stones. Her focus is on developing a new kind of magical technology that can harness these properties more efficiently and safely than ever before.
+
+Her most notable achievement so far is the creation of an aerolith crystal—a gem capable of holding and extending cantrip-level spells to unprecedented durations. This groundbreaking prototype can sustain simple spells like *mage hand* or *gust* for a full day, transforming these basic spells into tools of immense utility and potential.
+
+GioGio's experiments are not without risks. The profound energies she manipulates are as dangerous as they are wondrous, a fact she knows all too well from the unexplained disappearance of her father. His last known project, shrouded in secrecy, was rumored to involve a powerful artifact that could change the very foundations of magic and science.
+
+Armed with her intellect, her father’s Codex, and a fierce determination to advance her craft while uncovering the fate of her father, GioGio is poised to make her mark on the world. Her discoveries could usher in a new era of magical innovation—if she can navigate the dangers that come with such power.

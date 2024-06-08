@@ -25,7 +25,3 @@ This is grave news, as retrieving the gem may prove a challenge: the entrance to
 
 #Quest [[The Siege of Thunderpeak]] - [[The Lost Mines of Thunderpeak]]
 
-**The Siege’s Challenges**:
-
-- As Thunderpeak is under siege, leaving the city undetected will be the adventurers' first obstacle. There are secret passages, known only to a few dwarven elders, that lead outside the city.
-- The cult assassins are eliminating key members of the city, and our expedition party could be targeted.

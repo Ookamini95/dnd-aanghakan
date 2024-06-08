@@ -45,16 +45,18 @@ traits:
 - name: Multiattack
   desc: The Skully Raider makes two weapon attacks.
 - name: Undead Fortitude
-  desc: If damage reduces the Skully Raider to 0 hit points, it must make a Fortitude saving throw with a DC of 5+the damage taken, unless the damage is fire or radiant. On a success, the Skully Raider drops to 1 hit point instead.
+  desc: If damage reduces the Skully Raider to 0 hit points, it must make a Fortitude saving throw with a DC of 5+the damage taken, unless the damage is fire or radiant. On a success, the Skully Raider drops to 1 hit point instead (once per long rest).
 - name: Cursed Blade
   desc: Any melee attack made by the Skully Raider is considered magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 - name: Fearless Marauder
-  desc:  The Skully Raider must be under fullmoon light to benefit from this trait. The Skully Raider has advantage on saving throws against being frightened and can move through other creatures and objects as if they were difficult terrain. It does not provocate attacks of opportunity but takes 1d4 force damage if it ends its turn inside an object.
+  desc:  The Skully Raider must be under fullmoon light to benefit from this trait. The Skully Raider has advantage on saving throws against being frightened and is immune to difficult terrain can move through other creatures and objects as if they were "difficult terrain". It does not provocate attacks of opportunity but both take 1d4 force damage if it ends its turn inside an object.
+- name: Lich's influence
+  desc: The Skully Raider must be under fullmoon light to benefit from this trait. The raider has resistance 2/- and every attack has a 1/20 chance to fail.
 actions:
   - name: Cutlass Slash
     desc: Melee Weapon Attack +6 to hit, reach 5 ft., one target. Dmg 1d6 + 4 slashing damage plus  1d8 necrotic damage.
   - name: Pistol Shot
-    desc: Ranged Weapon Attack +5 to hit, range 30/90 ft., one target. Dmg 9 1d10 + 4 piercing damage. The Skully Raider can't use Pistol Shot again until it completes a short or long rest.
+    desc: Ranged Weapon Attack +5 to hit, range 30/90 ft., one target. Dmg 9 1d10 + 4 piercing damage. The Skully Raider can't use Pistol Shot again until it takes a bonus action to reload.
   - name: Throwable net
     desc: Ranged Weapon Attack +5 to hit, reach 10 ft., one target. Dmg 1d4 damage, and the target is grappled (escape DC 15). The Skully Raider can't use this ability again until it completes a short or long rest.
 ```

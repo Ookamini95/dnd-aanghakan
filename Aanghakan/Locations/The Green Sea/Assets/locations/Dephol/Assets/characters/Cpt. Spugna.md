@@ -4,7 +4,7 @@ While Cadenza, with his merry crew and the tune of his violin, roamed the seas i
 
 Faced with the relentless pursuit of powerful forces and the danger it posed to his crew and ship, Cadenza decided that the wisest course of action was to disappear from the spotlight, at least temporarily. Thus, he staged his own demise in a spectacularly orchestrated shipwreck, rumored to be caused by a monstrous sea creature. As the tales of his tragic end spread, Cadenza assumed the guise of a humble sailor named "Spugna."
 
-#Master-Notes He's well versed in the art of trade, he's got a friend of a friend that can procure a ship > the cheapest is a shipwreck costed around 150 gold coins.
+#Master-Notes He's well versed in the art of trade, he's got a friend of a friend that can procure a ship... with a caveat: the cheapest is a shipwreck costs around 150 gold coins and needs some... maintenance.
 
 ```statblock
 image: []
@@ -34,7 +34,7 @@ traits:
 - name: Fabled Captain
   desc: Cadenza's renown as a captain grants him advantage on Charisma (Persuasion) checks when dealing with sailors, pirates, and sea creatures.
 - name: Siren's Call
-  desc: Cadenza Seastar can cast 'Charm Person' once per day using his violin as a focus. The charm effect lasts twice as long when used at sea.
+  desc: Cadenza Seastar can cast 'Charm Person' once per day using his violin as a focus. The charm effect is effective to marine creatures and lasts twice as long when used at sea.
 actions:
   - name: Rapier Flourish
     desc: Melee Weapon Attack +8 to hit, reach 5 ft., one target. Dmg 1d8 + 4 piercing damage. On a hit, Cadenza can inspire one ally within sight, granting them a Bardic Inspiration die (1d8).

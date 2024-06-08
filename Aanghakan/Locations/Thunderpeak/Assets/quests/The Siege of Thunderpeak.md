@@ -44,3 +44,10 @@ The resilience of the dwarven fortress of Thunderpeak shines through. Impenetrab
 <hr>
 
 As the celebrations rage on, our heroes decide what to do next, while a familiar figure is calmly approaching the party. [[Okin the Wise|Okin]] is the bearer of [[The Lost Mines of Thunderpeak|great news]], as a matter of great importance has arisen from the [[Royal archives]], and will lead the party to the [[Stonehelm's clan Stronghold]] in order to meet the [[Balin Stonehelm|king himself]].
+
+
+**The Siege’s Challenges**:
+
+- As Thunderpeak is under siege, leaving the city undetected will be the adventurers' first obstacle. There are secret passages, known only to a few dwarven elders, that lead outside the city.
+- The cult assassins are eliminating key members of the city, and our expedition party could be targeted.
+- The enemy forces are using live munitions: crab like aberration, made of stone and flesh.
