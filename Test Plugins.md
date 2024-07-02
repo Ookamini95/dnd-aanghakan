@@ -92,7 +92,7 @@ challenge: 11 (7,200 XP)
 
 
 
-hello gpt could you describe very powerful undead enemies for dnd campaign? They are the "skullies" undead pirates under the service of Lich Beard : I need something that can challenge a party of 5 people. The skullies are litteraly normal humanoids but cursed (like pirates of the carabean) so the sets of skills should be "player like". Also I need you to focus on the feats and actions (put spells in actions to simplify) from dnd 5e and fill out this as a form ```statblock 
+hello gpt could you describe very powerful undead enemies for dnd campaign? They are the "skullies" undead pirates under the service of Lich Beard : I need something that can challenge a party of 5 people. The skullies are literally normal humanoids but cursed (like pirates of the Caribbean) so the sets of skills should be "player like". Also I need you to focus on the feats and actions (put spells in actions to simplify) from dnd 5e and fill out this as a form ```statblock 
 image: [] 
 name: Enemy_Name 
 string size: "Small" | "Medium" | "Large" 
@@ -147,4 +147,49 @@ actions:
     desc: Ranged Weapon Attack +5 to hit, reach 10 ft., one target. Dmg 1d4 damage, and the target is grappled (escape DC 15). The Skully Raider can't use this ability again until it completes a short or long rest.
 ```
 
+```statblock
+name: Frostfire Drake
+size: Huge
+type: Dragon
+subtype: Elemental
+alignment: Neutral
+ac: 19 (Natural Armor)
+hp: 230 (20d12 + 100)
+speed: 40 ft., fly 80 ft.
+stats: [24, 12, 21, 16, 14, 18]
+saves:
+  - strength: +11
+  - constitution: +10
+  - wisdom: +7
+  - charisma: +9
+skillsaves:
+  - perception: +10
+  - stealth: +5
+damage_resistances: Fire, Cold
+damage_immunities: Fire, Cold
+condition_immunities: Charmed, Frightened
+senses: Darkvision 120 ft., Passive Perception 20
+languages: Draconic, Common
+cr: 16
+traits:
+- name: Frostfire Aura
+  desc: At the start of each of the drake's turns, each creature within 10 feet of it takes 10 (3d6) fire damage and 10 (3d6) cold damage, and flammable objects in the aura that aren't being worn or carried ignite.
+- name: Ice and Fire Breath (Recharge 5-6)
+  desc: The drake exhales a blast of frostfire in a 60-foot cone. Each creature in that area must make a DC 19 Dexterity saving throw, taking 70 (20d6) fire and cold damage on a failed save, or half as much damage on a successful one.
+- name: Legendary Resistance (3/Day)
+  desc: If the drake fails a saving throw, it can choose to succeed instead.
+actions:
+- name: Multiattack
+  desc: The drake makes three attacks: one with its bite and two with its claws.
+- name: Bite
+  desc: Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 19 (2d10 + 8) piercing damage plus 9 (2d8) fire damage and 9 (2d8) cold damage.
+- name: Claw
+  desc: Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 15 (2d6 + 8) slashing damage.
+legendary_actions:
+- name: Detect
+  desc: The drake makes a Wisdom (Perception) check.
+- name: Wing Attack (Costs 2 Actions)
+  desc: The drake beats its wings. Each creature within 10 feet of the drake must succeed on a DC 21 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The drake can then fly up to half its flying speed.
+```
 
+https://discordjs.guide/preparations/adding-your-bot-to-servers.html#creating-and-using-your-invite-link

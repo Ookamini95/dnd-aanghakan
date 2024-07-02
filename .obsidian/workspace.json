@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aanghakan/Radiant quests/quests/Revolution!!!.md",
+                "file": "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/characters/Cpt. Spugna.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aanghakan/Radiant quests/quests/Revolution!!!.md",
+                "file": "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/characters/Cpt. Spugna.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aanghakan/Radiant quests/quests/Revolution!!!.md",
+                "file": "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/characters/Cpt. Spugna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aanghakan/Radiant quests/quests/Revolution!!!.md"
+                "file": "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/characters/Cpt. Spugna.md"
               }
             }
           },
@@ -224,37 +224,40 @@
   },
   "active": "f1b11b37154b623e",
   "lastOpenFiles": [
-    "Aanghakan/Main Quest - Journey to the Capital 02.md",
-    "Aanghakan/Radiant quests/quests/Revolution!!!.md",
+    "Aanghakan/Other/Assets/images/maps/battle/cemetery_map.png",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/sub-quests/A secret passage.md",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/sub-quests/The Price of Scarcity.md",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/The Great Forest/Assets/quests/Encampment C - The Torture Thicket.md",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/The Great Forest/Assets/quests/Encampment B - The Armory Grove.md",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/The Great Forest/Assets/quests/Encampment A - The Explosive's Nest.md",
+    "Test Plugins.md",
+    "Readme.md",
     "Aanghakan/Main Quest - Introduction 01.md",
-    "Aanghakan/Main Quest - The Hearth of the Mountain 03.md",
-    "Aanghakan/Locations/Thunderpeak/Assets/quests/The Siege of Thunderpeak.md",
+    "Aanghakan/Main Quest - Escaping the capital 04.md",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/The Great Forest/Assets/quests/Echoes of the Treetops.md",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/The Great Forest/Assets/locations/Veiled ravine.md",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/The Great Forest/Assets/locations/Aerilath's Rest.md",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Esmeralda/Esmeralda.md",
     "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/quests/Rumblings in the red underground.md",
     "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/quests/A legend back from its grave.md",
-    "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/sub-quests/A secret passage.md",
-    "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/sub-quests/Cooking contest.md",
     "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/sub-quests/Rum ahoy!.md",
-    "Aanghakan/Radiant quests/quests/characters/Giovanna GioGio Brando.md",
-    "Aanghakan/Main Quest - Escaping the capital 04.md",
-    "Aanghakan/Radiant quests/quests/characters",
-    "Aanghakan/Radiant quests/Radiant quests.md",
-    "Aanghakan/Radiant quests/quests",
-    "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/characters/Cpt. Spugna.md",
-    "Aanghakan/Radiant quests",
-    "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Dephol.md",
-    "Aanghakan/Factions/Cult of the Abyssal Serpent/Cult of the abyssal serpent.md",
-    "Aanghakan/Factions/Stonehelm clan/Assets/characters/Carne the Brave.md",
-    "Aanghakan/Factions/Stonehelm clan/Assets/characters/Mell.md",
-    "Aanghakan/Factions/Stonehelm clan/Assets/characters/Belanie Stonehelm.md",
-    "Aanghakan/Locations/Erebor.md",
-    "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/sub-quests/The Price of Scarcity.md",
-    "Aanghakan/Other/Assets/images/cities/Dephol.png",
     "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/sub-quests/Speak Easy.md",
-    "Readme.md",
-    "Aanghakan/Locations/The Opal Sea/Assets/locations/Hidden Archipelago.md",
+    "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/sub-quests/Cooking contest.md",
+    "Aanghakan/Other/Singleton Characters/Vex/Vex.md",
+    "Aanghakan/Other/Singleton Characters/Vex/stockensprotz_bubblepunk_mousegirl_and_goth_catboy_lost_in_a_st_6721aa31-6aa0-457d-a354-ab1f86bd2736.png",
+    "Aanghakan/Other/Singleton Characters/Vex/ookami4130_Visualize_Lord_Cantrocas_the_legendary_figure_from_t_bebeba61-c8a8-4522-8759-e3fb5349299b.png",
+    "Aanghakan/Other/Singleton Characters/Vex/ookami4130_Visualize_Lord_Cantrocas_the_legendary_figure_from_t_4284f2a9-45c0-4972-91a0-8b4ddcbaf924.png",
+    "Aanghakan/Radiant quests/Radiant quests.md",
+    "Aanghakan/Radiant quests/quests/Revolution!!!.md",
+    "Aanghakan/Radiant quests/quests/characters/Giovanna GioGio Brando.md",
+    "Aanghakan/Main Quest - Journey to the Capital 02.md",
+    "Aanghakan/Main Quest - The Hearth of the Mountain 03.md",
+    "Aanghakan/Locations/Thunderpeak/Assets/quests/The Siege of Thunderpeak.md",
+    "Aanghakan/Radiant quests/quests/characters",
+    "Aanghakan/Radiant quests/quests",
+    "Aanghakan/Radiant quests",
+    "Aanghakan/Other/Assets/images/cities/Dephol.png",
     "Aanghakan/Other/Assets/images/maps/map-00.png",
-    "Aanghakan/Locations/The Opal Sea/Assets/locations/Swirling Strait.md",
-    "Aanghakan/Locations/The Opal Sea/Assets/locations/Dekka/Dekka.md",
     "Aanghakan/Locations/The Opal Sea/Assets/locations/Cicilia/Assets/quests",
     "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/characters/Untitled",
     "Aanghakan/Locations/The Green Sea/Assets/locations/Dephol/Assets/characters",
@@ -263,9 +266,6 @@
     "Aanghakan/Other/Assets/images/maps/battle/country_road_encounter.png",
     "Aanghakan/Other/Assets/images/maps/battle/Dephol_bay_battlemap.png",
     "Aanghakan/Other/Assets/images/maps/battle/Dephol_bay_battlemap_closer.png",
-    "Aanghakan/Other/Assets/images/maps/battle/country_road_encounter_2.png",
-    "Aanghakan/Other/Assets/images/maps/map03.png",
-    "Aanghakan/Other/Assets/images/maps/map01.png",
     "Aanghakan/Other/Assets/images/custom_monsters/tile/ps7938.tmp",
     "AANGHA~1/Other/Assets/images/CUSTOM~1/tile",
     "Aanghakan/Other/Assets/images/custom_monsters/tile/ps147D.tmp",

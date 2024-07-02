@@ -17,8 +17,8 @@ Deep within the darkest part of the forest lies The Torture Thicket, an encampme
 
 
 #Master-Notes:
-- The environment here is designed to be psychologically taxing on the players. The sights and sounds should convey a sense of dread and moral dilemma.
-- Stealth and cunning are highly recommended. Direct confrontation might be overwhelming due to the sadistic nature of the enemies.
+- The environment here is designed to be psychologically taxing on the players. The sights and sounds should convey a sense of dread.
+- Stealth and cunning are highly recommended. Direct confrontation might be overwhelming due to the dangerous nature of the enemies.
 - Freeing prisoners could provide allies or at least distractions during a critical moment.
 - Targeting the leaders could deal a significant blow to the camp’s operations but expect them to be formidable opponents.
 - The moral implications of engaging with such a camp should be considered, as it could impact the characters' alignments and future interactions in the campaign.
